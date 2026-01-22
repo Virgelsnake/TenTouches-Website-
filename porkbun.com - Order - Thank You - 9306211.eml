@@ -1,0 +1,262 @@
+Received: from CW1P265MB7711.GBRP265.PROD.OUTLOOK.COM (2603:10a6:400:202::14)
+ by CWXP265MB3480.GBRP265.PROD.OUTLOOK.COM with HTTPS; Thu, 22 Jan 2026
+ 14:23:41 +0000
+Received: from LO0P265CA0005.GBRP265.PROD.OUTLOOK.COM (2603:10a6:600:355::10)
+ by CW1P265MB7711.GBRP265.PROD.OUTLOOK.COM (2603:10a6:400:202::14) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9542.11; Thu, 22 Jan
+ 2026 14:23:39 +0000
+Received: from LN2PEPF000100CD.GBRP265.PROD.OUTLOOK.COM
+ (2603:10a6:600:355:cafe::8d) by LO0P265CA0005.outlook.office365.com
+ (2603:10a6:600:355::10) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.20.9542.11 via Frontend Transport; Thu,
+ 22 Jan 2026 14:23:35 +0000
+Authentication-Results: spf=pass (sender IP is 54.71.62.227)
+ smtp.mailfrom=porkbun.com; dkim=pass (signature was verified)
+ header.d=porkbun.com;dmarc=pass action=none
+ header.from=porkbun.com;compauth=pass reason=100
+Received-SPF: Pass (protection.outlook.com: domain of porkbun.com designates
+ 54.71.62.227 as permitted sender) receiver=protection.outlook.com;
+ client-ip=54.71.62.227; helo=transactional1.porkbun.com; pr=C
+Received: from transactional1.porkbun.com (54.71.62.227) by
+ LN2PEPF000100CD.mail.protection.outlook.com (10.167.240.7) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.9564.3 via Frontend Transport; Thu, 22 Jan 2026 14:23:39 +0000
+Received: from porkbun.com (ip-172-31-33-37.us-west-2.compute.internal [172.31.33.37])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(Client did not present a certificate)
+	(Authenticated sender: support@porkbun.com)
+	by transactional1.porkbun.com (Postfix) with ESMTPSA id 5EB7244BA5;
+	Thu, 22 Jan 2026 14:23:37 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=porkbun.com;
+	s=default; t=1769091817;
+	bh=KCw5CS2/aLjeRgCK4oeZ/ea2jK7J+J5+JeOs9VP9hBM=;
+	h=Date:To:From:Subject;
+	b=ewI1pdYbcGsrnrpxp/+e8sDPflxd9fc9RagTa8zsNj2dE5VurNLpbkLX1ibc6PsCB
+	 2t/dWD8CbT6wMe1viygvweB8WTMsBDsA4GcTDCKEfIKeRbwxgEYeP0qr2KX4YlKKOv
+	 3X9fGfv1FiaDdy2yMOaIPuwCnqPez+LdWUxxzCbU=
+Date: Thu, 22 Jan 2026 14:23:37 +0000
+To: manage.account@digitaltechnologypartner.ai
+From: "Porkbun Support Dept." <support@porkbun.com>
+Subject: porkbun.com | Order - Thank You - 9306211
+Message-ID: <CvP6uq7EgksYOx0rne8KtntCsb6Z9qxzKhVo44pM@porkbun.com>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Return-Path: support@porkbun.com
+X-MS-Exchange-Organization-ExpirationStartTime: 22 Jan 2026 14:23:39.4176
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: bfc2778a-1229-42bb-628c-08de59c1d66c
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: b1aceaef-fc95-4bdf-a6d5-3afd54daffae:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: LN2PEPF000100CD:EE_|CW1P265MB7711:EE_|CWXP265MB3480:EE_
+X-MS-Exchange-Organization-AuthSource: LN2PEPF000100CD.GBRP265.PROD.OUTLOOK.COM
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id: bfc2778a-1229-42bb-628c-08de59c1d66c
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:2;ARA:13230040|5073199012|4123199012|5063199012|1032899013|69100299015|12012899012|3072899012|5062899012|2092899012|2066899003|8096899003|13003099007;
+X-Forefront-Antispam-Report: CIP:54.71.62.227;CTRY:US;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:transactional1.porkbun.com;PTR:transactional1.porkbun.com;CAT:NONE;SFS:(13230040)(5073199012)(4123199012)(5063199012)(1032899013)(69100299015)(12012899012)(3072899012)(5062899012)(2092899012)(2066899003)(8096899003)(13003099007);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 22 Jan 2026 14:23:39.0814
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: bfc2778a-1229-42bb-628c-08de59c1d66c
+X-MS-Exchange-CrossTenant-Id: b1aceaef-fc95-4bdf-a6d5-3afd54daffae
+X-MS-Exchange-CrossTenant-AuthSource: LN2PEPF000100CD.GBRP265.PROD.OUTLOOK.COM
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CW1P265MB7711
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.3072014
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.9542.003
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944490095)(944506478)(944626604)(4710137)(4713098)(4714117)(4999163)(920097)(930201)(20251009114)(140003);
+X-Microsoft-Antispam-Message-Info:
+	=?iso-8859-1?Q?bKumUKsRH4LPHn6Kcg79YYPvQrzI9YK8mLAzTgkoI+tesJuOQFiQu0Wy0H?=
+ =?iso-8859-1?Q?nZRLo74ucpZrKxdo6zoNMaHkApwFwBcNEkihDrZ5JKNxGXUbIUnU/z9c8d?=
+ =?iso-8859-1?Q?dPPzw8Nzp9Zlo2fFjGdFVOF4YQmwf/l3VUG52ljqhNiqAXSgeKYorG2rfQ?=
+ =?iso-8859-1?Q?oSc1SeBaqfudUQHGG1BiaMCcMOUstdgyDFjAqvtlPouigMhX6bTE3oAyIg?=
+ =?iso-8859-1?Q?AdNjdL1X7Zcbt9lb1M/EWyvOrhI5NjItsZEdwdhGZOvUUkChNVdXqTpVuO?=
+ =?iso-8859-1?Q?dUcN9IcweXYCCqPJJIBLHfv7LYCBYdqOKE7fnUE7uuW20pBFxXaKXz8Ypp?=
+ =?iso-8859-1?Q?8q2UKK8aaEfKwxdpHOIi0ocgBQjEA8FuwN2G9Clj749I/kkoTOqTBkI83s?=
+ =?iso-8859-1?Q?jjcDf+daNso5QLi/ds0Eg8G6wUrfO/bBqe91mK4Q4hzBEHvtwIUwx2WCaG?=
+ =?iso-8859-1?Q?Go5b2Wl90ASci3FIb/XvM+HLI5/PNMbt7ywDB3uXAZmUgPLlS7CG21qLEh?=
+ =?iso-8859-1?Q?i+wjTrSju9N/3bqOT/GsK0wmB7cJ6LaxU9dfmIs6ghWQcu4SufypLRzdWj?=
+ =?iso-8859-1?Q?VZ1zlsVK4ltQTC3MoANRRJTW8RqjBCp6pKB67RVXhb9CtJKl64pV+6p0gF?=
+ =?iso-8859-1?Q?hb03PvsxeMl/o/TwVpi3KBbzVKyY2M8dVtamrvF45WOuM1YLBx4tJTYSEb?=
+ =?iso-8859-1?Q?FxA9kLLubjrmfmfv8ITGhlSBCfXiOuC7aSB1GDiMFRZCxoPUT+1fUSvgpS?=
+ =?iso-8859-1?Q?e0E+vTDKRjyEmZzEs9gt+cZ7M0+On1DrcaXXuuYRY6NeS7mNcthFu0uehh?=
+ =?iso-8859-1?Q?HTzfF02p4Ipv7J5leNEdHE5J9WuBn1V0jqM5lGHY4oIb6NcZXYFdervPS1?=
+ =?iso-8859-1?Q?rphETIed3atI2yU/a23zalkXNf099mOGpoU9b9GED+i88uPlMEVBOdZOxM?=
+ =?iso-8859-1?Q?VnggaafCKPpeaIrf0g0yjiY9QmMIUIBqqgaNDkyYRVXbP1uyus2sPHBurP?=
+ =?iso-8859-1?Q?vw5KRbN2GgiIHCsiDzzwEfXvx2NzaK6WHHSGAlfvs+2FaH4/0+YJQfRj44?=
+ =?iso-8859-1?Q?d/BTh3GDjthsiMT++pN9ncNeXKyaJ9jjx0tOD8pFJjOk5tSYwN/xqz+MpB?=
+ =?iso-8859-1?Q?xkBVViqULX3cKyEhWX3LUWYL+To871UqDT/ppU0MZ2Ed2clgWllIH63phb?=
+ =?iso-8859-1?Q?MT43cmpCk3i1EYY1hz3lmJSA7sT+SxwZ8pkxSEdxrNsGYc8HhMAvZhJZrY?=
+ =?iso-8859-1?Q?f2IAlHDMOT4LZu9TPIDNpR2MOFYrsJRuOHfB7mFR+8Q9VqXKxlueFj4/Pq?=
+ =?iso-8859-1?Q?YmDR+QhxZujI7399TJl6hd1NL63+BZ/fn4fDFV3c4+sAY0qCnfEVUJCAq4?=
+ =?iso-8859-1?Q?WrdDPNu6sVNeQJouSXuuR4ECJdtzXbYWDIz4qpDJ7otc6SsOJJWiQsbrVB?=
+ =?iso-8859-1?Q?oPvzpF/FpDQlt+fXnPDQIlG2iQiQ7IiGfbcqAQsVJBQrmdTrdbxAC9+wKQ?=
+ =?iso-8859-1?Q?unnS4CBbBKN3jlYWY+UHtLoDnL2EY+kTX7DCsPW0TnPnTnnBO4hwP+Xsc0?=
+ =?iso-8859-1?Q?NRLOa1lYDuvyvJbb7Fnah51TS7VE8cCowjZCzA81eWQccyEzk1zpJYhB3B?=
+ =?iso-8859-1?Q?b+eYVzpy2p/FUFV8Yd74RIs2UQ9CgYVRpXZwsWkPXvQ3aUu8KGCgUd7gHr?=
+ =?iso-8859-1?Q?OMldM+hLZSenpU2FDtbUHKwjYV60bJb5LIA0mE+zM3b8g5XSXZrhUAAKFO?=
+ =?iso-8859-1?Q?DNvO+bLwWErqwCVK7oh8Hz+lSok5yr7ZKM4wrvYNbHDXO/XI0yElIkTPYK?=
+ =?iso-8859-1?Q?oF6DGD1M/nbMTR9yUC5EAN4SQBMXOBh9a1iaEfYXy1IwrQ5HRpfuVNnaxb?=
+ =?iso-8859-1?Q?nEmS/C3s8q2ptBtfgOeUPouJpfTS2TU3q6yNGbaabSbO1OnFCQ22fZebkS?=
+ =?iso-8859-1?Q?cq+sDlI0xN9XJGx3+RkKff1wMRCXK60agAMPvWHGFi/QZtYDStvo1lyQT8?=
+ =?iso-8859-1?Q?u8maGq3nYIRZWd6qN90wq/KKp9Qn0MDDAbKTSVyVeQDxHak0O9qJtZfAGM?=
+ =?iso-8859-1?Q?Jr844F+wm9Mh4ynXy+3lcXGMnIBn+WaoD+9ac2ua1xkjYjga0PxDamcRh8?=
+ =?iso-8859-1?Q?N4+9R59uNVlJ1UtNkQEsjQQCHFjSK8Wdkb+WMxcQYF1X4dmx2ru3aTZavR?=
+ =?iso-8859-1?Q?IKzomfwTPKFSWIgxBDF1HEh5ETWWk0n5RWVE54VWKEzaeoE4IljhfkgqoN?=
+ =?iso-8859-1?Q?RjVsC1am38SprgvGh4TDsv+fLU1da6BgSxhS6UgJzanu+T4mOB6QjrXgKQ?=
+ =?iso-8859-1?Q?21Pwz6IppFmdvn2nab83U1i1bcKhUGcO4eA/rvFwRXmd4HqYN7AaV/2FtN?=
+ =?iso-8859-1?Q?9FrYDXRS1k6x2O5MZq3jhujH2EvVHrLxalnUnUsQZRaigRXPcQCjidhLkY?=
+ =?iso-8859-1?Q?1/mZzERVBrHpprCvGxBM1XrdW9tFKedLmyHGPE5pTZRyQaYr1cCvoxtNyK?=
+ =?iso-8859-1?Q?SJJBIfbwYLKMnErUbaDyhzr3v6YzyviFEkg6OSFk4C7MbEFXNUJAwzqaR+?=
+ =?iso-8859-1?Q?A72nWoYVXcUgESWqNYPfEMxeWcarsgluijHI48r0Y+J1aeH6QJ1m6rhG3A?=
+ =?iso-8859-1?Q?0duCsSBlphyITs6rv5jLIFmlnB7kQjfv/nRYrnU+dsEywjMc5tKapj8KEN?=
+ =?iso-8859-1?Q?VfzLAi/R5tSjvFM48cZOQjqCtGTOysnRZg5G9POjjjYn485+iPfyXG+O0n?=
+ =?iso-8859-1?Q?HEJxyhz1QmzZvuKkUhaVB/p+JwJziXgNF6cTf1uGfl7sX3An26qCY/kOL7?=
+ =?iso-8859-1?Q?/hZE1JdT/MA/Hri59SSsfkFvRYmBDUSGVyMzVVpfwg=3D=3D?=
+MIME-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3.=
+org/1999/xhtml" xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:sc=
+hemas-microsoft-com:office:office"><head><!--[if gte mso 15]>=0A=
+    <xml>=0A=
+      <o:OfficeDocumentSettings>=0A=
+      <o:AllowPNG/>=0A=
+      <o:PixelsPerInch>96</o:PixelsPerInch>=0A=
+      </o:OfficeDocumentSettings>=0A=
+    </xml>=0A=
+    <![endif]-->
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">=0A=
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">=0A=
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1">=0A=
+    <title>*|SUBJECT|*</title>=0A=
+  </head>=0A=
+  <body style=3D"height:100%; margin:0; padding:0; width:100%; -ms-text-siz=
+e-adjust:100%; -webkit-text-size-adjust:100%; background-color:#FAFAFA;">=
+=0A=
+=0A=
+=0A=
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgco=
+lor=3D"#FAFAFA" role=3D"presentation" style=3D"table-layout:fixed;">=0A=
+  <tr>=0A=
+    <td style=3D"font-size:0px">&nbsp;=0A=
+    </td>=0A=
+    <td align=3D"center" width=3D"600" bgcolor=3D"white">=0A=
+      <table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ class=3D"mobilewrapper" align=3D"center">=0A=
+        <tr>=0A=
+          <td>=0A=
+            <img src=3D"https://porkbun.com/images/450f9017-18fc-42fb-94cd-=
+c2708f92b4d1.jpg" alt=3D"Porkbun Header Image" width=3D"600" style=3D"displ=
+ay:block; width:600px; max-width:600px; height:auto;">=0A=
+          </td>=0A=
+        </tr>=0A=
+      </table>=0A=
+      <table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ class=3D"mobilewrapper" align=3D"center">=0A=
+        <tr>=0A=
+          <td>=0A=
+	    <br>=0A=
+            Hello there,<br><br>=0A=
+            Thank you for your order!<br>=0A=
+<br>=0A=
+Order ID: 9306211<br>=0A=
+<br>=0A=
+<div style=3D"border: 1px solid #c4c7c5; padding:10px;"><table style=3D"wid=
+th:100%;" cellspacing=3D"0"><tr><td>tentouches.app</td><td>Domain Registrat=
+ion</td><td style=3D"color:green;">SUCCESS</td><td style=3D"text-align:righ=
+t;">$10.81</td></tr><tr><td colspan=3D"4">&nbsp;</td></tr><tr><td style=3D"=
+border-top:1px solid black;"><strong>TOTAL CHARGED:</strong></td><td style=
+=3D"border-top:1px solid black;"></td><td style=3D"border-top:1px solid bla=
+ck;"></td><td style=3D"text-align:right; border-top:1px solid black;"><stro=
+ng>USD $10.81</strong></td></tr></table></div><center><a href=3D"https://po=
+rkbun.com/account/orders/9306211">View your full invoice online.</a></cente=
+r><br><p>You can log into your account and immediately start managing your =
+domains at <a href=3D"https://porkbun.com">porkbun.com</a>.</p><p><strong>N=
+eed a website?</strong> Check out our affordable <a href=3D"https://porkbun=
+.com/products/webhosting">hosting</a> options.</p><p><strong>Want your emai=
+l address to look as great as your domain name?</strong> We've got you cove=
+red with <a href=3D"https://porkbun.com/products/email_forwarding">email fo=
+rwarding</a> and <a href=3D"https://porkbun.com/products/email">Porkbun Ema=
+il</a>.</p><p>If you don't mind, please take the time to review us on <a hr=
+ef=3D"https://www.trustpilot.com/review/porkbun.com" target=3D"_BLANK">Trus=
+tpilot</a>.</p>=0A=
+            <br><br>Thank you,<br>The Porkbun Team=0A=
+	    <br><br>=0A=
+          </td>=0A=
+        </tr>=0A=
+      </table>=0A=
+      <table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ class=3D"mobilewrapper" align=3D"center" style=3D"background-color:#222222=
+; color:#DDDDDD;">=0A=
+        <tr>=0A=
+          <td style=3D"padding:20px; text-align:center;">=0A=
+	    <table width=3D"300" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+class=3D"mobilewrapper" align=3D"center" style=3D"">=0A=
+	      <tr>=0A=
+	        <td align=3D"center"><a href=3D"https://twitter.com/Porkbun" targe=
+t=3D"_blank" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;"><img src=3D"https://cdn-images.mailchi=
+mp.com/icons/social-block-v2/light-twitter-48.png" style=3D"display: block;=
+border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolatio=
+n-mode: bicubic;" height=3D"24" width=3D"24" class=3D""></a></td>=0A=
+	        <td align=3D"center"><a href=3D"https://www.facebook.com/PorkbunLL=
+C/" target=3D"_blank" style=3D"mso-line-height-rule: exactly;-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;"><img src=3D"https://cdn-image=
+s.mailchimp.com/icons/social-block-v2/light-facebook-48.png" style=3D"displ=
+ay: block;border: 0;height: auto;outline: none;text-decoration: none;-ms-in=
+terpolation-mode: bicubic;" height=3D"24" width=3D"24" class=3D""></a></td>=
+=0A=
+	        <td align=3D"center"><a href=3D"https://porkbun.com" target=3D"_bl=
+ank" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;"><img src=3D"https://cdn-images.mailchimp.com/i=
+cons/social-block-v2/light-link-48.png" style=3D"display: block;border: 0;h=
+eight: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bic=
+ubic;" height=3D"24" width=3D"24" class=3D""></a></td>=0A=
+	      </tr>=0A=
+	    </table>=0A=
+<br>=0A=
+<br>=0A=
+<em>Porkbun, LLC</em><br>=0A=
+21370 SW Langer Farms Parkway, Suite 142-429<br>=0A=
+Sherwood, OR 97140, US<br>=0A=
+<br>=0A=
+1.855.PORKBUN (1.855.767.5286)<br>=0A=
+<a href=3D"mailto:support@porkbun.com?subject=3DAccount%20Creation%20Inquir=
+y" target=3D"_blank" title=3D"Ask For Help" style=3D"mso-line-height-rule: =
+exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #D=
+DDDDD; font-weight: normal;text-decoration: underline;">support@porkbun.com=
+</a><br>=0A=
+<br>=0A=
+<a href=3D"https://www.icann.org/resources/pages/educational-2012-02-25-en"=
+ target=3D"_blank" style=3D"mso-line-height-rule: exactly;-ms-text-size-adj=
+ust: 100%;-webkit-text-size-adjust: 100%;color: #DDDDDD; font-weight: norma=
+l;text-decoration: underline;">ICANN Registrant Educational Materials</a><b=
+r>=0A=
+<br>=0A=
+<em>Copyright Porkbun, LLC, all rights reserved</em>=0A=
+<br>=0A=
+<br>=0A=
+<p>2A0A:EF40:7FB:AB01:8130:E146:5739:398B</p>=0A=
+          </td>=0A=
+        </tr>=0A=
+      </table>=0A=
+    </td>=0A=
+    <td style=3D"font-size:0px">&nbsp;=0A=
+    </td>=0A=
+  </tr>=0A=
+</table>=0A=
+=0A=
+  </body>=0A=
+</html>=0A=
+

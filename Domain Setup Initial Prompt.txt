@@ -1,0 +1,108 @@
+
+
+### Goal:
+
+Create a comprehensive Product Requirements Document (PRD) for setting up a minimal landing page for the newly purchased domain, `tentouches.app`, using the existing deployment workflow. This includes integrating with:
+
+1. **Porkbun** – the domain registrar.
+2. **Netlify** – the deployment platform.
+3. **ShadCN UI (`@shadcn-ui`)** – the UI component library to be used in building the landing page.
+
+The PRD should provide developers with a clear, actionable plan to:
+
+* Retrieve and utilise domain configuration details from Porkbun via `@context7` documentation and asking the user to give input information by instructing user where to find info at Porkbun with step by step instructions derived from Porkbun docs.
+* Configure and create a new project in Netlify (`@Netlify`) using the retrieved domain data.
+* Update any required DNS or platform settings to get the domain live, ask the user to give input if required. Instruct where to find info at Porkbun with step by step instructions derived from Porkbun docs.
+* Build and deploy a **minimal landing page using `@shadcn-ui`** to verify the domain is live and accessible publicly.
+
+This document is intended for a technically proficient team and should cover both backend configuration and frontend implementation using the specified tools.
+
+---
+
+### Return Format:
+
+The PRD must be organised using the following structure:
+
+1. **Overview**
+
+   * Purpose of the document
+   * Key stakeholders
+
+2. **Objectives**
+
+   * Get `tentouches.app` live on Netlify
+   * Deploy a minimal `@shadcn-ui` landing page
+   * Validate external access to the domain
+
+3. **Technical Requirements**
+
+   * **Porkbun Integration**
+
+     * Describe how to extract domain information
+     * Reference use of `@context7` for documentation access
+   * **Netlify Integration**
+
+     * How to create and configure a new site using domain info
+     * Required steps to connect the Porkbun domain to Netlify
+   * **Frontend Requirements**
+
+     * Use of `@shadcn-ui` to build a minimal landing page
+     * List essential UI components (e.g. header, success message)
+
+4. **Implementation Steps**
+
+   * Sequential tasks: from domain info extraction to site deployment
+   * Command-line/API examples where relevant
+   * DNS and SSL setup via Netlify
+
+5. **Design Specifications**
+
+   * Define the minimal design scope (e.g. "Live" indicator or welcome text)
+   * Include reference to ShadCN component usage
+
+6. **Testing & Validation**
+
+   * Confirm public access to the domain
+   * Ensure correct rendering of ShadCN components
+   * Cross-browser compatibility check
+
+7. **Dependencies**
+
+   * API keys or credentials for Porkbun and Netlify
+   * Access to `@shadcn-ui` in the project
+   * Developer environment setup
+
+8. **Appendices**
+
+   * Documentation links (Porkbun, Netlify, `@context7`, `@shadcn-ui`)
+   * Glossary of relevant technical terms
+
+**Format Requirements:**
+
+* Use numbered sections and clear headings
+* Bullet points for task lists
+* Include code snippets or API references
+* All text must be in British English spelling
+
+---
+
+### Warnings:
+
+* **Always use British English spelling in the final output.**
+* Do not skip or generalise the setup validation step — a functioning public landing page is required.
+* The landing page must be built using **`@shadcn-ui` components** only; avoid mixing UI libraries.
+* Avoid including full-scale site features — limit to essentials for live domain validation.
+* Domain name `tentouches.app` must be referenced consistently.
+* Ensure integration details for `@context7`, Porkbun, Netlify, and `@shadcn-ui` are technically accurate.
+
+---
+
+### Context Dump:
+
+* The domain `tentouches.app` was purchased via **Porkbun**.
+* The team deploys their existing apps via **Netlify**.
+* They use **`@context7`** to access developer documentation.
+* The goal is to launch a **basic landing page** on the new domain to confirm successful setup and public accessibility.
+* The landing page **must be built using `@shadcn-ui`** to align with internal UI standards.
+* The team is technical, so the PRD should include code-level detail, platform references, and step-by-step clarity.
+* The primary success metric is a minimal, working landing page served over the public internet.
