@@ -1,0 +1,7 @@
+[build]
+  base = "website_ten_touches/tentouches-website"
+  command = "npm run build"
+  publish = "website_ten_touches/tentouches-website/dist"
+
+[build.environment]
+  NODE_VERSION = "20"
