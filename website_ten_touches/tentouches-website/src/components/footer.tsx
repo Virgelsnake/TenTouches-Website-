@@ -40,6 +40,11 @@ export function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/privacy/beta" className="hover:text-white transition-colors">
+                  Beta Privacy
+                </Link>
+              </li>
+              <li>
                 <Link href="/support" className="hover:text-white transition-colors">
                   Support
                 </Link>

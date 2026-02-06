@@ -28,77 +28,176 @@ export default function PrivacyPage() {
 
       <main className="mx-auto max-w-3xl px-6 pt-32 pb-20">
         <h1 className="text-3xl md:text-4xl font-bold text-white mb-8">
-          Privacy Policy
+          Privacy Policy for Ten Touches
         </h1>
 
         <div className="prose prose-invert prose-sm max-w-none space-y-6 text-white/70 leading-relaxed">
           <p>
-            <strong className="text-white">Last updated:</strong> February 2026
+            <strong className="text-white">Last updated:</strong> January 2026
           </p>
 
+          {/* 1. Information You Provide */}
           <h2 className="text-xl font-semibold text-white mt-8 mb-4">
-            Overview
+            1. Information You Provide
           </h2>
           <p>
-            Ten Touches (&ldquo;the App&rdquo;) is a personal CRM application
-            for iOS. We are committed to protecting your privacy and being
-            transparent about how we handle your data.
+            When you use Ten Touches, you may enter the following types of
+            information:
           </p>
 
+          <h3 className="text-base font-semibold text-white mt-6 mb-3">
+            Contact Information
+          </h3>
+          <ul className="list-disc pl-5 space-y-1.5">
+            <li><strong className="text-white/90">Names</strong> &mdash; Client names for identification</li>
+            <li><strong className="text-white/90">Email addresses</strong> &mdash; Optional client contact details</li>
+            <li><strong className="text-white/90">Phone numbers</strong> &mdash; Optional client contact details</li>
+          </ul>
+
+          <h3 className="text-base font-semibold text-white mt-6 mb-3">
+            Personal Context
+          </h3>
+          <ul className="list-disc pl-5 space-y-1.5">
+            <li><strong className="text-white/90">Family details</strong> &mdash; Information about clients&rsquo; children</li>
+            <li><strong className="text-white/90">Interests</strong> &mdash; Sports, hobbies, and personal preferences</li>
+            <li><strong className="text-white/90">Pet information</strong> &mdash; Pet types, breeds, and names</li>
+            <li><strong className="text-white/90">Personal notes</strong> &mdash; Free-form notes about clients</li>
+          </ul>
+
+          <h3 className="text-base font-semibold text-white mt-6 mb-3">
+            Business Information
+          </h3>
+          <ul className="list-disc pl-5 space-y-1.5">
+            <li><strong className="text-white/90">Opportunities</strong> &mdash; Sales opportunities and their status</li>
+            <li><strong className="text-white/90">Touchpoints</strong> &mdash; Records of client interactions</li>
+            <li><strong className="text-white/90">Products</strong> &mdash; Your product/service catalogue</li>
+          </ul>
+
+          {/* 2. How Your Data Is Stored */}
           <h2 className="text-xl font-semibold text-white mt-8 mb-4">
-            Data Collection
+            2. How Your Data Is Stored
           </h2>
           <p>
-            Ten Touches stores your data locally on your device. The information
-            you enter &mdash; including client details, opportunities, touches,
-            and notes &mdash; remains on your iPhone and under your control.
+            All data you enter into Ten Touches is stored exclusively on your
+            device using Apple&rsquo;s SwiftData framework. Your data:
+          </p>
+          <ul className="list-none space-y-1.5 pl-0">
+            <li className="flex items-start gap-2">
+              <span className="text-tt-success">✓</span> Remains on your iPhone or iPad
+            </li>
+            <li className="flex items-start gap-2">
+              <span className="text-tt-success">✓</span> Is protected by your device&rsquo;s security
+            </li>
+            <li className="flex items-start gap-2">
+              <span className="text-tt-success">✓</span> Is included in your device backups
+            </li>
+            <li className="flex items-start gap-2">
+              <span className="text-tt-error">✗</span> Is never transmitted to our servers
+            </li>
+            <li className="flex items-start gap-2">
+              <span className="text-tt-error">✗</span> Is never shared with third parties
+            </li>
+            <li className="flex items-start gap-2">
+              <span className="text-tt-error">✗</span> Is never used for analytics or advertising
+            </li>
+          </ul>
+
+          {/* 3. Data We Do NOT Collect */}
+          <h2 className="text-xl font-semibold text-white mt-8 mb-4">
+            3. Data We Do NOT Collect
+          </h2>
+          <p>We do not collect, access, or process:</p>
+          <ul className="list-disc pl-5 space-y-1.5">
+            <li>Your client information</li>
+            <li>Your usage patterns or analytics</li>
+            <li>Device identifiers or advertising IDs</li>
+            <li>Location data</li>
+            <li>Any form of tracking data</li>
+          </ul>
+          <p>
+            We have no servers that receive your data. The App operates entirely
+            offline and locally.
           </p>
 
+          {/* 4. Third-Party Services */}
           <h2 className="text-xl font-semibold text-white mt-8 mb-4">
-            Voice Input
+            4. Third-Party Services
           </h2>
           <p>
-            When you use the voice input feature, speech recognition is
-            processed using Apple&rsquo;s on-device speech recognition
-            technology. Audio data is not sent to our servers.
+            Ten Touches does not integrate with any third-party services that
+            collect data. The App:
+          </p>
+          <ul className="list-disc pl-5 space-y-1.5">
+            <li>Does not contain advertising</li>
+            <li>Does not use analytics SDKs</li>
+            <li>Does not share data with social networks</li>
+            <li>Does not connect to external APIs</li>
+          </ul>
+
+          {/* 5. Your Rights and Controls */}
+          <h2 className="text-xl font-semibold text-white mt-8 mb-4">
+            5. Your Rights and Controls
+          </h2>
+
+          <h3 className="text-base font-semibold text-white mt-6 mb-3">
+            Data Access
+          </h3>
+          <p>
+            All your data is accessible directly within the App. You can view,
+            edit, or delete any client, opportunity, or touchpoint at any time.
           </p>
 
-          <h2 className="text-xl font-semibold text-white mt-8 mb-4">
-            Third-Party Services
-          </h2>
+          <h3 className="text-base font-semibold text-white mt-6 mb-3">
+            Data Deletion
+          </h3>
           <p>
-            The App does not share your personal data with third-party services
-            for advertising or marketing purposes.
+            You can delete individual records within the App, or delete all data
+            by uninstalling the App.
           </p>
 
+          {/* 6. Security */}
           <h2 className="text-xl font-semibold text-white mt-8 mb-4">
-            Data Security
+            6. Security
+          </h2>
+          <p>Your data is protected by:</p>
+          <ul className="list-disc pl-5 space-y-1.5">
+            <li><strong className="text-white/90">Device Security</strong> &mdash; Your device&rsquo;s passcode, Face ID, or Touch ID</li>
+            <li><strong className="text-white/90">App Sandbox</strong> &mdash; iOS app sandboxing prevents other apps from accessing your data</li>
+            <li><strong className="text-white/90">Encrypted Storage</strong> &mdash; Data is stored using Apple&rsquo;s secure frameworks</li>
+          </ul>
+
+          {/* 7. Contact Us */}
+          <h2 className="text-xl font-semibold text-white mt-8 mb-4">
+            7. Contact Us
           </h2>
           <p>
-            Your data is stored using iOS standard data protection mechanisms.
-            We recommend keeping your device updated with the latest iOS version
-            for optimal security.
+            If you have questions about this Privacy Policy, please contact us at:
+          </p>
+          <p>
+            Email:{" "}
+            <a
+              href="mailto:privacy@tentouches.app"
+              className="text-tt-cyan hover:underline"
+            >
+              privacy@tentouches.app
+            </a>
+            <br />
+            Website:{" "}
+            <a
+              href="https://tentouches.app"
+              className="text-tt-cyan hover:underline"
+            >
+              tentouches.app
+            </a>
           </p>
 
+          {/* Summary */}
           <h2 className="text-xl font-semibold text-white mt-8 mb-4">
-            Your Rights
+            Summary
           </h2>
           <p>
-            Since your data is stored locally on your device, you have full
-            control over it. You can delete the App at any time, which will
-            remove all associated data from your device.
-          </p>
-
-          <h2 className="text-xl font-semibold text-white mt-8 mb-4">
-            Contact
-          </h2>
-          <p>
-            If you have questions about this privacy policy, please contact us
-            via our{" "}
-            <Link href="/support" className="text-tt-cyan hover:underline">
-              support page
-            </Link>
-            .
+            Your privacy is protected by design. Ten Touches was built to keep
+            your client data private and under your complete control.
           </p>
         </div>
 
