@@ -1,0 +1,350 @@
+# Ten Touches Sales Battlecard
+## vs Lightweight CRM Category (Pipedrive, Close, Copper, Less Annoying CRM)
+
+**Purpose:** Handle conversations when prospect mentions simpler CRMs like Pipedrive, Close, Copper, or Less Annoying CRM.
+
+---
+
+## 1. Anchor Statement
+
+**Ten Touches helps relationship-driven salespeople remember everyone, follow up consistently, and sell smarter — without the admin burden that kills CRM adoption.**
+
+(≤25 words. Use to reset the conversation when it drifts to features.)
+
+---
+
+## 2. Competitive Context
+
+### What Is a Lightweight CRM?
+
+Lightweight CRMs are simpler alternatives to enterprise platforms, focused on usability and pipeline management:
+- Pipedrive
+- Close
+- Copper
+- Less Annoying CRM
+- Streak
+
+### Why Prospects Compare Them to Ten Touches
+
+Both Ten Touches and lightweight CRMs promise simplicity over complexity. Prospects see them as "easier" alternatives to Salesforce. The comparison makes sense on the surface.
+
+### The Key Difference
+
+Lightweight CRMs are **pipeline-focused** — they simplify deal tracking and sales stages. They're still fundamentally about managing deals through a funnel.
+
+Ten Touches is **relationship-focused** — it helps you remember people, maintain connection momentum, and understand what actions work. Deals are outcomes; relationships are the work that makes outcomes possible.
+
+The question isn't "which is simpler?" — it's "what problem are you actually solving?"
+
+---
+
+## 3. Core Differentiation Pillars
+
+### Pillar 1: Relationship Memory Over Deal Records
+
+**What it means:**
+Ten Touches doesn't just store contacts — it preserves relationships. Client cards capture personal details (sports, pets, interests) as first-class data, not notes buried in a text field.
+
+**Why this matters to the buyer:**
+You can search for "beagle owner" or "Man United fan" and find the right person. That's how humans actually remember people — not by company name or deal stage.
+
+**Why lightweight CRMs struggle:**
+Lightweight CRMs still organise around deals and pipelines. Personal information — the human context that makes relationships real — is an afterthought. You can add notes, but they're unstructured and unsearchable.
+
+**Ten Touches proof points (Screenshot 1):**
+- Personal information fields on every client card
+- Search by any remembered attribute
+- Four-star quality scoring prompts relationship actions
+- Relationship-first data hierarchy
+
+### Pillar 2: Context-Aware Follow-Up
+
+**What it means:**
+Reminders in Ten Touches are organised by action type — calls, emails, meetings, casual check-ins — so you can match tasks to your energy and environment.
+
+**Why this matters to the buyer:**
+Got 10 minutes between meetings? Knock out SMS messages. In the car? Make calls. At your desk with focus time? Write emails. This removes the "what should I do now?" decision fatigue.
+
+**Why lightweight CRMs struggle:**
+Lightweight CRMs have task lists and reminders, but they're typically priority-sorted or date-sorted. They don't understand that the same person might be ready for calls at 9am and only emails at 4pm.
+
+**Ten Touches proof points (Screenshot 3):**
+- GTD-style action filtering (SMS, Call, Email, Meeting, Casual, etc.)
+- Context-rich reminder cards with who, why, what, when
+- Overdue visibility without aggressive shaming
+- Natural flow through the day
+
+### Pillar 3: Behavioural Self-Coaching
+
+**What it means:**
+The Optimise dashboard shows which of your actions lead to wins — your personal patterns, not generic sales advice.
+
+**Why this matters to the buyer:**
+Instead of "make more calls," Ten Touches tells you: "When you do meetings, you win 67% of the time. Emails? 34%." That insight is personal, credible, and actionable.
+
+**Why lightweight CRMs struggle:**
+Lightweight CRMs offer reporting on pipeline and activity, but it's designed for visibility, not improvement. They tell you what happened; they don't help you get better.
+
+**Ten Touches proof points (Screenshot 5):**
+- Pick Winners — win rate by touch type
+- Match the Moment — what works for first touch vs closing touch
+- Sell Faster — touches and time to win by action type
+- Value Impact — which actions correlate with revenue
+
+---
+
+## 4. Worldview Comparison
+
+### How Lightweight CRMs Define Success
+- Pipeline clarity
+- Deal progression
+- Stage conversion rates
+- Activity completion
+
+### How Lightweight CRMs Measure Value
+- Deals moved through stages
+- Tasks completed
+- Pipeline value visibility
+- Sales cycle length
+
+### How Ten Touches Defines Success Differently
+- Relationships maintained and deepened
+- Follow-up consistency across all clients
+- Seller confidence in every conversation
+- Continuous improvement in selling behaviour
+
+### How Ten Touches Measures Value Differently
+- Personal insight into what works for you
+- Relationship momentum (not just deal momentum)
+- Conversation quality through preparation
+- Behaviour change, not just activity completion
+
+---
+
+## 5. Key Reframe Questions
+
+Use these to reveal gaps in lightweight CRM value:
+
+1. **"When you open a contact record, does it tell you anything personal about that person — or just their deal status?"**
+   (Reveals relationship blindness)
+
+2. **"How do you prepare for a conversation with someone you haven't spoken to in three months?"**
+   (Reveals lack of relationship context)
+
+3. **"Does your CRM help you understand which of your actions actually lead to wins?"**
+   (Reveals insight gap)
+
+4. **"Can you search your CRM by something you remember about a person — like their dog's name or the sport they play?"**
+   (Reveals data structure limitations)
+
+5. **"When you're between meetings with 10 minutes, how do you decide what follow-up to do?"**
+   (Reveals lack of context-aware organisation)
+
+6. **"Does your team capture notes about people, or just notes about deals?"**
+   (Reveals deal-centric vs relationship-centric design)
+
+---
+
+## 6. Proof Points & Evidence
+
+### Screens to Reference Verbally
+
+- **Client Detail Screen (Screenshot 1):** "Every client card shows personal details — sports they follow, pets they have, teams they support — structured and searchable. You can reconnect with people the way you actually remember them."
+
+- **Reminders Screen (Screenshot 3):** "Reminders are organised by action type. Tap 'Phone Call' and see only calls. Tap 'Casual' and see coffee catch-ups. Match your work to your energy."
+
+- **Optimise Dashboard (Screenshot 5):** "The dashboard shows your personal win patterns. Which touches work best as openers? Which close deals? How many touches do your wins require? It's self-coaching built into the tool."
+
+### Metrics & Patterns Ten Touches Reveals
+
+- Win rate by touch type (calls vs emails vs meetings)
+- What works best at different deal stages
+- Average touches to win for your deals
+- Revenue correlation with specific actions
+
+### Behavioural Outcomes Users Experience
+
+- Remember personal details that make conversations human
+- Follow up consistently because the system matches your energy
+- Understand their own selling patterns
+- Walk into every conversation prepared
+
+---
+
+## 7. Common Objections & Reframes
+
+### Objection: "This looks simpler than what we have"
+
+**Underlying concern:**
+Worried about losing functionality they currently rely on.
+
+**Recommended reframe:**
+"Simpler isn't always better — the right level of focus is. Ten Touches is purpose-built for one thing: helping you remember people and follow up consistently. Lightweight CRMs simplify pipeline management. We focus on relationship management. Different problems, different solutions."
+
+**Language guidance:**
+Acknowledge the simplicity observation, then reframe to purpose and fit.
+
+**Follow-up question:**
+"What do you actually use your current CRM for day-to-day? Pipeline tracking, or relationship maintenance?"
+
+---
+
+### Objection: "We need pipeline tracking"
+
+**Underlying concern:**
+Fear of losing visibility into deal progress.
+
+**Recommended reframe:**
+"Ten Touches has pipeline tracking — opportunities with stages, values, and confidence levels. But it's designed around honest visibility, not forecasting theatre. You see total value and risked revenue side by side. No inflated pipeline, no self-delusion."
+
+**Language guidance:**
+Confirm capability, then differentiate on philosophy (honest confidence vs false precision).
+
+**Follow-up question:**
+"How accurate is your current pipeline really? If you had to bet on your forecast, how confident would you be?"
+
+---
+
+### Objection: "This seems like a step backwards"
+
+**Underlying concern:**
+Perception that fewer features means less capability.
+
+**Recommended reframe:**
+"It's a step in a different direction. Lightweight CRMs reduced complexity from enterprise systems — but they kept the same core assumption: deals first, relationships second. Ten Touches starts from a different place: relationships first, deals as outcomes. If your sales depend on human connection, that's not backwards — it's the right foundation."
+
+**Language guidance:**
+Reframe "backwards" as "different direction" with purpose.
+
+**Follow-up question:**
+"When you lose a deal, is it usually because of pipeline management — or because a relationship went cold?"
+
+---
+
+## 8. Win Scenarios
+
+### Ten Touches Wins Decisively When:
+
+**Relationship quality drives outcomes**
+The prospect's deals depend on personal connection, trust, and remembered context — not just pipeline progression.
+
+**Follow-up consistency is the gap**
+The prospect knows relationships matter but struggles to maintain momentum across all clients. Deals slip because follow-up is inconsistent.
+
+**Personal details matter**
+Sales conversations depend on remembering human context — the details that make people memorable and make conversations warm.
+
+**Current CRM feels like "just tracking"**
+The prospect uses their lightweight CRM but feels it doesn't actually help them sell better — just monitor deals.
+
+**Seller wants to improve, not just track**
+The prospect is interested in understanding their own patterns and getting better, not just logging activity.
+
+### Signals You're Winning:
+
+- Prospect says "I want to remember people, not just track deals"
+- Prospect mentions relationships going cold or follow-up inconsistency
+- Prospect asks about the personal information fields with interest
+- Prospect responds to the behavioural insights feature
+- Prospect describes their current CRM as "just a pipeline view"
+
+---
+
+## 9. Lose / Walk-Away Scenarios
+
+### Ten Touches Is Not the Right Fit When:
+
+**Pipeline management is the primary need**
+The prospect's main problem is deal visibility and stage tracking, not relationship quality or follow-up consistency.
+
+**High-volume sales motion**
+The prospect runs a volume-based approach with many small deals. Relationship depth per client matters less than pipeline throughput.
+
+**Team reporting is the priority**
+The prospect cares primarily about team dashboards and activity reporting for management.
+
+**Integration with existing stack is critical**
+The prospect needs tight integration with email marketing, accounting, or other tools in their workflow.
+
+### Signals You're Losing:
+
+- Prospect focuses on pipeline features and stage customisation
+- Prospect asks about team reporting before user value
+- Prospect describes high-volume, transactional sales
+- Prospect needs specific integrations that don't exist
+
+### Walking Away Confidently:
+
+"It sounds like your main need is pipeline visibility and deal tracking. Lightweight CRMs are built well for that. Ten Touches solves a different problem — helping sellers remember relationships and follow up consistently. If that becomes the priority, we'd love to talk again."
+
+---
+
+## 10. Language & Framing Guidance
+
+### Words and Phrases to Lean Into
+
+**Relationship-focused:**
+- Relationship memory
+- Personal details
+- Human context
+- Remember people (not just deals)
+- Client (not contact)
+
+**Action-focused:**
+- Match your energy
+- Context-aware follow-up
+- Momentum
+- Consistent follow-up
+- Touch (any meaningful interaction)
+
+**Insight-focused:**
+- What works for you
+- Self-coaching
+- Your patterns
+- Behavioural insight
+- Personal win rate
+
+### Words and Phrases to Avoid
+
+**Feature-war language:**
+- Don't compare feature-for-feature
+- Don't claim to be "simpler" or "better"
+- Don't attack specific competitors
+
+**Pipeline-centric language:**
+- Avoid leading with "pipeline management"
+- Avoid "deal tracking" as primary value
+- Avoid "sales stages" as differentiator
+
+### How to Reference Lightweight CRMs Without Attacking
+
+**Do say:**
+- "Lightweight CRMs solved the complexity problem really well — they made pipeline tracking usable. Ten Touches starts from a different assumption: that relationships are the foundation, and deals are what happen when relationships are strong."
+
+**Don't say:**
+- "Pipedrive is just deal tracking"
+- "Close doesn't understand relationships"
+
+---
+
+## 11. Closing Anchor
+
+**"Ten Touches isn't about simplifying your pipeline — it's about strengthening the relationships that fill your pipeline in the first place."**
+
+Use this to re-centre the conversation when it drifts to feature comparisons or pipeline functionality.
+
+---
+
+## Quality Verification ✓
+
+- [x] Salesperson can use mid-call without preparation
+- [x] Does not require slide or screen share
+- [x] No feature comparison tables
+- [x] Changes how buyer thinks, not just what they compare
+- [x] Scannable in under 60 seconds
+- [x] Narrative-driven, not tabular
+- [x] All claims align with Knowledge Base documents
+
+---
+
+*Battlecards win conversations, not comparisons.*

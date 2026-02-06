@@ -1,0 +1,174 @@
+# Ten Touches Battlecard Maintenance Guide
+
+**Created:** 22 January 2026  
+**Owner:** Marketing  
+**Version:** 1.0
+
+---
+
+## 1. Review Cadence
+
+### Quarterly Review (Every 3 Months)
+- Review win/loss data for patterns related to specific competitors
+- Update objection reframes based on sales feedback
+- Verify all proof points still match current product capabilities
+- Check if new competitor categories have emerged
+
+### Triggered Review (As Needed)
+- Major product update or new feature launch
+- New competitor enters the market
+- Significant change in competitive positioning
+- Repeated feedback on battlecard gaps from sales
+
+---
+
+## 2. Feedback Loop from Sales
+
+### How Sales Should Provide Feedback
+
+**After competitive deals (win or lose):**
+1. Which battlecard was relevant?
+2. Which objection/reframe was used?
+3. Did the reframe work? If not, what would have been better?
+4. Any new objections heard that aren't covered?
+5. Any new competitor named that doesn't have a battlecard?
+
+**Feedback submission:**
+- Slack channel: #sales-battlecard-feedback (or equivalent)
+- Email: marketing@[company].com with subject "Battlecard Feedback"
+- Sales meeting: Standing agenda item in weekly sales sync
+
+### How Marketing Processes Feedback
+
+1. Collect feedback in shared document/tracker
+2. Identify patterns (same feedback from multiple reps = priority)
+3. Draft updates
+4. Review with sales lead before publishing
+5. Announce updates to sales team
+
+---
+
+## 3. Versioning Approach
+
+### Version Numbering
+- Major version (1.0 → 2.0): Significant structural changes or new sections
+- Minor version (1.0 → 1.1): Content updates, new objections, refined language
+
+### Version History
+Maintain a changelog at the bottom of each battlecard file:
+
+```
+---
+## Version History
+
+| Version | Date | Changes |
+|---------|------|---------|
+| 1.0 | 22 Jan 2026 | Initial creation |
+```
+
+### Archiving Old Versions
+- Keep previous versions in `/Knowledge Base/Battlecards/Archive/`
+- Naming convention: `Battlecard - [Category] - v1.0.txt`
+- Current version always lives at the main file path without version suffix
+
+---
+
+## 4. Adding New Battlecards
+
+### When to Create a New Battlecard
+- A new competitor category is frequently encountered in sales
+- Existing battlecards don't cover the comparison adequately
+- Sales requests a specific battlecard based on deal patterns
+
+### New Battlecard Process
+1. Review existing Knowledge Base documents for relevant positioning
+2. Interview sales team on common objections and scenarios
+3. Draft battlecard following standard 11-section structure
+4. Review with sales lead and at least 2 reps
+5. Add to Battlecard Index
+6. Announce to sales team
+
+### Required Sections (All New Battlecards Must Include)
+1. Anchor Statement
+2. Competitive Context
+3. Core Differentiation Pillars (3 minimum)
+4. Worldview Comparison
+5. Key Reframe Questions (4-6)
+6. Proof Points & Evidence
+7. Common Objections & Reframes (3 minimum)
+8. Win Scenarios
+9. Lose / Walk-Away Scenarios
+10. Language & Framing Guidance
+11. Closing Anchor
+
+---
+
+## 5. Alignment Requirements
+
+### All Battlecards Must Align With:
+- `1 Product Overview.txt` — Core positioning and philosophy
+- `5 Value Proposition & Messaging.txt` — Message pillars
+- `8 Objections_FAQ.txt` — Objection handling frameworks
+- `11 Competitive Positioning.txt` — Differentiation pillars
+
+### Alignment Check Questions:
+- Does this claim appear in the Knowledge Base?
+- Is the language consistent with Value Proposition messaging?
+- Does the objection reframe follow the Objections document framework?
+- Does the positioning match Competitive Positioning pillars?
+
+**Rule:** No battlecard should introduce new claims not already supported in the Knowledge Base. If a new claim is needed, update the source document first, then the battlecard.
+
+---
+
+## 6. Distribution and Access
+
+### Where Battlecards Live
+- Primary: `Knowledge Base/Battlecards/` folder
+- Backup: Sales enablement platform (if applicable)
+- Quick reference: Consider PDF versions for mobile access
+
+### Who Has Access
+- Sales team: Full access (read)
+- Marketing: Full access (read/write)
+- Customer Success: Read access (for expansion conversations)
+- Product: Read access (for feedback awareness)
+
+### Training New Team Members
+1. Review Battlecard Index for overview
+2. Read one battlecard in detail (usually Traditional CRM)
+3. Practice with a peer using the reframe questions
+4. Shadow a competitive call before using independently
+
+---
+
+## 7. Key Contacts
+
+| Role | Responsibility |
+|------|----------------|
+| Marketing Owner | Overall maintenance, quarterly review, version control |
+| Sales Lead | Feedback collection, validation of updates, team announcements |
+| Product Marketing | Ensuring alignment with product updates |
+
+---
+
+## 8. Troubleshooting Common Issues
+
+### "The battlecard doesn't cover my situation"
+- Document the specific scenario
+- Submit feedback with the new objection/comparison
+- Marketing will assess for next update or new battlecard
+
+### "The reframe didn't work"
+- Note what the prospect said in response
+- Suggest alternative language that might work better
+- Submit feedback for review
+
+### "Competitor has changed their positioning"
+- Flag immediately to marketing
+- Include links/evidence of the new positioning
+- Triggered review will assess need for updates
+
+---
+
+*Battlecards are living documents. Keep them current, keep them useful.*

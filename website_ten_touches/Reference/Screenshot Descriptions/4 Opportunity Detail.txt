@@ -1,0 +1,260 @@
+
+# Screenshot 4
+
+## Opportunity Detail – Cashflow Risked by Progress Stage
+
+### What this screen is
+
+This is where **reality replaces optimism**.
+
+Instead of pretending every deal is worth its headline number, Ten Touches forces a *constructive honesty* about revenue — without turning sales into accountancy.
+
+It’s a **single-opportunity truth surface**.
+
+---
+
+## Features (What’s on the screen)
+
+### 1. Clear Opportunity Context
+
+* Product / service name (e.g. *Cybersecurity Audit*)
+* Back navigation that keeps you in flow
+* No clutter, no tabs
+
+---
+
+### 2. Headline Financials
+
+* Total deal value prominently displayed
+* Risked revenue shown alongside it
+* Immediate contrast between *potential* and *probable*
+
+Example:
+
+* Total value: £18,000
+* Risked revenue: £4,500
+
+---
+
+### 3. Confidence / Progress Bar
+
+* Visual confidence indicator
+* Clearly labelled percentage (e.g. 25% confidence)
+* Intuitive colour progression
+
+This is not a forecast — it’s a *signal*.
+
+---
+
+### 4. Four-Stage Progress Model
+
+Simple, universally understood stages:
+
+* Prospect (25%)
+* Proposal (50%)
+* PO (75%)
+* Paid (100%)
+
+Each stage:
+
+* Visually represented
+* Progressively weighted
+* Easy to explain to anyone
+
+---
+
+### 5. Status Selector
+
+* Live
+* Lost
+* Won (Implicitly won via Paid stage)
+
+Clear separation between:
+
+* Progress stage
+* Outcome status
+
+This avoids CRM ambiguity.
+
+---
+
+### 6. Notes Section
+
+* Free-text, human-readable
+* Captures real objections and next steps
+* No forced formatting
+
+---
+
+### 7. Voice Input (At the Point of Truth)
+
+* Record button directly on the opportunity
+* Designed for immediate reflection
+* No post-meeting admin loop
+
+---
+
+## Benefits (Why this matters)
+
+### 1. Honest Revenue Visibility
+
+**Benefit:**
+You *cannot lie to yourself* on this screen.
+
+Seeing:
+
+* £18k potential
+* £4.5k probable
+
+…immediately changes behaviour.
+
+---
+
+### 2. Simple Mental Model = High Adoption
+
+**Benefit:**
+No:
+
+* Probability percentages to argue about
+* Complex stages
+* Sales methodology jargon
+
+Anyone can understand:
+
+> “We’re at proposal, so it’s worth half.”
+
+---
+
+### 3. Separates Progress From Outcome
+
+**Benefit:**
+A deal can be:
+
+* Advanced but lost
+* Early but promising
+
+This reflects reality far better than binary CRM logic.
+
+---
+
+### 4. Reduces End-of-Month Panic
+
+**Benefit:**
+Because risked revenue is always visible:
+
+* Forecasting is calmer
+* Expectations are grounded
+* Surprises are reduced
+
+This helps both sellers *and* leaders.
+
+---
+
+### 5. Voice Input Removes Reflection Friction
+
+**Benefit:**
+The moment after a call is when insight is freshest.
+
+Being able to say:
+
+> “Client has concerns about approach, send case studies and ISO cert”
+
+…without typing ensures:
+
+* Better data
+* Better follow-up
+* Better memory
+
+---
+
+## User Journey (How it feels to use)
+
+### Step 1: Opening the Opportunity
+
+You tap into *Cybersecurity Audit*.
+
+Instantly, you’re grounded:
+
+* What it is
+* How much it’s worth
+* Where it truly stands
+
+No digging required.
+
+---
+
+### Step 2: Reality Check
+
+Your eyes go straight to:
+
+* Risked revenue
+
+You think:
+
+> “Right — this is not an £18k deal yet.”
+
+This reframes:
+
+* Urgency
+* Effort
+* Next action
+
+---
+
+### Step 3: Progress Reflection
+
+You glance at the stage bar:
+
+* Prospect highlighted
+* Proposal and beyond greyed out
+
+You instinctively ask:
+
+> “What would move this to proposal?”
+
+That’s the right question.
+
+---
+
+### Step 4: Capture Insight Immediately
+
+You tap **Record** and speak:
+
+* Objections
+* Hesitations
+* Required proof
+
+No laptop.
+No remembering later.
+No lost nuance.
+
+---
+
+### Step 5: Reduced Friction vs Traditional CRMs
+
+**Traditional CRM pain:**
+
+* Fake precision
+* Complex forecasting logic
+* Post-meeting admin
+* Stale notes
+
+**Ten Touches experience:**
+
+* Honest confidence
+* Simple progression
+* Immediate capture
+* Actionable clarity
+
+---
+
+## Key Insight for Documentation & Sales Messaging
+
+This screen proves:
+
+> *Ten Touches doesn’t inflate your pipeline — it tells you the truth early enough to do something about it.*
+
+That’s a *huge* differentiator for founders, consultants, and sales leaders alike.
+
+---
+

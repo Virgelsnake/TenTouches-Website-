@@ -1,0 +1,213 @@
+# Ten Touches – Product Overview
+
+Product Brief (The Single Source of Truth)
+
+This is the canonical explanation of Ten Touches.
+
+
+## 1. One-Sentence Description
+
+Ten Touches is a mobile CRM that helps relationship-driven salespeople remember clients, follow up consistently, and sell smarter through voice-first capture and behavioural insights.
+
+
+## 2. The Problem
+
+### For Individual Salespeople
+
+Traditional CRMs feel like administrative punishment. You meet someone at a conference, have a great conversation, exchange cards — and then the real work begins. Back at your desk, you're expected to manually enter names, companies, notes, and next steps into a system designed for reporting, not relationships.
+
+The result? Most salespeople don't do it. Or they do it badly. Or they do it days later when the details have faded. The person you met becomes a half-remembered name with a vague note that says "follow up."
+
+The emotional friction is real:
+- **Guilt** about forgotten follow-ups
+- **Frustration** with systems that demand data but give nothing back
+- **Wasted effort** entering information that helps the company but not the person doing the work
+- **Dread** at the thought of "CRM admin"
+
+Salespeople know relationships matter. They also know that traditional CRMs actively work against building them.
+
+### For Sales Managers
+
+Managers need visibility. They need to know what's in the pipeline, what's at risk, and where deals stand. But when the CRM is a burden to use, the data is incomplete, stale, or optimistic to the point of fiction.
+
+The result? Forecast calls become exercises in guesswork. Pipeline reviews become interrogations. Managers spend time chasing data rather than coaching behaviour.
+
+The fundamental problem: **CRMs are built for management oversight, not user value.** When the tool doesn't help the person using it, adoption collapses — and so does the data.
+
+### Why Traditional CRMs Fail Day-to-Day Users
+
+1. **Time delay** — Data entry happens hours or days after the interaction, when context is lost
+2. **Cognitive load** — Filling in fields feels like work, not value
+3. **No immediate payoff** — The salesperson gets nothing useful in return for their effort
+4. **Desktop-first design** — Built for offices, not for life in the field
+5. **Relationship blindness** — Contact records capture job titles, not human details
+
+
+## 3. The Ten Touches Philosophy
+
+### Relationship-First CRM
+
+Ten Touches doesn't store contacts. It preserves relationships.
+
+Every client card is designed as a *relationship memory surface* — a place to capture not just business details, but the human context that makes relationships real. The dog's name. The football team. The shared interest that sparked a connection.
+
+This isn't about being sentimental. It's practical. When you can search by "beagle owner" or "Man United fan," you can reconnect with people the way humans actually remember them — not by company or job title, but by the details that made them memorable.
+
+### Value to the User Before Value to Management
+
+Most CRMs prioritise reporting. Ten Touches prioritises the person doing the work.
+
+Every feature is designed to answer one question: *"Does this help the salesperson right now?"*
+
+If the answer is no, it doesn't belong. If the answer is yes, it stays — even if it never appears on a management dashboard.
+
+The belief: when the tool genuinely helps the user, adoption follows. When adoption follows, data quality improves. When data improves, management gets the visibility they need — as a byproduct, not a demand.
+
+### Touches Over Transactions
+
+Ten Touches doesn't focus on deals. It focuses on interactions.
+
+A "touch" is any meaningful contact with a client — a call, an email, a coffee, a message, an event. Touches build momentum. Touches maintain relationships. Touches compound over time into trust.
+
+Deals are outcomes. Touches are the work that makes outcomes possible.
+
+### Momentum Over Memory
+
+The goal isn't perfect recall. It's consistent action.
+
+Ten Touches helps you stay in motion — following up, checking in, showing up. It removes the friction of "What should I do next?" and replaces it with clear, context-aware reminders that match your energy and environment.
+
+You don't need to remember everything. You need to keep moving.
+
+
+## 4. Target Audience
+
+### Who Ten Touches Is For
+
+- **Business development professionals** who build pipelines through networking and relationships
+- **Founders and entrepreneurs** running their own sales process while juggling everything else
+- **Consultants and advisors** whose work depends on long-term trust and repeat engagement
+- **Sales leaders** who want to lead by example and understand their own selling patterns
+- **Account managers** maintaining high-value client relationships
+- **Anyone who sells through relationships, not scripts**
+
+The common thread: people who know that *how* they sell matters as much as *what* they sell. People who feel the gap between how relationships should be managed and how CRMs force them to work.
+
+### Who Ten Touches Is NOT For
+
+- **High-volume call centres** optimising for activity metrics
+- **Teams that need rigid pipeline enforcement** and stage-gate compliance
+- **Organisations that prioritise reporting over user experience**
+- **Anyone looking for a full enterprise CRM** with integrations, automation, and complexity
+
+Ten Touches is opinionated. It's designed for people who want to sell better, not just track more.
+
+
+## 5. Core Outcomes
+
+Ten Touches helps users get better at four fundamental things:
+
+### Remembering People
+
+Client cards capture both business details and personal context — sports, pets, interests, history. This means you can search by any remembered attribute and walk into every conversation informed.
+
+You stop saying "Remind me again..." and start saying "How's Charlie the Beagle?"
+
+### Following Up Consistently
+
+The reminders system organises future actions by type — calls, emails, meetings, casual check-ins. You can filter by context and match your actions to your energy and environment.
+
+Following up stops feeling like a chore and starts feeling like natural rhythm.
+
+### Choosing Better Sales Actions
+
+The Optimise dashboard shows which touch types work best for you, which actions close deals faster, and what correlates with revenue. This isn't reporting — it's self-coaching.
+
+You stop guessing and start learning what actually works.
+
+### Understanding Your Own Performance
+
+Activity targets, momentum tracking, and outcome reflection help you see patterns without judgement. Won and lost opportunities become learning, not regret.
+
+You build self-awareness without spreadsheets.
+
+
+## 6. High-Level Feature Summary
+
+### Relationship-Centric Client Cards
+Every client has a dedicated card showing business details, personal information, and a four-star quality scoring system (testimonials, referrals, feedback, repeat business). Designed for instant recognition and stronger conversations.
+*Reference: Screenshot 1 – Client Detail Screen*
+
+### Voice-First Data Capture
+Create clients, log touches, and capture opportunity notes by speaking. The record button is always at hand, designed for use immediately after calls or meetings when insight is freshest.
+
+### Touch Tracking & Future Reminders
+Log historical touches and schedule future ones. Every touch includes who, why, what, and when — eliminating the need to search email threads or recall meeting context.
+*Reference: Screenshot 3 – Reminders Take Action Today*
+
+### Opportunity & Revenue-Risking
+Track opportunities through a simple four-stage model (Prospect, Proposal, PO, Paid) with automatic revenue-risking. See both total deal value and risked revenue side by side — no inflated pipelines, no self-delusion.
+*Reference: Screenshots 2 & 4 – Opportunities Dashboard & Opportunity Detail*
+
+### GTD-Style Action Filtering
+Reminders are organised by action type (call, email, SMS, meeting, casual) so you can match tasks to context and energy. Got ten minutes? Knock out some messages. In the car? Make calls.
+*Reference: Screenshot 3 – Reminders Take Action Today*
+
+### Insight Dashboards & Feedback Loops
+The Optimise dashboard shows activity momentum, winning touch types, stage-appropriate actions, deal velocity, and revenue correlation. Built for self-coaching, not management oversight.
+*Reference: Screenshot 5 – Optimise Dashboard*
+
+
+## 7. Differentiation Summary
+
+### How Ten Touches Differs from Traditional CRMs
+
+Traditional CRMs are built for management visibility. Ten Touches is built for user value.
+
+| Traditional CRMs | Ten Touches |
+|------------------|-------------|
+| Desktop-first | Mobile-first |
+| Data entry as obligation | Voice capture as convenience |
+| Contact records | Relationship memory |
+| Pipeline for forecasting | Pipeline for selling |
+| Activity as compliance | Activity as self-improvement |
+| Reports for managers | Insights for sellers |
+
+### How Ten Touches Differs from Task Managers
+
+Task managers help you track to-dos. Ten Touches helps you maintain relationships.
+
+A task manager doesn't know that you met Sarah at a conference, that her deal is at proposal stage, or that casual check-ins work better than emails for her. Ten Touches does.
+
+The reminders in Ten Touches carry context: who the person is, what the opportunity is, why you're reaching out, and what's worked before.
+
+### How Ten Touches Differs from Sales Engagement Tools
+
+Sales engagement tools optimise sequences and cadences at scale. Ten Touches optimises individual relationship quality.
+
+If you're sending hundreds of templated emails, you need automation. If you're building a book of business through real relationships, you need memory — and that's what Ten Touches provides.
+
+
+## 8. Product Principles
+
+### Voice Over Typing
+
+The moment after a conversation is when insight is freshest. Typing on a phone is slow and awkward. Speaking is natural. Ten Touches makes voice the primary input method so capture happens in the moment, not at a desk hours later.
+
+### Insight Over Reporting
+
+Dashboards in Ten Touches aren't for proving activity to someone else. They're for learning what works, building self-awareness, and improving performance over time. The question isn't "What did you do?" — it's "What's helping you win?"
+
+### Behaviour Change Over Compliance
+
+Ten Touches doesn't enforce rules. It nudges better behaviour through design. Star ratings quietly prompt you to ask for testimonials. Momentum tracking encourages consistency without pressure. Insights show what works without prescribing what to do.
+
+The goal is sustainable improvement, not box-ticking.
+
+### Individual Benefit First
+
+Every feature must help the person using it. If a feature only serves management reporting, it doesn't belong. When users get genuine value, they use the tool. When they use the tool, data quality improves. Management visibility becomes a natural outcome, not a forced extraction.
+
+---
+
+*Ten Touches doesn't just tell you what happened. It shows you how to get better next time.*

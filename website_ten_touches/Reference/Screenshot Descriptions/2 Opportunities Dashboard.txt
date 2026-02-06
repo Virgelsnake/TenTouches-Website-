@@ -1,0 +1,217 @@
+
+
+# Screenshot 2
+
+## Opportunities Dashboard (Pipeline You Can *Feel*)
+
+### What this screen is
+
+This is **not** a spreadsheet pipeline.
+It’s a **priority-aware, relationship-linked opportunity list** designed for quick decision-making on mobile.
+
+You’re not analysing deals here — you’re *orienting yourself*.
+
+---
+
+## Features (What’s on the screen)
+
+### 1. Open Opportunities List
+
+* Clean, card-based layout
+* Each opportunity presented as a self-contained unit
+* No tables, no columns, no density overload
+
+### 2. Sort Controls
+
+* Sort by *Client, Touch, Value, Product*
+* Directional toggle (ascending / descending)
+* Designed for fast mental grouping rather than admin sorting
+
+### 3. Opportunity Card Structure
+
+Each card includes:
+
+* Opportunity name (product / service)
+* Client name
+* Total deal value
+* Visual progress indicator (touch circular score)
+* Clear tap affordance
+
+### 4. Progress / Confidence Indicator
+
+* Circular touch progress ring
+* Numeric score (e.g. 4/10, 8/10)
+* Colour-coded outlines per opportunity
+
+This is **confidence**, not just stage.
+
+### 5. Immediate Value Visibility
+
+* Deal values are prominent
+* No need to open the record to know importance
+* £0 opportunities still visible (signal, not noise)
+
+---
+
+## Benefits (Why this matters)
+
+### 1. Instant Pipeline Awareness
+
+**Benefit:**
+In under 10 seconds, you know:
+
+* What’s live
+* What’s big
+* What’s close
+* What’s weak
+
+No filtering. No reports. No thinking.
+
+---
+
+### 2. Mobile-First, Real-Life Use
+
+**Benefit:**
+This works:
+
+* In a lift
+* Between meetings
+* Before walking into a call
+* At the end of the day
+
+Traditional CRMs assume a desk.
+Ten Touches assumes *reality*.
+
+---
+
+### 3. Confidence Over False Precision
+
+**Benefit:**
+Instead of fake accuracy (“Stage 2, 37% probability”), you get:
+
+* A human confidence score
+* Visual momentum
+* Relative certainty
+
+That’s how salespeople actually think.
+
+---
+
+### 4. Emotionally Honest Pipeline
+
+**Benefit:**
+Seeing:
+
+* £75k at 1/10
+* £8k at 4/10
+* £777k at 8/10
+
+…prevents self-delusion.
+
+It encourages better focus and better follow-up behaviour.
+
+---
+
+### 5. Opportunity Cards Feel Lightweight
+
+**Benefit:**
+You don’t feel like:
+
+> “Ugh, I have to open a deal record”
+
+You feel like:
+
+> “Let me just tap into this for a second”
+
+That’s a *huge* adoption win.
+
+---
+
+## User Journey (How it feels to use)
+
+### Step 1: Opening the Dashboard
+
+You open Ten Touches.
+
+You’re not greeted with:
+
+* Alerts
+* Overdue warnings
+* Red shame indicators
+
+Instead, you see **what’s alive**.
+
+---
+
+### Step 2: Rapid Mental Sorting
+
+Without touching anything, your brain instantly sorts:
+
+* “That’s a big deal but early”
+* “That one’s nearly there”
+* “That’s basically dead”
+* “Why is this still £0?”
+
+No clicks required.
+
+---
+
+### Step 3: Confidence Calibration
+
+You subconsciously adjust expectations:
+
+* Today’s focus
+* This week’s priorities
+* Which conversations matter most
+
+This happens *before* you consciously decide anything.
+
+---
+
+### Step 4: Tap With Intent
+
+When you tap an opportunity, it’s intentional:
+
+* You already know the value
+* You already know the confidence
+* You already know the client
+
+So the next screen (opportunity detail) feels like **progress**, not exploration.
+
+---
+
+### Step 5: Reduced Friction vs Traditional CRMs
+
+**Traditional CRM pain:**
+
+* Pipeline views designed for forecasting calls
+* Endless columns
+* Desktop-only logic
+* Over-precision that nobody believes
+
+**Ten Touches experience:**
+
+* Human confidence
+* Visual momentum
+* Honest uncertainty
+* Designed for movement, not reporting
+
+---
+
+## Key Insight for Documentation & Sales Messaging
+
+This screen proves:
+
+> *Ten Touches helps you see your pipeline the way it actually feels — not the way spreadsheets pretend it is.*
+
+That’s a powerful positioning angle, especially against legacy CRMs.
+
+---
+
+### Pause point ✅
+
+**Screenshot 2 complete.**
+
+
+
+

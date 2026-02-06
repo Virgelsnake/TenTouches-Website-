@@ -1,0 +1,206 @@
+
+
+# Screenshot 1
+
+## Client Detail Screen (Relationship-Centric Client Card)
+
+### What this screen is
+
+This is the **heart of Ten Touches**. It’s not a “contact record” — it’s a *relationship memory surface*. Everything here is designed to help the user recognise, recall, and strengthen a real human relationship in seconds.
+
+---
+
+## Features (What’s on the screen)
+
+### 1. Clear Client Identity Header
+
+* Full name prominently displayed
+* Immediate access to edit
+* Back navigation optimised for mobile use
+
+### 2. Business Information Block
+
+* Company
+* Position / role
+* Email
+* Phone number
+* Clean, scannable layout
+* Tap-to-use contact details (implicit mobile-first design)
+
+### 3. Client Quality Scoring (4-Star System)
+
+Four distinct star ratings:
+
+* Testimonials
+* Referrals
+* Feedback
+* Repeat business
+
+Each:
+
+* Individually scored
+* Visually obvious
+* Quantified (number inside star)
+
+### 4. Personal Information Section
+
+Highly human, non-CRM data:
+
+* Sports played and followed
+* Teams supported
+* Pets (type, name, breed)
+
+This data is:
+
+* Structured
+* Searchable
+* Contextual (icons + labels)
+
+### 5. Information Hierarchy
+
+* Business info first (credibility)
+* Personal info second (relationship)
+* No clutter, no fields-for-the-sake-of-fields
+
+---
+
+## Benefits (Why this matters)
+
+### 1. Instant Recognition in the Real World
+
+**Benefit:**
+When you bump into someone unexpectedly, you don’t need perfect recall.
+
+You can search later by:
+
+* Their dog’s name
+* Their football team
+* Their role
+* Their company
+
+This mirrors *how humans actually remember people*.
+
+---
+
+### 2. Stronger, Warmer Conversations
+
+**Benefit:**
+You walk into conversations informed:
+
+* “How’s Charlie the Beagle?”
+* “How did United do at the weekend?”
+* “How’s business at GreenForge going?”
+
+This builds trust faster than any sales technique.
+
+---
+
+### 3. Built-in Behavioural Nudges
+
+**Benefit:**
+The star system doesn’t shame — it *guides*.
+
+You instantly see:
+
+* “I’ve had repeat business but no testimonials”
+* “This client refers people, but I’ve never asked formally”
+* “Great relationship, but no structured feedback yet”
+
+It quietly prompts better selling behaviour without a task list.
+
+---
+
+### 4. CRM That Feels Personal, Not Corporate
+
+**Benefit:**
+This doesn’t feel like data entry for management.
+It feels like **your private relationship assistant**.
+
+That’s why people will actually use it.
+
+---
+
+## User Journey (How it feels to use)
+
+### Step 1: Opening the Client
+
+You tap on *Daniel O’Connor*.
+
+Immediately:
+
+* You know who he is
+* Where he works
+* What he cares about
+* How valuable the relationship currently is
+
+No scrolling. No hunting.
+
+---
+
+### Step 2: Mental Reorientation
+
+In under **5 seconds**, your brain reconnects:
+
+* “Director at GreenForge”
+* “Cricket fan, Ireland”
+* “Supports Man United”
+* “Two dogs — Charlie and Buddy”
+
+This replaces the awkward *“Remind me again…”* moment.
+
+---
+
+### Step 3: Relationship Assessment (Subconscious)
+
+Without thinking, you register:
+
+* Strong repeat business
+* Good referrals
+* Feedback could be improved
+* Testimonials could be increased
+
+No report. No dashboard. Just *knowing*.
+
+---
+
+### Step 4: Action Motivation (Without Pressure)
+
+Nothing screams “TASK”.
+
+But you naturally think:
+
+* “Next time I speak to him, I should ask for a testimonial”
+* “He’d be a great referral source”
+
+That’s behavioural design done right.
+
+---
+
+### Step 5: Reduced Friction vs Traditional CRMs
+
+**Traditional CRM pain:**
+
+* Endless empty fields
+* Forced categorisation
+* Zero emotional payoff
+
+**Ten Touches experience:**
+
+* Human-first
+* Memory-aligned
+* Immediately useful
+* Feels like it’s *for you*, not the business
+
+---
+
+## Key Insight for Documentation & Sales Copy
+
+This screen proves:
+
+> *Ten Touches doesn’t store contacts.
+> It preserves relationships.*
+
+That sentence alone belongs in your product overview.
+
+---
+

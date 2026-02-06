@@ -1,0 +1,352 @@
+# Ten Touches Sales Battlecard
+## vs Traditional CRM Category (Salesforce, HubSpot, Dynamics, Zoho)
+
+**Purpose:** Handle conversations when prospect says "We already use Salesforce/HubSpot/etc."
+
+---
+
+## 1. Anchor Statement
+
+**Ten Touches helps relationship-driven salespeople remember everyone, follow up consistently, and sell smarter — without the admin burden that kills CRM adoption.**
+
+(≤25 words. Use to reset the conversation when it drifts to features.)
+
+---
+
+## 2. Competitive Context
+
+### What Is a Traditional CRM?
+
+Traditional CRMs include enterprise and mid-market platforms built primarily for management visibility:
+- Salesforce
+- HubSpot CRM
+- Microsoft Dynamics
+- Zoho CRM
+
+### Why Prospects Compare Them to Ten Touches
+
+Prospects assume Ten Touches is "another CRM" because it manages clients, opportunities, and activities. The comparison is natural but misses the fundamental difference.
+
+### The Category Mismatch
+
+Traditional CRMs are **systems of record** — built to capture data for forecasting, reporting, and management oversight.
+
+Ten Touches is a **relationship memory tool** — built to help the individual seller remember people, follow up consistently, and understand what works.
+
+The question isn't "which CRM has more features?" — it's "which tool will your team actually use?"
+
+---
+
+## 3. Core Differentiation Pillars
+
+### Pillar 1: Individual Value First
+
+**What it means:**
+Every feature in Ten Touches must help the person using it. If a feature only serves management reporting, it doesn't belong.
+
+**Why this matters to the buyer:**
+When tools deliver value to users, adoption follows naturally. When adoption follows, data quality improves. Managers get visibility because the team uses the tool — not because they're forced to.
+
+**Why traditional CRMs struggle:**
+Traditional CRMs are bought by managers and resented by users. Value flows upward (visibility for leadership) while burden flows downward (data entry for sellers). This creates the adoption failure every sales leader knows too well.
+
+**Ten Touches proof points:**
+- Reminders organised by action type benefit the user directly (Screenshot 3)
+- Personal insights help sellers improve their own performance
+- Client cards with personal details help conversation preparation (Screenshot 1)
+- No features exist solely for management oversight
+
+### Pillar 2: Voice-First Capture
+
+**What it means:**
+Ten Touches is designed around speaking, not typing. Capture clients, touches, and opportunities by voice — in the moment, when insight is fresh.
+
+**Why this matters to the buyer:**
+The moment after a conversation is when details are clearest. By the time someone opens a laptop and fills in forms, the personal details have faded. Voice removes this delay entirely.
+
+**Why traditional CRMs struggle:**
+Traditional CRMs assume desktop access and time for form-filling. They're built for the office, not for life in the field. Mobile apps exist, but they're afterthoughts — shrunken desktop experiences.
+
+**Ten Touches proof points:**
+- Record button accessible throughout the app
+- Voice input for creating clients, logging touches, updating opportunities
+- Mobile-first design optimised for capture anywhere (Screenshot 4)
+- Speak naturally; the system structures it correctly
+
+### Pillar 3: Behavioural Insight Over Reporting
+
+**What it means:**
+The Optimise dashboard shows which of your actions lead to wins — not generic advice, but your personal patterns. This is self-coaching, not compliance reporting.
+
+**Why this matters to the buyer:**
+Sellers want to improve. They don't want to be monitored. Ten Touches gives them data on what works for them personally — which touch types win, which timing works, what actions close deals faster.
+
+**Why traditional CRMs struggle:**
+Traditional CRM reports are designed for management: activity counts, pipeline values, forecast accuracy. They tell you what happened but not how to improve. Sellers get nothing actionable.
+
+**Ten Touches proof points (Screenshot 5):**
+- Pick Winners — win rate by touch type
+- Match the Moment — first touch vs last touch analysis
+- Sell Faster — touches and time to win
+- Value Impact — revenue correlation by action type
+
+---
+
+## 4. Worldview Comparison
+
+### How Traditional CRMs Define Success
+- Data completeness
+- Pipeline accuracy
+- Forecast reliability
+- Activity volume
+
+### How Traditional CRMs Measure Value
+- Number of records created
+- Fields populated
+- Reports generated
+- Dashboard usage
+
+### How Ten Touches Defines Success Differently
+- Relationship momentum maintained
+- Follow-up consistency improved
+- Conversations informed by context
+- Behaviour changed for the better
+
+### How Ten Touches Measures Value Differently
+- User confidence in conversations
+- Pattern recognition and self-improvement
+- Adoption through genuine value
+- Deals won through better relationship management
+
+---
+
+## 5. Key Reframe Questions
+
+Use these to reveal friction with current CRM:
+
+1. **"How often does your team actually update the CRM after calls?"**
+   (Reveals data entry avoidance)
+
+2. **"When you open a contact record, does it tell you anything personal about that person — or just their job title?"**
+   (Reveals relationship blindness)
+
+3. **"Does your CRM help your sellers be better, or does it mainly help you see what they're doing?"**
+   (Reveals the management-first design problem)
+
+4. **"If you removed the reporting requirement, would your team still use the CRM?"**
+   (Reveals adoption is compliance-driven, not value-driven)
+
+5. **"How much time does your team spend on CRM admin versus actually selling?"**
+   (Reveals the productivity tax)
+
+6. **"What happens to the personal details from conversations — the dog's name, the hobby, the connection you made?"**
+   (Reveals that relationship context is lost)
+
+---
+
+## 6. Proof Points & Evidence
+
+### Screens to Reference Verbally
+
+- **Client Detail Screen (Screenshot 1):** "You can search for 'beagle owner' or 'Man United fan' and find the right person — because that's how humans actually remember people."
+
+- **Reminders Screen (Screenshot 3):** "Got ten minutes between meetings? Tap SMS and knock out quick messages. In the car? Tap Phone Call. The system matches your actions to your energy."
+
+- **Optimise Dashboard (Screenshot 5):** "Instead of generic advice like 'make more calls,' Ten Touches tells you: 'When you do meetings, you win 67% of the time. When you do emails, it's 34%.' That's personal and actionable."
+
+### Metrics & Patterns Ten Touches Reveals
+
+- Which touch types have highest win rates for you personally
+- What works best as a first touch vs a closing touch
+- How many touches your wins require vs your losses
+- Which actions correlate with your actual revenue
+
+### Behavioural Outcomes Users Experience
+
+- Walking into conversations informed and confident
+- Never forgetting a follow-up or letting relationships go cold
+- Understanding their selling patterns and improving over time
+- Feeling like the CRM helps them, not just tracks them
+
+---
+
+## 7. Common Objections & Reframes
+
+### Objection: "We already have a CRM"
+
+**Underlying concern:**
+Worried about duplicate systems, wasted investment, or change management.
+
+**Recommended reframe:**
+"That's exactly the problem we help solve. The question isn't whether you have a CRM — it's whether your team uses it. Most CRMs are built for reporting. Ten Touches is built for the person doing the selling. When capture happens in the moment by voice, when the tool gives back personal insights, when reminders match your energy — people actually use it."
+
+**Language guidance:**
+Don't position as replacement. Position as solving a different problem — user value and adoption.
+
+**Follow-up question:**
+"If your team loved using your CRM, you probably wouldn't be talking to me. What's the friction they experience?"
+
+---
+
+### Objection: "Can't our current CRM do this?"
+
+**Underlying concern:**
+Believes the current tool has similar capabilities (notes, reminders, mobile app).
+
+**Recommended reframe:**
+"The features might look similar, but the philosophy is different. Your CRM can probably store notes — but is it designed around voice capture in the moment? Does it show you which of your specific actions lead to wins? Does it help your team actually want to use it? Ten Touches is built differently — user value first, not management reporting first."
+
+**Language guidance:**
+Acknowledge capability overlap, then pivot to philosophy and adoption.
+
+**Follow-up question:**
+"When was the last time someone on your team said they enjoyed using the CRM?"
+
+---
+
+### Objection: "My team won't use another tool"
+
+**Underlying concern:**
+Fatigue from too many tools; fear of adding complexity.
+
+**Recommended reframe:**
+"That concern tells me they're already overwhelmed by tools that don't help them. Ten Touches is different — it's designed to be valuable to each user first. Voice capture takes seconds. Reminders are organised by what you're ready to do. Insights show what works for you. When the tool genuinely helps, people use it because they want to, not because they're told to."
+
+**Language guidance:**
+Turn the objection into validation. Tool fatigue comes from tools that burden without benefit.
+
+**Follow-up question:**
+"What would it take for your team to actually want to use a CRM?"
+
+---
+
+## 8. Win Scenarios
+
+### Ten Touches Wins Decisively When:
+
+**CRM adoption has failed**
+The prospect has tried traditional CRMs and their team won't use them. Ten Touches' user-value approach directly addresses this pain.
+
+**Relationship-driven sales model**
+The prospect sells through genuine human connection, not volume or scripts. Conversations depend on remembering personal details.
+
+**Founder-led or small team sales**
+Limited time for admin. Need something that works in the margins of a busy day without configuration overhead.
+
+**Mobile-first requirement**
+Team works in the field — at events, in cars, between meetings. Desktop-first tools don't fit their reality.
+
+**Personal details matter**
+Sales conversations depend on remembering human context (sports, family, interests, shared connections).
+
+### Signals You're Winning:
+
+- Prospect says "my team won't use our current CRM"
+- Prospect describes relationships as central to their sales process
+- Prospect mentions being in the field frequently
+- Prospect lights up at the personal information fields
+- Prospect asks about voice capture with genuine interest
+
+---
+
+## 9. Lose / Walk-Away Scenarios
+
+### Ten Touches Is Not the Right Fit When:
+
+**Enterprise complexity required**
+The prospect needs extensive customisation, complex approval workflows, territory management, or enterprise administration.
+
+**Reporting is the primary need**
+The prospect cares primarily about management dashboards and compliance reporting, not user value.
+
+**Integration ecosystem required**
+The prospect needs deep integration with marketing automation, ERP systems, or dozens of other tools.
+
+**The user isn't the buyer**
+The decision is made by someone who will never use the tool and only cares about management visibility metrics.
+
+### Signals You're Losing:
+
+- Prospect asks detailed questions about integrations first
+- Prospect focuses heavily on reporting capabilities
+- Prospect wants mandatory fields and approval workflows
+- Prospect is buying for others, not themselves
+
+### Walking Away Confidently:
+
+"It sounds like your primary need is [enterprise administration / deep integrations / compliance reporting]. Ten Touches is built for a different problem — helping relationship-driven salespeople remember clients and follow up consistently. If that's not the core need, we're probably not the right fit. But if it becomes a priority, we'd love to talk again."
+
+---
+
+## 10. Language & Framing Guidance
+
+### Words and Phrases to Lean Into
+
+**Relationship-focused:**
+- Relationship memory (not contact record)
+- Client (not contact, lead, or prospect)
+- Touch (any meaningful interaction)
+- Personal details
+- Human connection
+
+**Value-focused:**
+- User value first
+- Actually helps you
+- Designed for you
+- Gives back
+- Adoption through value
+
+**Action-focused:**
+- Capture in the moment
+- Match your energy
+- Momentum
+- Follow up consistently
+- Voice-first
+
+### Words and Phrases to Avoid
+
+**CRM clichés:**
+- "360-degree view"
+- "Single source of truth"
+- "Next-gen" / "AI-powered"
+- "Seamless" / "Robust"
+- "Best-in-class"
+
+**Competitor-focused language:**
+- Don't name specific competitors unless the prospect does first
+- Don't attack competitors directly
+- Say "traditional CRMs" or "most CRMs" instead
+
+### How to Reference Traditional CRMs Without Attacking
+
+**Do say:**
+- "Traditional CRMs are built for management visibility, which is valuable — but it means users often don't get much back for their effort."
+- "Most CRMs assume you're at a desk with time for form-filling. Ten Touches assumes you're between meetings with 30 seconds."
+
+**Don't say:**
+- "Salesforce is bloated and terrible"
+- "HubSpot doesn't care about users"
+
+---
+
+## 11. Closing Anchor
+
+**"Ten Touches isn't about replacing your CRM. It's about solving the problem your CRM was never designed to solve — helping your team remember people, follow up consistently, and understand what actually wins deals."**
+
+Use this to re-centre the conversation on value when it drifts to features or integration questions.
+
+---
+
+## Quality Verification ✓
+
+- [x] Salesperson can use mid-call without preparation
+- [x] Does not require slide or screen share
+- [x] No feature comparison tables
+- [x] Changes how buyer thinks, not just what they compare
+- [x] Scannable in under 60 seconds
+- [x] Narrative-driven, not tabular
+- [x] All claims align with Knowledge Base documents
+
+---
+
+*Battlecards win conversations, not comparisons.*

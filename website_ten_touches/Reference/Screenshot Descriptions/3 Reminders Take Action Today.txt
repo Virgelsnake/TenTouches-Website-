@@ -1,0 +1,245 @@
+
+# Screenshot 3
+
+## “Take Action Today” – Reminders Organised by Action Type
+
+### What this screen is
+
+This is **not** a task list.
+It’s a **context-aware execution engine** designed around *how humans actually get tings done*.
+
+This is Get Things Done (GTD) applied properly to sales.
+
+---
+
+## Features (What’s on the screen)
+
+### 1. “Take Action Today” Header
+
+* Strong behavioural framing
+* Focused on *doing*, not managing
+* Immediately answers: *“What should I do now?”*
+
+---
+
+### 2. Action-Type Filter Bar
+
+Clearly defined, tappable contexts:
+
+* All
+* SMS
+* Phone Call
+* Email
+* Meeting
+* Linkedin
+* Tweet
+* Casual
+* Event
+
+
+This is **context filtering**, not priority sorting.
+
+---
+
+### 3. Action Cards (Reminder Items)
+
+Each reminder includes:
+
+* Action type (icon + label)
+* Associated opportunity
+* Client name
+* Due date and time
+* Free-text intent (“Check in after implementation”)
+* Visual urgency cues (red for overdue)
+
+---
+
+### 4. Overdue Visibility Without Aggression
+
+* Overdue items clearly marked
+* No shame language
+* No flashing warnings
+* Still calm, still usable
+
+---
+
+### 5. Chronological Ordering
+
+* Actions ordered by time
+* Natural flow through the day
+* No forced “importance” scoring
+
+---
+
+## Benefits (Why this matters)
+
+### 1. Removes the “What Should I Do Now?” Tax
+
+**Benefit:**
+This screen eliminates decision fatigue.
+
+You don’t:
+
+* Re-plan your day
+* Re-prioritise
+* Re-think intent
+
+You simply *execute*.
+
+---
+
+### 2. Works With Your Energy, Not Against It
+
+**Benefit:**
+You can match actions to mood and environment:
+
+* Got 10 minutes? → SMS
+* In the car? → Phone calls
+* In a quiet space? → Emails
+
+Traditional CRMs ignore human energy.
+Ten Touches embraces it.
+
+---
+
+### 3. Sales Follow-Up Becomes Lightweight
+
+**Benefit:**
+Following up no longer feels like:
+
+> “I need to sit down and do admin”
+
+It feels like:
+
+> “I’ll knock out a few calls now”
+
+That shift massively increases consistency.
+
+---
+
+### 4. Zero Context Switching
+
+**Benefit:**
+Every reminder already contains:
+
+* Who
+* Why
+* What
+* When
+
+You never have to:
+
+* Open multiple records
+* Search email threads
+* Recall meeting context
+
+---
+
+### 5. Encourages Relationship Momentum
+
+**Benefit:**
+Because actions include *casual* and *non-selling* touches:
+
+* Coffee
+* Events
+* Check-ins
+
+The system reinforces relationship-building, not just deal chasing.
+
+---
+
+## User Journey (How it feels to use)
+
+### Step 1: Opening Reminders
+
+You tap **Reminders**.
+
+You’re not hit with:
+
+* A backlog
+* A scary red list
+* A feeling of failure
+
+You’re invited to *take action*.
+
+---
+
+### Step 2: Context Selection
+
+You ask yourself:
+
+> “What do I feel like doing right now?”
+
+You tap:
+
+* **Phone Call**
+
+Instantly:
+
+* Everything else disappears
+* Only relevant actions remain
+
+No scrolling. No filtering gymnastics.
+
+---
+
+### Step 3: Micro-Execution Mode
+
+You start working down the list:
+
+* One call
+* One SMS
+* One quick check-in
+
+Each action is small.
+Each action is meaningful.
+Each action moves a relationship forward.
+
+---
+
+### Step 4: Natural Flow State
+
+You’re not “doing CRM”.
+
+You’re just:
+
+* Calling people
+* Messaging contacts
+* Maintaining momentum
+
+The tool disappears. The work remains.
+
+---
+
+### Step 5: Reduced Friction vs Traditional CRMs
+
+**Traditional CRM pain:**
+
+* Tasks mixed with admin
+* Artificial priorities
+* Endless lists
+* Follow-up avoidance
+
+**Ten Touches experience:**
+
+* Contextual clarity
+* Low cognitive load
+* Human pacing
+* Action without resistance
+
+---
+
+## Key Insight for Documentation & Sales Messaging
+
+This screen proves:
+
+> *Ten Touches doesn’t tell you what’s urgent — it helps you do what you’re ready to do.*
+
+That’s an incredibly strong positioning line for:
+
+* Productivity-led buyers
+* Founders
+* Relationship sellers
+
+---
+

@@ -159,7 +159,7 @@
 - [x] **AC-03** Page renders correctly in Edge
 - [x] **AC-04** Page is responsive (320px – 1920px viewport)
 - [x] **AC-05** App icon displays correctly
-- [x] **AC-06** "Coming Soon" text is visible
+<!-- - [x] **AC-06** "Coming Soon" text is visible -->
 - [x] **AC-07** No console errors in DevTools
 
 ### 6.3 Performance & Accessibility Audit

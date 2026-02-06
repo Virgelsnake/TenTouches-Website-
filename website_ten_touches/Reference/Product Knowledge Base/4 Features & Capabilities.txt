@@ -1,0 +1,415 @@
+# Ten Touches – Features & Capabilities
+
+What It Does (Without Marketing Fluff)
+
+This supports demos, onboarding, and comparisons.
+
+
+## 1. Client Cards
+
+*Reference: Screenshot 1 – Client Detail Screen*
+
+### Relationship-First Data Model
+
+Every client in Ten Touches is stored as a *relationship memory surface*, not a contact record. The data model captures both professional and personal information in a structured, searchable format.
+
+**Business Information:**
+- Full name with prominent display
+- Company and position/role
+- Email and phone number
+- Tap-to-use contact details (mobile-optimised)
+
+**Personal Information:**
+- Sports played and followed
+- Teams supported
+- Pets (type, name, breed)
+- Other memorable details that make the relationship real
+
+This dual structure mirrors how humans actually remember people — not by job title alone, but by the details that made them memorable.
+
+### Search by Any Remembered Attribute
+
+Traditional CRMs let you search by name, company, or email. Ten Touches lets you search by anything you remembered:
+
+- "Who was the beagle owner?"
+- "Which client supports Man United?"
+- "Who plays cricket?"
+
+This means you can reconnect with people even when you've forgotten their name but remember something about them.
+
+### Personal Detail Emphasis
+
+The client card prioritises human details alongside business information. Personal data is:
+- **Structured** — not buried in free-text notes
+- **Searchable** — indexed for quick retrieval
+- **Contextual** — displayed with icons and labels for instant recognition
+
+### Information Hierarchy
+
+The card layout follows a deliberate order:
+1. **Identity** — Who is this person? (name, photo if available)
+2. **Business context** — Where do they work and what do they do?
+3. **Personal context** — What makes them human?
+4. **Relationship quality** — How strong is this relationship? (see Client Quality Scoring)
+
+No clutter. No fields-for-the-sake-of-fields. Only what helps you recognise and reconnect.
+
+
+## 2. Voice Input Engine
+
+### Why Voice?
+
+The moment after a conversation is when insight is freshest. Typing on a phone is slow and awkward. Voice is natural, fast, and captures nuance that typing loses.
+
+Ten Touches makes voice the primary input method for speed, accuracy, and real-world usability.
+
+### Creating Clients via Voice
+
+Speak a new client into existence:
+
+> "Add Daniel O'Connor, Director at GreenForge Solutions. Email daniel@greenforge.com. He plays cricket, supports Ireland and Man United, has two dogs called Charlie and Buddy — a Beagle and a Labrador."
+
+The system parses this into structured fields automatically. No form-filling required.
+
+### Logging Touches via Voice
+
+Record what happened immediately after a call or meeting:
+
+> "Just had a call with Daniel. Discussed the cybersecurity audit proposal. He's interested but wants to see case studies and our ISO certification. Schedule a follow-up call for next Thursday."
+
+This captures:
+- What happened
+- Key details and objections
+- Next action
+
+All without opening a laptop.
+
+### Creating Opportunities via Voice
+
+Start tracking a deal the moment it becomes real:
+
+> "Create opportunity: Cybersecurity Audit for GreenForge Solutions. Value eighteen thousand pounds. Currently at prospect stage."
+
+The opportunity is created, linked to the client, and ready for tracking.
+
+### Field Auto-Population
+
+Voice input isn't just transcription. The system interprets what you say and populates the correct fields:
+- Names go to name fields
+- Emails go to email fields
+- Companies go to company fields
+- Personal details are categorised appropriately
+
+You speak naturally. The system structures it correctly.
+
+
+## 3. Touch Tracking
+
+### What Is a Touch?
+
+A "touch" is any meaningful interaction with a client. It's the fundamental unit of relationship maintenance in Ten Touches.
+
+Touches include:
+- Phone calls
+- Emails
+- SMS messages
+- Meetings (in-person or virtual)
+- LinkedIn messages
+- Casual check-ins (coffee, events)
+- Any other intentional contact
+
+### Historical Touches
+
+Every touch is logged with:
+- **Date and time** — When it happened
+- **Touch type** — How you connected (call, email, meeting, etc.)
+- **Context** — What you discussed or the purpose
+- **Linked opportunity** — If relevant to a specific deal
+
+This creates a complete interaction history for every client, eliminating the need to search email threads or calendar entries.
+
+### Future Planned Touches (Reminders)
+
+*Reference: Screenshot 3 – Reminders Take Action Today*
+
+Ten Touches doesn't just track what happened — it helps you plan what's next.
+
+Future touches are scheduled with:
+- **Specific date and time** — When you intend to reach out
+- **Touch type** — What kind of interaction you're planning
+- **Intent** — Why you're reaching out (e.g., "Check in after implementation")
+- **Linked client and opportunity** — Full context at a glance
+
+### Time/Date Tagging
+
+Every touch — past or future — is anchored to a specific point in time. This enables:
+- Chronological timelines per client
+- Overdue visibility without aggressive warnings
+- Pattern analysis (how often do you touch this client?)
+
+### Touch Types
+
+Ten Touches supports multiple touch types, each with its own icon and category:
+
+- **SMS** — Quick text messages
+- **Phone Call** — Voice conversations
+- **Email** — Written correspondence
+- **Meeting** — Scheduled face-to-face or video calls
+- **LinkedIn** — Professional network engagement
+- **Tweet** — Social media interaction
+- **Casual** — Coffee, lunch, events, informal catch-ups
+- **Event** — Conferences, networking events, seminars
+
+This categorisation powers the GTD-style filtering (see Section 5) and the Optimise dashboard insights (see Section 6).
+
+
+## 4. Opportunity Management
+
+*Reference: Screenshots 2 & 4 – Opportunities Dashboard & Opportunity Detail*
+
+### Opportunity Cards
+
+Each opportunity is displayed as a self-contained card showing:
+- **Opportunity name** — The product, service, or deal
+- **Client name** — Who you're selling to
+- **Total deal value** — The headline number
+- **Progress indicator** — Visual confidence ring with numeric score
+- **Colour-coded outline** — Visual differentiation between opportunities
+
+Cards are designed for quick scanning on mobile. No tables, no columns, no density overload.
+
+### Revenue Value Tracking
+
+Every opportunity tracks two numbers:
+
+1. **Total Value** — The full potential worth of the deal (e.g., £18,000)
+2. **Risked Revenue** — The probability-weighted value based on current stage (e.g., £4,500 at 25% confidence)
+
+This dual display prevents self-delusion. You see both what you *hope* to win and what you *probably* will win.
+
+### Four-Stage Risk Weighting
+
+Ten Touches uses a simple, universally understood progression model:
+
+| Stage | Confidence | Risked Revenue |
+|-------|------------|----------------|
+| **Prospect** | 25% | Quarter of total value |
+| **Proposal** | 50% | Half of total value |
+| **PO** | 75% | Three-quarters of total value |
+| **Paid** | 100% | Full value |
+
+This model is:
+- **Easy to explain** — Anyone can understand "We're at proposal, so it's worth half"
+- **Honest** — No fake precision or probability percentages to argue about
+- **Actionable** — Each stage implies clear progression criteria
+
+### Status Tracking
+
+Opportunities have three possible statuses:
+- **Live** — Active, still being pursued
+- **Won** — Successfully closed (typically when reaching Paid stage)
+- **Lost** — No longer viable
+
+Status is separate from stage. A deal can be advanced but lost, or early but promising. This reflects reality better than binary CRM logic.
+
+### Sorting and Filtering
+
+The Opportunities Dashboard supports sorting by:
+- **Client** — Group deals by who you're selling to
+- **Touch** — Sort by engagement level
+- **Value** — Prioritise by deal size
+- **Product** — Group by what you're selling
+
+Each sort has directional toggle (ascending/descending) for flexible mental grouping.
+
+
+## 5. GTD-Inspired Actions
+
+*Reference: Screenshot 3 – Reminders Take Action Today*
+
+### The Philosophy
+
+Ten Touches applies Getting Things Done (GTD) principles to sales follow-up. Instead of organising by priority or urgency, actions are organised by *context* — the conditions needed to do them.
+
+This lets you match your actions to your energy and environment rather than fighting a static to-do list.
+
+### Context-Based Filtering
+
+The "Take Action Today" screen presents a filter bar with touch types:
+
+- **All** — See everything
+- **SMS** — Quick messages
+- **Phone Call** — Voice conversations
+- **Email** — Written follow-ups
+- **Meeting** — Scheduled engagements
+- **LinkedIn** — Professional network actions
+- **Tweet** — Social media tasks
+- **Casual** — Informal check-ins
+- **Event** — Conference and networking follow-ups
+
+Tap a category, and only relevant actions appear. No scrolling through irrelevant tasks.
+
+### Touch-Type Views
+
+Each filter creates a focused execution mode:
+
+- **Got 10 minutes between meetings?** → Tap SMS, knock out quick messages
+- **In the car or walking?** → Tap Phone Call, make calls hands-free
+- **At your desk with focus time?** → Tap Email, write thoughtful responses
+- **Energy for relationship building?** → Tap Casual, schedule coffee or check-ins
+
+This approach removes the "What should I do now?" decision fatigue.
+
+### Daily Execution Focus
+
+The screen header says "Take Action Today" — not "Your Tasks" or "To-Do List."
+
+This framing:
+- Emphasises *doing*, not managing
+- Focuses on the present, not the backlog
+- Invites action without pressure
+
+Overdue items are visible but not aggressive. No shame language. No flashing warnings. Still calm, still usable.
+
+### Action Card Structure
+
+Each reminder card includes:
+- **Action type** — Icon and label showing the touch type
+- **Associated opportunity** — What deal this relates to (if any)
+- **Client name** — Who you're contacting
+- **Due date and time** — When you planned to do this
+- **Free-text intent** — Why you're reaching out (e.g., "Check in after implementation")
+- **Visual urgency cue** — Subtle colour for overdue items
+
+Everything you need to act is on the card. No need to open multiple records.
+
+
+## 6. Dashboards & Insights
+
+*Reference: Screenshot 5 – Optimise Dashboard*
+
+The Optimise dashboard is a behavioural intelligence layer designed for the individual seller, not management oversight. It turns everyday sales activity into self-coaching.
+
+### Daily Touch Targets
+
+**Question answered:** "Am I showing up consistently?"
+
+Features:
+- User-defined activity target (e.g., 3 touches per 14 days)
+- Toggle to enable or disable tracking
+- Simple +/- controls to adjust targets
+- Clear "Below Target" or "On Track" indicators
+
+This focuses on activity rhythm, not raw volume. Consistency matters more than spikes of effort.
+
+### Activity vs Target Tracking
+
+**Question answered:** "How am I doing over time?"
+
+Features:
+- Bar chart showing touches completed over time
+- Visual comparison against your target
+- Trend visibility without spreadsheets
+
+This makes momentum visible at a glance and encourages habit-building without turning activity into a quota.
+
+### Pick Winners (Winning Touch Identification)
+
+**Question answered:** "Which actions actually work for me?"
+
+Features:
+- Touch types displayed as icons
+- Win rate per touch type
+- Performance delta (+ / – points vs average)
+- Sample size visibility (n=)
+
+This shows which actions perform best *when you use them* and highlights underused high-performing touch types.
+
+Instead of generic advice like "make more calls," Ten Touches tells you: "When *you* do this, it works."
+
+### Match the Moment Analysis
+
+**Question answered:** "What works best at different stages of a deal?"
+
+Features:
+- Separate views for First Touch and Last Touch
+- Win rate by touch type at each stage
+- Visual contrast between strong openers and strong closers
+
+This reveals that timing matters as much as action. The same touch type can succeed or fail depending on the moment.
+
+### Sell Faster
+
+**Question answered:** "Which actions close deals with fewer touches and less time?"
+
+Features:
+- Average number of touches required to win per touch type
+- Average days to win per touch type
+- Side-by-side comparison across channels
+
+This identifies the most efficient sales actions and helps reduce deal drag. Users learn how to win with less effort, not more.
+
+### Value Impact
+
+**Question answered:** "Which actions show up in the revenue I actually win?"
+
+Features:
+- Percentage contribution of each touch type to won revenue
+- Sample size indicators
+- Clear revenue correlation signals
+
+This connects behaviour directly to outcomes and reinforces high-value actions.
+
+### Core Metrics & Outcomes
+
+**Question answered:** "How am I doing overall?"
+
+Features:
+- Conversion rate
+- Average touches per deal
+- Won vs lost comparison
+- List of won and lost opportunities for reflection
+
+This grounds insights in real outcomes and encourages reflection without overwhelm.
+
+
+## 7. Client Quality Scoring
+
+*Reference: Screenshot 1 – Client Detail Screen*
+
+### The Four-Star System
+
+Every client card includes four distinct quality ratings, each scored with a visual star system:
+
+| Dimension | What It Measures |
+|-----------|------------------|
+| **Testimonials** | Has this client provided written or video endorsements? |
+| **Referrals** | Has this client introduced you to others? |
+| **Feedback** | Has this client given structured feedback on your work? |
+| **Repeat Business** | Has this client bought from you more than once? |
+
+Each star is:
+- **Individually scored** — Separate rating per dimension
+- **Visually obvious** — Filled vs unfilled stars
+- **Quantified** — Number inside star shows count/score
+
+### Behavioural Nudges Without Pressure
+
+The star system doesn't shame — it guides.
+
+Glancing at a client card, you instantly see:
+- "I've had repeat business but no testimonials"
+- "This client refers people, but I've never asked formally"
+- "Great relationship, but no structured feedback yet"
+
+This quietly prompts better selling behaviour without creating a task list or compliance burden.
+
+### Why This Matters
+
+Most CRMs track deal value. Ten Touches tracks relationship quality.
+
+High-quality clients — those who refer, endorse, and return — are worth more than one-time buyers. The four-star system makes this visible and actionable.
+
+---
+
+*Ten Touches: features built for the person doing the work, not the person reading the reports.*

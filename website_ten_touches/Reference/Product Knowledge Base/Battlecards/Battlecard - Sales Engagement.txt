@@ -1,0 +1,350 @@
+# Ten Touches Sales Battlecard
+## vs Sales Engagement Platform Category (Outreach, Salesloft, Apollo)
+
+**Purpose:** Handle conversations when prospect mentions Outreach, Salesloft, Apollo, or similar sequence-based tools.
+
+---
+
+## 1. Anchor Statement
+
+**Ten Touches helps relationship-driven salespeople remember everyone, follow up consistently, and sell smarter — without the admin burden that kills CRM adoption.**
+
+(≤25 words. Use to reset the conversation when it drifts to features.)
+
+---
+
+## 2. Competitive Context
+
+### What Is a Sales Engagement Platform?
+
+Sales engagement platforms are built for high-volume, automated outreach:
+- Outreach
+- Salesloft
+- Apollo
+- Mixmax
+- Reply.io
+
+### Why Prospects Compare Them to Ten Touches
+
+Both tools help salespeople follow up with prospects. From a distance, they look like they solve the same problem — staying in touch with potential customers.
+
+### The Category Mismatch
+
+Sales engagement platforms optimise for **volume and automation** — sequences, cadences, templates, and activity metrics. They're built for SDR teams running outbound at scale.
+
+Ten Touches optimises for **relationship quality** — personal memory, contextual follow-up, and behavioural insight. It's built for people who sell through genuine human connection.
+
+The question isn't "which has better sequences?" — it's "do you sell through volume or relationships?"
+
+---
+
+## 3. Core Differentiation Pillars
+
+### Pillar 1: Relationship Depth Over Sequence Volume
+
+**What it means:**
+Ten Touches is designed around deepening individual relationships, not scaling outreach to hundreds of contacts simultaneously.
+
+**Why this matters to the buyer:**
+If your deals depend on trust, context, and human connection, you need to remember people — not just automate touches. The quality of each conversation matters more than the quantity of sequences sent.
+
+**Why sales engagement platforms struggle:**
+Sales engagement tools treat contacts as stages in a sequence. The relationship is a cadence to execute, not a connection to nurture. Personal details are lost in template variables.
+
+**Ten Touches proof points (Screenshot 1):**
+- Client cards with personal details (sports, pets, interests)
+- Search by any remembered attribute
+- Four-star quality scoring for relationship health
+- Relationship-first data hierarchy
+
+### Pillar 2: Personal Memory Over Template Automation
+
+**What it means:**
+Ten Touches captures and surfaces the human details that make relationships real — the dog's name, the sports team, the shared interest that sparked a connection.
+
+**Why this matters to the buyer:**
+When you can say "How's Charlie the Beagle?" instead of "Just following up on my previous email," the conversation is fundamentally different. Personal memory builds trust faster than any automation.
+
+**Why sales engagement platforms struggle:**
+Sales engagement tools are built for templated outreach with merge fields. They can insert {FirstName} and {Company}, but they can't remember that someone's husband golfs or their daughter just started university.
+
+**Ten Touches proof points:**
+- Personal information fields on every client card
+- Voice-first capture preserves details in the moment
+- Searchable relationship context
+- Context-rich reminder cards
+
+### Pillar 3: Behavioural Insight Over Activity Metrics
+
+**What it means:**
+The Optimise dashboard shows which of your actions lead to wins — your personal patterns for success, not generic activity counts.
+
+**Why this matters to the buyer:**
+Instead of "you sent 47 emails this week," Ten Touches tells you: "When you do meetings, you win 67% of the time. Emails? 34%." That insight changes behaviour and improves outcomes.
+
+**Why sales engagement platforms struggle:**
+Sales engagement tools measure activity volume — emails sent, calls made, sequences completed. They optimise for throughput, not for what actually works for you personally.
+
+**Ten Touches proof points (Screenshot 5):**
+- Pick Winners — win rate by touch type
+- Match the Moment — what works for opening vs closing
+- Sell Faster — touches and days to win
+- Value Impact — revenue correlation by action
+
+---
+
+## 4. Worldview Comparison
+
+### How Sales Engagement Platforms Define Success
+- Sequence completion rates
+- Activity volume metrics
+- Response rates at scale
+- Pipeline velocity through automation
+
+### How Sales Engagement Platforms Measure Value
+- Emails sent per day
+- Calls logged
+- Sequences running
+- Template performance
+
+### How Ten Touches Defines Success Differently
+- Relationship quality and depth
+- Personal context maintained
+- Follow-up consistency with genuine care
+- Seller improvement over time
+
+### How Ten Touches Measures Value Differently
+- Which of your actions lead to your wins
+- Relationship momentum, not activity volume
+- Conversation quality through preparation
+- Behaviour change through self-coaching
+
+---
+
+## 5. Key Reframe Questions
+
+Use these to expose automation fatigue and relationship gaps:
+
+1. **"How personal are your follow-ups, really? Or are they mostly templated sequences?"**
+   (Reveals automation dependency)
+
+2. **"When you reach out, do you know anything personal about the person — or just their company and job title?"**
+   (Reveals relationship blindness)
+
+3. **"Are your prospects responding to you because you're relevant, or just because you're persistent?"**
+   (Reveals volume-over-quality approach)
+
+4. **"When a sequence ends and the prospect doesn't convert, what happens to that relationship?"**
+   (Reveals relationship decay after automation)
+
+5. **"Does your sales engagement tool help you understand which of your actions actually lead to wins?"**
+   (Reveals insight gap)
+
+6. **"If you had to describe your relationship with your top 20 prospects beyond their deal stage, could you?"**
+   (Reveals human context gap)
+
+---
+
+## 6. Proof Points & Evidence
+
+### Screens to Reference Verbally
+
+- **Client Detail Screen (Screenshot 1):** "Every client has personal details — sports, pets, interests — structured and searchable. When you reconnect, you can say 'How's Charlie the Beagle?' not 'Just circling back on my previous email.'"
+
+- **Reminders Screen (Screenshot 3):** "Follow-ups are organised by what you're ready to do — calls, emails, casual check-ins. Not by which sequence stage you're at. Human context, not automation steps."
+
+- **Optimise Dashboard (Screenshot 5):** "Instead of 'you sent 47 emails,' you see 'when you do meetings, you win 67%.' Personal insight, not activity counting."
+
+### Metrics & Patterns Ten Touches Reveals
+
+- Which touch types have highest win rates for you
+- What works best to open relationships vs close deals
+- How many touches your wins require compared to losses
+- Which actions correlate with actual revenue
+
+### Behavioural Outcomes Users Experience
+
+- Conversations feel personal, not templated
+- Relationships deepen instead of decaying after sequences end
+- Sellers understand their own patterns
+- Follow-up becomes natural, not automated
+
+---
+
+## 7. Common Objections & Reframes
+
+### Objection: "We need automation"
+
+**Underlying concern:**
+Fear that without automation, they can't keep up with volume.
+
+**Recommended reframe:**
+"Automation makes sense when you're scaling outbound to hundreds of cold contacts. But if your deals depend on relationships — trust, context, genuine connection — automation can actually work against you. Ten Touches helps you maintain real relationships consistently, which is different from automating touches at scale."
+
+**Language guidance:**
+Acknowledge automation's place, then clarify when it helps vs hurts.
+
+**Follow-up question:**
+"Are your best deals coming from cold sequences, or from relationships you've actually built?"
+
+---
+
+### Objection: "This doesn't scale like sequences"
+
+**Underlying concern:**
+Worried about managing more relationships than they can personally handle.
+
+**Recommended reframe:**
+"That's true — and intentional. Ten Touches is for relationship-driven sellers who want to deepen connections with a manageable number of high-value prospects. If you're running hundreds of cold sequences, you need a different tool. If you're building a book of business through real relationships, Ten Touches helps you do that better."
+
+**Language guidance:**
+Be honest about scale. Ten Touches is for depth, not volume.
+
+**Follow-up question:**
+"How many of your current prospects do you actually know personally — not just their deal stage?"
+
+---
+
+### Objection: "Where's the email tracking?"
+
+**Underlying concern:**
+Accustomed to seeing open rates, click rates, and engagement metrics.
+
+**Recommended reframe:**
+"Ten Touches tracks what matters for relationship sellers: which of your actions lead to wins, what works at different deal stages, and how to improve your approach. That's more actionable than knowing someone opened your email three times. You don't need to optimise templates — you need to understand what works for you."
+
+**Language guidance:**
+Reframe from template optimisation to behaviour optimisation.
+
+**Follow-up question:**
+"Has email tracking data ever actually changed how you sell? Or does it just confirm what you already guessed?"
+
+---
+
+## 8. Win Scenarios
+
+### Ten Touches Wins Decisively When:
+
+**Relationship-driven sales model**
+The prospect sells through genuine connection, not cold sequences. Their best clients came from relationships, not automation.
+
+**Automation fatigue**
+The prospect has run sequences and feels like they're becoming "just another salesperson in the inbox." They want to stand out through genuine connection.
+
+**Complex B2B sales**
+Long sales cycles with high-value engagements where trust matters more than speed. Each relationship is worth nurturing individually.
+
+**Founders and consultants**
+People building a book of business through personal reputation, not volume. They don't have SDR teams running outbound.
+
+**Post-sequence relationship decay**
+The prospect notices that once sequences end, relationships go cold. They want to maintain momentum beyond automation.
+
+### Signals You're Winning:
+
+- Prospect says "I sell through relationships, not sequences"
+- Prospect mentions automation feeling impersonal
+- Prospect describes complex, trust-based sales
+- Prospect asks about personal details and relationship memory
+- Prospect is frustrated with "spray and pray" approaches
+
+---
+
+## 9. Lose / Walk-Away Scenarios
+
+### Ten Touches Is Not the Right Fit When:
+
+**High-volume outbound motion**
+The prospect has SDR teams running cold sequences to hundreds of new prospects weekly. They need automation at scale.
+
+**Template optimisation is the goal**
+The prospect wants to A/B test email templates and optimise open rates. They're focused on conversion at volume.
+
+**Activity metrics drive management**
+The prospect's leadership measures success by activity counts — calls made, emails sent, sequences completed.
+
+**Cold outreach is primary**
+The prospect rarely has warm relationships. Most sales come from cold approaches at scale.
+
+### Signals You're Losing:
+
+- Prospect asks about sequence automation
+- Prospect wants template management and A/B testing
+- Prospect describes SDR team volume metrics
+- Prospect's primary focus is cold outreach conversion
+
+### Walking Away Confidently:
+
+"It sounds like your motion is high-volume outbound with sequence automation. Sales engagement platforms are built exactly for that. Ten Touches solves a different problem — helping relationship-driven sellers remember people and follow up with genuine context. If your sales model shifts toward relationship-based selling, we'd love to talk again."
+
+---
+
+## 10. Language & Framing Guidance
+
+### Words and Phrases to Lean Into
+
+**Relationship-focused:**
+- Relationship depth
+- Personal memory
+- Human connection
+- Genuine context
+- Real relationships
+
+**Quality-focused:**
+- Quality over volume
+- Depth over scale
+- Personal over templated
+- Trust-building
+- Meaningful follow-up
+
+**Insight-focused:**
+- What works for you
+- Behavioural insight
+- Self-coaching
+- Personal patterns
+- Win rate (not activity rate)
+
+### Words and Phrases to Avoid
+
+**Automation language:**
+- Don't promise "better automation"
+- Don't compete on sequence features
+- Don't claim to "scale" relationships
+
+**Volume language:**
+- Avoid "outreach at scale"
+- Avoid "activity metrics"
+- Avoid "cadence management"
+
+### How to Reference Sales Engagement Tools Without Attacking
+
+**Do say:**
+- "Sales engagement platforms are excellent for high-volume outbound. They solve the problem of scaling cold outreach. Ten Touches solves a different problem — helping relationship sellers maintain genuine connections."
+
+**Don't say:**
+- "Outreach makes your emails feel robotic"
+- "Salesloft doesn't care about relationships"
+
+---
+
+## 11. Closing Anchor
+
+**"Ten Touches isn't about automating more touches — it's about making every touch count through genuine relationship memory and personal context."**
+
+Use this to re-centre the conversation when it drifts to automation features or sequence comparisons.
+
+---
+
+## Quality Verification ✓
+
+- [x] Salesperson can use mid-call without preparation
+- [x] Does not require slide or screen share
+- [x] No feature comparison tables
+- [x] Changes how buyer thinks, not just what they compare
+- [x] Scannable in under 60 seconds
+- [x] Narrative-driven, not tabular
+- [x] All claims align with Knowledge Base documents
+
+---
+
+*Battlecards win conversations, not comparisons.*

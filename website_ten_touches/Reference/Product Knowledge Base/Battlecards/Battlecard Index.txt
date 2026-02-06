@@ -1,0 +1,117 @@
+# Ten Touches Sales Battlecard Index
+
+**Created:** 22 January 2026  
+**Owner:** Marketing  
+**Version:** 1.0
+
+---
+
+## Available Battlecards
+
+### 1. Traditional CRM Battlecard
+**File:** `Battlecard - Traditional CRM.txt`  
+**Use when:** Prospect says "We already use Salesforce/HubSpot/Dynamics/Zoho"  
+**Key positioning:** User value first vs management reporting first
+
+### 2. Lightweight CRM Battlecard
+**File:** `Battlecard - Lightweight CRM.txt`  
+**Use when:** Prospect mentions Pipedrive, Close, Copper, Less Annoying CRM  
+**Key positioning:** Relationship memory vs pipeline tracking
+
+### 3. Sales Engagement Platform Battlecard
+**File:** `Battlecard - Sales Engagement.txt`  
+**Use when:** Prospect mentions Outreach, Salesloft, Apollo, or sequence-based tools  
+**Key positioning:** Relationship quality vs automation volume
+
+### 4. Task / Note System Battlecard
+**File:** `Battlecard - Task Note Systems.txt`  
+**Use when:** Prospect uses Notion, Todoist, Apple Notes, spreadsheets for sales follow-up  
+**Key positioning:** Purpose-built sales tool vs generic productivity
+
+---
+
+## Battlecard Structure (All Cards)
+
+Each battlecard contains 11 sections:
+
+1. **Anchor Statement** — 25-word reset statement
+2. **Competitive Context** — Category definition and key differences
+3. **Core Differentiation Pillars** — 3 philosophical differentiators with proof points
+4. **Worldview Comparison** — How competitors vs Ten Touches define success
+5. **Key Reframe Questions** — 6 questions to expose competitor gaps
+6. **Proof Points & Evidence** — Screenshots and metrics to reference
+7. **Common Objections & Reframes** — 3 objections with recommended responses
+8. **Win Scenarios** — When Ten Touches wins decisively
+9. **Lose / Walk-Away Scenarios** — When to exit confidently
+10. **Language & Framing Guidance** — Words to use and avoid
+11. **Closing Anchor** — One-sentence close to re-centre conversation
+
+---
+
+## Usage Guidelines
+
+### When to Use a Battlecard
+- When a competitor is named explicitly
+- When prospect says "we already use X"
+- When a deal shifts into comparison mode
+- When pricing pressure emerges due to perceived parity
+
+### When NOT to Use a Battlecard
+- As a pitch deck or slide
+- As a script to read verbatim
+- In early discovery before problem alignment
+- In product-led or self-serve flows
+
+### How to Use Mid-Conversation
+1. Scan for the relevant objection or scenario
+2. Use the reframe language as a framework (adapt, don't read)
+3. Ask the suggested follow-up question
+4. Use the closing anchor to re-centre if conversation drifts
+
+---
+
+## Consistent Elements Across All Battlecards
+
+### Anchor Statement (Universal)
+> "Ten Touches helps relationship-driven salespeople remember everyone, follow up consistently, and sell smarter — without the admin burden that kills CRM adoption."
+
+### Language to Lean Into
+- Relationship memory
+- Client (not contact/lead)
+- Touch (any meaningful interaction)
+- User value first
+- Voice-first capture
+- Self-coaching / behavioural insight
+
+### Language to Avoid
+- CRM clichés ("360-degree view", "single source of truth")
+- Naming competitors directly (say "traditional CRMs" instead)
+- Feature-for-feature comparisons
+- Attacking competitors
+
+---
+
+## Alignment with Knowledge Base
+
+All battlecard content aligns with:
+- `1 Product Overview.txt` — Core positioning and philosophy
+- `5 Value Proposition & Messaging.txt` — Message pillars and proof points
+- `8 Objections_FAQ.txt` — Objection handling frameworks
+- `11 Competitive Positioning.txt` — Differentiation pillars and category definitions
+
+No battlecard introduces claims not already in the Knowledge Base.
+
+---
+
+## Quality Standards
+
+A battlecard is complete only if:
+- [x] A salesperson can use it mid-call without preparation
+- [x] It does not require a slide or screen share
+- [x] It avoids feature comparison tables
+- [x] It helps change how the buyer thinks, not just what they compare
+- [x] It's scannable in under 60 seconds
+
+---
+
+*Battlecards win conversations, not comparisons.*

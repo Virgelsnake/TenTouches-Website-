@@ -1,0 +1,181 @@
+# Ten Touches – Sales Battlecard Requirements
+
+## 1. Purpose of a Battlecard
+- Define the role of a battlecard in the sales process
+- Support live sales conversations, not presentations
+- Enable confident, outcome-led competitive conversations
+- Prevent feature-by-feature or price-led selling
+
+## 2. Intended Audience
+- Primary users:
+  - Founders selling Ten Touches
+  - Sales representatives
+- Secondary users:
+  - Marketing (for alignment)
+  - Customer success (for expansion conversations)
+
+## 3. When a Battlecard Should Be Used
+- When a competitor is named explicitly
+- When a prospect says “we already use X”
+- When a deal shifts into comparison mode
+- When pricing pressure emerges due to perceived parity
+
+## 4. When a Battlecard Should NOT Be Used
+- As a pitch deck or slide
+- As a script to read verbatim
+- In early discovery before problem alignment
+- In product-led or self-serve flows
+
+## 5. Battlecard Structure Overview
+Each battlecard must be:
+- Scannable in under 60 seconds
+- Usable mid-conversation
+- Narrative-driven, not tabular
+- Focused on differentiation and reframing
+
+## 6. Required Sections (Checklist)
+
+### 6.1 Anchor Statement
+- One clear sentence describing Ten Touches
+- Written to reset the conversation if it drifts
+- Free of competitor references
+- Focused on outcomes, not features
+
+---
+
+### 6.2 Competitive Context
+- Clear definition of the competitor category:
+  - Traditional CRM
+  - Lightweight CRM
+  - Sales engagement platform
+  - Task / note system
+- Explanation of *why* prospects compare these tools to Ten Touches
+- Explicit clarification of category mismatch where relevant
+
+---
+
+### 6.3 Core Differentiation Pillars
+For each pillar:
+- Plain-English description
+- Why this matters to the buyer
+- Why competitors struggle to deliver it
+- Ten Touches proof points
+
+Pillars should be:
+- Philosophical (how the product thinks)
+- Behavioural (how users act differently)
+- Experiential (how it feels to use)
+
+---
+
+### 6.4 Competitor Worldview vs Ten Touches Worldview
+- How competitors define success
+- How competitors measure value
+- How Ten Touches defines success differently
+- How Ten Touches measures value differently
+
+This section should:
+- Avoid naming competitors
+- Focus on mindset, not features
+- Help the seller change the frame of the conversation
+
+---
+
+### 6.5 Key Reframe Questions
+- Open questions the seller can ask to expose gaps in competitor value
+- Questions designed to:
+  - Reveal friction
+  - Highlight adoption issues
+  - Surface behavioural pain
+- Questions should be short, natural, and non-confrontational
+
+---
+
+### 6.6 Proof Points & Evidence
+- Screens or features to reference verbally
+- Metrics or patterns Ten Touches reveals
+- Behavioural outcomes users experience
+- Must be credible and demonstrable
+
+---
+
+### 6.7 Common Objections & Reframes
+For each objection:
+- The underlying concern behind the objection
+- A recommended reframe (not a rebuttal)
+- Language guidance (what to say / what to avoid)
+- Optional follow-up question
+
+Examples:
+- “We already have a CRM”
+- “This looks like task management”
+- “My team won’t use another tool”
+- “Can’t our current system do this?”
+
+---
+
+### 6.8 Win Scenarios
+- Clear description of situations where Ten Touches wins decisively
+- Buyer types
+- Sales motions
+- Organisational contexts
+
+This helps sales:
+- Qualify faster
+- Avoid bad-fit deals
+- Build confidence in positioning
+
+---
+
+### 6.9 Lose / Walk-Away Scenarios
+- Situations where Ten Touches is not the right fit
+- Signals that the deal is misaligned
+- Guidance on exiting confidently and professionally
+
+This section exists to:
+- Protect brand integrity
+- Prevent forced selling
+- Build trust with prospects
+
+---
+
+### 6.10 Language & Framing Guidance
+- Words and phrases to lean into
+- Words and phrases to avoid
+- How to reference competitors indirectly
+- How to talk about CRMs without attacking them
+
+---
+
+### 6.11 Closing Anchor
+- A one-sentence close that:
+  - Re-centres on value
+  - Reinforces differentiation
+  - Leaves the prospect thinking differently
+
+---
+
+## 7. Quality Standards for Battlecards
+A battlecard is considered “done” only if:
+- A salesperson can use it mid-call without preparation
+- It does not require a slide or screen share
+- It avoids feature comparison tables
+- It helps change how the buyer thinks, not just what they compare
+
+## 8. Maintenance & Ownership
+- Named owner (usually marketing)
+- Review cadence
+- Feedback loop from sales
+- Versioning approach
+
+## 9. Alignment With Other Documents
+Battlecards must align with:
+- Product overview
+- Competitive positioning
+- Sales enablement assets
+- Demo scripts
+
+No battlecard should introduce new claims not supported elsewhere.
+
+## 10. Key Principle
+- Battlecards exist to **win the conversation**, not the comparison.

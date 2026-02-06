@@ -1,0 +1,295 @@
+# Ten Touches – Value Proposition & Messaging
+
+Messaging Framework
+
+This is where sales and marketing finally align.
+
+
+## 1. Core Value Proposition
+
+### Primary Promise
+
+**Ten Touches helps relationship-driven salespeople remember everyone, follow up consistently, and sell smarter — without the admin burden of traditional CRMs.**
+
+This promise addresses three core needs:
+1. **Remember everyone** — Relationship memory that captures who people really are
+2. **Follow up consistently** — Contextual reminders that make follow-up natural
+3. **Sell smarter** — Insights that show what actually works for you
+
+### Emotional Payoff
+
+**"I finally feel in control of my relationships."**
+
+Ten Touches delivers emotional relief from:
+- The guilt of forgotten follow-ups
+- The anxiety of walking into conversations unprepared
+- The resentment of CRM work that feels like punishment
+- The frustration of not knowing what's actually working
+
+Users feel:
+- **Confident** — They know who people are before every conversation
+- **Organised** — They have a system that actually works for them
+- **Effective** — They understand their own selling patterns
+- **Valued** — The tool helps them, not just their manager
+
+### Functional Payoff
+
+**"I remember more, follow up better, and understand what wins deals."**
+
+Ten Touches delivers practical value through:
+- **Better conversations** — Personal details at your fingertips
+- **Fewer missed opportunities** — Reminders that match your context and energy
+- **Clearer pipeline** — Honest confidence levels, not fake precision
+- **Personal insights** — Data on which actions lead to your wins
+- **Less admin time** — Voice capture instead of form-filling
+
+
+## 2. Key Differentiators
+
+### Compared to Traditional CRMs (Salesforce, HubSpot, Pipedrive)
+
+| Traditional CRMs | Ten Touches |
+|------------------|-------------|
+| Built for management reporting | Built for user value |
+| Desktop-first design | Mobile-first design |
+| Data entry through forms | Data capture through voice |
+| Contact records | Relationship memory |
+| Activity logging as compliance | Activity as self-improvement |
+| Pipeline for forecasting | Pipeline for selling |
+| Feature-rich, adoption-poor | Feature-focused, adoption-first |
+
+**Key message:** "Ten Touches is the CRM your team will actually use."
+
+### Compared to Task Managers (Todoist, Things, Asana)
+
+| Task Managers | Ten Touches |
+|---------------|-------------|
+| Generic to-do lists | Relationship-contextual reminders |
+| No client information | Full relationship memory |
+| No opportunity tracking | Pipeline and revenue visibility |
+| No sales insights | Behavioural analytics |
+| One-size-fits-all organisation | GTD-style context filtering for sales |
+
+**Key message:** "Ten Touches isn't task management — it's relationship management with built-in action."
+
+### Compared to Sales Engagement Tools (Outreach, Salesloft, Apollo)
+
+| Sales Engagement Tools | Ten Touches |
+|------------------------|-------------|
+| Optimised for volume and sequences | Optimised for relationship quality |
+| Automation-first | Human-first |
+| Templates and cadences | Personal context and memory |
+| Built for SDR teams | Built for relationship sellers |
+| Scale over depth | Depth over scale |
+
+**Key message:** "If you sell through relationships, not sequences, Ten Touches is built for you."
+
+
+## 3. Message Pillars
+
+Four pillars support all Ten Touches messaging. Each pillar has a clear promise, supporting features, and proof points.
+
+### Pillar 1: Relationship Memory
+
+**Promise:** Never forget who someone is or what matters to them.
+
+**What it means:**
+- Client cards capture personal details, not just business data
+- Search by anything you remember — pets, sports teams, interests
+- Walk into every conversation informed and confident
+
+**Supporting features:**
+- Personal information fields (sports, pets, interests)
+- Search by any attribute
+- Four-star client quality scoring
+- Relationship-first data hierarchy
+
+**Proof point from product:**
+> "You can search for 'beagle owner' or 'Man United fan' and find the right person — because that's how humans actually remember people."
+> *Reference: Screenshot 1 – Client Detail Screen*
+
+### Pillar 2: Frictionless Capture
+
+**Promise:** Capture information instantly, without the pain of data entry.
+
+**What it means:**
+- Voice input lets you speak clients, touches, and opportunities into existence
+- Capture happens in the moment, when insight is freshest
+- No forms, no fields, no friction
+
+**Supporting features:**
+- Voice-first input for all data types
+- Field auto-population from natural speech
+- Mobile-optimised for capture anywhere
+- Record button always accessible
+
+**Proof point from product:**
+> "The moment after a conversation is when insight is freshest. Ten Touches lets you capture it by speaking — no laptop, no form-filling, no waiting until you're back at your desk."
+> *Reference: Screenshot 4 – Opportunity Detail (voice input)*
+
+### Pillar 3: Intelligent Follow-Up
+
+**Promise:** Know exactly what to do next, and do it when you're ready.
+
+**What it means:**
+- Reminders organised by action type, not arbitrary priority
+- Filter by context to match your energy and environment
+- Every reminder includes full context — who, what, why, when
+
+**Supporting features:**
+- GTD-style action filtering (calls, emails, meetings, casual)
+- Context-aware reminder cards
+- Chronological ordering without shame
+- Overdue visibility without aggression
+
+**Proof point from product:**
+> "Got ten minutes between meetings? Tap SMS and knock out quick messages. In the car? Tap Phone Call. Ten Touches matches your actions to your energy."
+> *Reference: Screenshot 3 – Reminders Take Action Today*
+
+### Pillar 4: Continuous Improvement
+
+**Promise:** Learn what works for you and get better over time.
+
+**What it means:**
+- See which touch types lead to your wins
+- Understand what works at different deal stages
+- Track activity momentum without pressure
+- Reflect on outcomes without judgement
+
+**Supporting features:**
+- Pick Winners — win rate by touch type
+- Match the Moment — first touch vs last touch analysis
+- Sell Faster — touches and time to win
+- Value Impact — revenue correlation by action
+- Activity momentum tracking
+
+**Proof point from product:**
+> "Instead of generic advice like 'make more calls,' Ten Touches tells you: 'When *you* do this, it works.' That's personal, credible, and motivating."
+> *Reference: Screenshot 5 – Optimise Dashboard*
+
+
+## 4. Proof Points
+
+### Features That Support Each Pillar
+
+| Pillar | Key Feature | Screenshot Reference |
+|--------|-------------|---------------------|
+| Relationship Memory | Client cards with personal details | Screenshot 1 |
+| Relationship Memory | Four-star client quality scoring | Screenshot 1 |
+| Frictionless Capture | Voice input on opportunity detail | Screenshot 4 |
+| Frictionless Capture | Mobile-first interface | All screenshots |
+| Intelligent Follow-Up | GTD-style action filtering | Screenshot 3 |
+| Intelligent Follow-Up | Context-rich reminder cards | Screenshot 3 |
+| Continuous Improvement | Pick Winners analysis | Screenshot 5 |
+| Continuous Improvement | Match the Moment analysis | Screenshot 5 |
+| Continuous Improvement | Activity momentum tracking | Screenshot 5 |
+
+### Quantifiable Claims (When Available)
+
+Use these framings when metrics are available:
+- "X% of users report improved follow-up consistency"
+- "Average time to log a touch: Y seconds (vs Z minutes in traditional CRMs)"
+- "Users report X% increase in client recall confidence"
+
+*Note: Specific metrics should be added as user research and product analytics become available.*
+
+
+## 5. Elevator Pitches
+
+### 10-Second Version (≤30 words)
+
+**For networking and quick introductions:**
+
+> "Ten Touches is a mobile CRM that helps you remember everyone you meet, follow up consistently, and learn what actually wins deals — all by voice."
+
+Word count: 28
+
+### 30-Second Version (≤75 words)
+
+**For conversations that allow a bit more depth:**
+
+> "Most CRMs are built for managers, not the people actually selling. Ten Touches is different — it's designed for relationship-driven salespeople who want to remember clients, follow up at the right time, and understand what's working.
+>
+> You capture everything by voice, so there's no admin burden. And the insights show you which actions lead to your wins, so you keep getting better."
+
+Word count: 68
+
+### 60-Second Version (≤150 words)
+
+**For demos, presentations, and detailed conversations:**
+
+> "If you've ever walked into a meeting and couldn't remember what you talked about last time — or felt guilty about a follow-up you forgot — you know the problem Ten Touches solves.
+>
+> Traditional CRMs are built for management reporting. They demand data entry but give nothing back to the person doing the work. Ten Touches flips that.
+>
+> It's a mobile-first CRM where you capture clients, touches, and opportunities by voice — in the moment, when insight is fresh. Client cards remember personal details, not just job titles. Reminders are organised by action type, so you can match your energy to your tasks.
+>
+> And the Optimise dashboard shows you which actions actually lead to wins — for you, personally.
+>
+> The result? You remember more, follow up better, and understand what's working. Your team gets visibility because people actually use it."
+
+Word count: 145
+
+
+## 6. Language to Use / Avoid
+
+### Words and Phrases to Lean Into
+
+**Relationship-focused:**
+- Relationship memory
+- Client (not contact, not lead)
+- Touch (any meaningful interaction)
+- Remember / recall
+- Personal details
+- Human
+
+**Value-focused:**
+- Built for you (the seller)
+- Actually helps
+- Gives back
+- Immediate value
+- Natural / frictionless
+
+**Action-focused:**
+- Follow up consistently
+- Take action
+- Momentum
+- Rhythm / cadence
+- Confidence (not probability)
+
+**Insight-focused:**
+- What works for you
+- Self-coaching
+- Patterns
+- Learning
+- Getting better
+
+### CRM Clichés to Avoid
+
+These phrases are overused, vague, or trigger negative associations:
+
+| Avoid | Why | Instead Say |
+|-------|-----|-------------|
+| "360-degree view" | Meaningless jargon | "See everything about a client in one place" |
+| "Single source of truth" | Corporate speak | "One place to remember everyone" |
+| "Next-gen" / "Next-generation" | Vague marketing | Be specific about what's different |
+| "AI-powered" | Overused, raises expectations | Describe actual capability |
+| "Seamless" | Empty adjective | Describe the actual experience |
+| "Robust" | Means nothing | Be specific |
+| "Leverage" | Corporate jargon | Use "use" or "apply" |
+| "Synergy" | Instantly distrusted | Avoid entirely |
+| "Best-in-class" | Unverifiable claim | Show, don't tell |
+| "Revolutionary" | Hyperbole | Let the product speak |
+| "Game-changer" | Overused | Describe actual impact |
+| "Empower" | Vague | Describe what users can do |
+
+### Tone Guidelines
+
+- **Confident, not arrogant** — We know what we do well, but we don't oversell
+- **Human, not corporate** — Relationship-first applies to our writing too
+- **Practical, not aspirational** — Ground everything in what the product actually does
+- **Specific, not vague** — Use examples, reference screenshots, be concrete
+
+---
+
+*Ten Touches: Remember everyone. Follow up consistently. Sell smarter.*

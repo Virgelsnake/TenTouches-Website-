@@ -1,0 +1,303 @@
+# Ten Touches – Ideal Customer Profiles
+
+Who This Is Really For
+
+This drives targeting, messaging, pricing, and sales qualification.
+
+
+## 1. Primary ICP: Relationship-Driven Sellers
+
+These are individuals who build their book of business through genuine relationships, not scripts or volume. They sell through trust, not transactions.
+
+### Specific Roles
+
+**Business Development Professionals**
+- Work in B2B services, consulting, or complex sales
+- Build pipelines through networking, referrals, and relationship cultivation
+- Often attend events, conferences, and industry gatherings
+- Success depends on being remembered and trusted
+
+**Founders and Entrepreneurs**
+- Running their own sales process while juggling product, hiring, and operations
+- No dedicated sales support — they are the sales team
+- High stakes on every deal; can't afford to drop relationships
+- Often charismatic but disorganised
+
+**Consultants and Advisors**
+- Long sales cycles with high-value engagements
+- Repeat business and referrals are the lifeblood
+- Relationship quality directly impacts revenue
+- Need to remember client context across months or years
+
+**Sales Leaders Who Sell**
+- Player-coaches who carry their own quota
+- Want to lead by example, not just manage dashboards
+- Need tools that work for them personally, not just for their team
+- Often frustrated by the CRMs they ask others to use
+
+**Account Managers**
+- Maintain and grow existing client relationships
+- Success measured by retention, expansion, and referrals
+- Need to remember personal details across large portfolios
+- Follow-up consistency is critical
+
+### Typical Environments
+
+- **Small to mid-sized companies** (1-200 employees) where individuals own relationships
+- **Professional services firms** (consulting, legal, financial services, marketing agencies)
+- **B2B SaaS companies** with relationship-led sales motions
+- **Startups** where founders are doing their own selling
+- **Networks and communities** where relationship capital matters
+
+### Key Frustrations
+
+- "I know relationships matter, but I can't keep track of everyone"
+- "My CRM is designed for my manager, not for me"
+- "I spend more time on data entry than on actual selling"
+- "I forget to follow up, and deals slip away"
+- "I can't remember what we talked about last time"
+- "I have no idea which of my actions actually lead to wins"
+
+### What Success Looks Like to Them
+
+- Walking into every conversation informed and confident
+- Never forgetting a follow-up or letting a relationship go cold
+- Understanding their own selling patterns and improving over time
+- Feeling like their CRM actually helps them, not just tracks them
+- Building a reputation as someone who remembers and cares
+
+
+## 2. Secondary ICP: Sales Managers & Leaders
+
+Sales managers care about visibility, but they also care about adoption. Ten Touches solves both — by making the tool valuable to the people using it.
+
+### What They Care About
+
+**Pipeline Visibility**
+- Where do deals actually stand?
+- What's at risk, and why?
+- Is the pipeline growing or shrinking?
+
+**Activity Consistency**
+- Are team members following up consistently?
+- Are relationships being maintained or neglected?
+- Is activity leading to outcomes?
+
+**Data Quality**
+- Is the CRM data accurate and complete?
+- Can they trust what they see in reports?
+- Are team members actually using the tool?
+
+**Coaching Opportunities**
+- Which behaviours lead to wins?
+- Where are team members struggling?
+- How can they help without micromanaging?
+
+### Why Ten Touches Helps Without "CRM Policing"
+
+Traditional CRMs create a compliance dynamic: managers push for data entry, salespeople resist, and everyone loses.
+
+Ten Touches breaks this cycle:
+- **Users want to use it** because it helps them personally
+- **Data quality improves** because capture is easy and immediate
+- **Visibility emerges naturally** from genuine usage, not forced compliance
+
+Managers don't have to chase data. They get visibility because their team actually uses the tool.
+
+### Visibility Without Micromanagement
+
+Ten Touches provides insight without surveillance:
+- See activity patterns without checking every call
+- Understand pipeline health without interrogating deal stages
+- Identify coaching moments from outcome data, not activity logs
+
+The philosophy: **help the individual, and the team benefits**.
+
+
+## 3. Buying Triggers
+
+These are the events, moments, or realisations that make someone actively seek a solution like Ten Touches.
+
+### CRM Fatigue
+
+**The trigger:** Someone has tried Salesforce, HubSpot, Pipedrive, or another CRM and found it overwhelming, under-used, or actively unhelpful.
+
+**What they say:**
+- "We bought Salesforce and nobody uses it"
+- "I hate opening my CRM"
+- "It takes longer to log the call than to make the call"
+
+**Why Ten Touches resonates:** It's designed to be used, not tolerated.
+
+### Scaling Sales Efforts
+
+**The trigger:** A founder or small team is growing and can no longer rely on memory alone. Relationships are starting to slip through the cracks.
+
+**What they say:**
+- "I used to remember everyone. Now I can't keep track"
+- "We're growing, but our sales process is chaos"
+- "I need a system before we hire more salespeople"
+
+**Why Ten Touches resonates:** It provides structure without bureaucracy.
+
+### Poor Follow-Up Discipline
+
+**The trigger:** Someone realises they're losing deals because they don't follow up consistently. They know the problem but haven't found a solution.
+
+**What they say:**
+- "I'm great at first meetings, terrible at follow-up"
+- "I know I should call them back, but I keep forgetting"
+- "Deals die because I get busy"
+
+**Why Ten Touches resonates:** Reminders by context make follow-up feel natural, not forced.
+
+### Founder-Led Sales Chaos
+
+**The trigger:** A founder is doing sales while running the company. They're stretched thin and dropping balls.
+
+**What they say:**
+- "I don't have time for a complicated CRM"
+- "I need something I can use on my phone between meetings"
+- "I just need to stop forgetting people"
+
+**Why Ten Touches resonates:** Voice-first, mobile-first design fits their reality.
+
+### Relationship Decay
+
+**The trigger:** Someone notices that important relationships have gone cold because they didn't maintain them.
+
+**What they say:**
+- "I used to have a great relationship with them — what happened?"
+- "They stopped referring people to me"
+- "I can't remember the last time I reached out"
+
+**Why Ten Touches resonates:** Momentum tracking and reminders prevent decay.
+
+### New Role or Territory
+
+**The trigger:** Someone starts a new job or takes on a new territory and needs to build relationships from scratch.
+
+**What they say:**
+- "I have 200 new contacts and no context on any of them"
+- "I need to hit the ground running"
+- "I can't afford to forget anyone"
+
+**Why Ten Touches resonates:** Relationship memory helps accelerate ramp-up.
+
+
+## 4. Anti-ICP (Who It's Not For)
+
+Being clear about who Ten Touches is *not* for helps with qualification and prevents mismatched expectations.
+
+### High-Volume Transactional Call Centres
+
+**Why they're not a fit:**
+- They optimise for call volume, not relationship depth
+- They need dialers, scripts, and automation
+- Individual relationship memory doesn't scale to their model
+
+**What they need instead:** Outbound sales platforms, auto-dialers, sequence tools
+
+### Teams That Want Rigid Pipeline Enforcement
+
+**Why they're not a fit:**
+- They want mandatory fields, stage gates, and approval workflows
+- They prioritise process compliance over user experience
+- They view CRM as a control mechanism, not a support tool
+
+**What they need instead:** Enterprise CRMs with heavy customisation and enforcement
+
+### Organisations Optimising for Reporting Only
+
+**Why they're not a fit:**
+- They care about dashboards for leadership, not tools for sellers
+- They'll sacrifice user experience for data structure
+- They see CRM adoption as a compliance problem, not a value problem
+
+**What they need instead:** BI tools layered on top of traditional CRMs
+
+### Anyone Expecting Full Enterprise Features
+
+**Why they're not a fit:**
+- They need complex integrations, custom objects, and workflow automation
+- They want territory management, lead routing, and marketing automation
+- They measure CRM value by feature breadth, not user adoption
+
+**What they need instead:** Salesforce, HubSpot Enterprise, Microsoft Dynamics
+
+### Signals to Disqualify
+
+Use these as qualification signals in sales conversations:
+- "Can we enforce mandatory fields?"
+- "We need approval workflows for deal stages"
+- "How does it integrate with our marketing automation?"
+- "We have 500 salespeople — can it handle that?"
+- "Our main goal is better forecasting reports for leadership"
+
+
+## 5. Buyer vs User Distinction
+
+In many cases, the person who buys Ten Touches is different from the person who uses it. Messaging must address both.
+
+### Who Buys
+
+**Individual Contributors (Self-Purchase)**
+- Founders buying for themselves
+- Salespeople frustrated with company CRM
+- Consultants managing their own practice
+- Anyone with budget authority over their own tools
+
+**Decision Criteria:**
+- Does it solve *my* problem?
+- Is it easy to start using immediately?
+- Is the price worth the personal benefit?
+
+**Messaging Focus:**
+- Personal productivity and relationship memory
+- Immediate value, low friction
+- "Finally, a CRM built for you, not your manager"
+
+**Sales Managers / Team Leads (Team Purchase)**
+- Buying for a small team (2-20 people)
+- Looking for adoption-first solutions
+- Frustrated with low CRM usage on their team
+
+**Decision Criteria:**
+- Will my team actually use this?
+- Will I get visibility without enforcement?
+- Is it worth the per-seat cost?
+
+**Messaging Focus:**
+- Adoption rates and user satisfaction
+- Visibility without micromanagement
+- "Your team will actually use this one"
+
+### Who Uses
+
+**Primary Users:**
+- Individual salespeople, account managers, BD professionals
+- Daily usage for capture, reminders, and client lookup
+- Success = feels helpful, not burdensome
+
+**Secondary Users:**
+- Managers checking pipeline and activity
+- Occasional usage for coaching and review
+- Success = visibility without chasing
+
+### How Messaging Differs
+
+| Audience | Primary Message | Proof Points |
+|----------|-----------------|--------------|
+| **Individual Seller** | "Remember everyone, follow up consistently, sell smarter" | Voice input, relationship memory, personal insights |
+| **Sales Manager** | "Your team will actually use this — and you'll get visibility" | Adoption focus, honest pipeline, no enforcement needed |
+| **Founder** | "A CRM that works the way you work" | Mobile-first, voice-first, no admin overhead |
+
+### Pricing Implications
+
+- **Individual plans** should feel accessible to self-purchasers
+- **Team plans** should demonstrate per-seat value to managers
+- **Free trials** should prove value quickly to both buyers and users
+
+---
+
+*Ten Touches is for people who know that relationships win deals — and want a tool that actually helps them maintain those relationships.*

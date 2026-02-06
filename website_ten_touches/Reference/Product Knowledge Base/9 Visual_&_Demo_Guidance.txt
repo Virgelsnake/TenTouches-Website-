@@ -1,0 +1,372 @@
+# Ten Touches – Visual & Demo Guidance
+
+Making It Land
+
+A great demo doesn't show features — it tells a story that the prospect sees themselves in.
+
+
+## Introduction
+
+This document provides guidance for anyone demonstrating Ten Touches — whether in a sales call, at a conference, in a video, or during onboarding.
+
+The principles here are designed to:
+- Create emotional resonance before feature explanation
+- Show the product through the lens of relationship-building
+- Avoid common demo mistakes that lose attention
+- Ensure consistency across all visual communications
+
+Remember: **Show the transformation, not just the tool.**
+
+
+---
+
+## 1. Core Screens to Show
+
+These are the screens that best communicate the Ten Touches value proposition. Each serves a specific purpose in the demo narrative.
+
+### Client Card (Screenshot 1)
+
+**File reference:** `Reference/Screenshots/1 Search Client Detail Screenshot.png`
+
+**What it shows:**
+- Full client profile with business and personal details
+- Four-star quality scoring (testimonials, referrals, feedback, repeat)
+- Personal information (sports, pets, interests)
+- Clean, relationship-first layout
+
+**Why it matters in a demo:**
+- Immediately differentiates from traditional CRM contact records
+- Shows the "relationship memory" concept visually
+- Demonstrates searchable personal details
+- Reveals behavioural nudges through star ratings
+
+**Key talking points:**
+- "This isn't a contact record — it's a relationship memory surface"
+- "You can search by 'beagle owner' or 'Man United fan' and find the right person"
+- "The stars quietly prompt better behaviour — ask for testimonials, request referrals"
+
+**Demo moment:**
+Open a client card and spend 5 seconds orienting. Point out the personal details. Ask: "Imagine walking into every conversation knowing this."
+
+
+### Opportunities Dashboard (Screenshot 2)
+
+**File reference:** `Reference/Screenshots/2 Opportunities Screenshot.png`
+
+**What it shows:**
+- Card-based opportunity list
+- Total value and confidence indicators
+- Visual progress rings
+- Mobile-optimised layout
+
+**Why it matters in a demo:**
+- Shows pipeline at a glance without spreadsheet complexity
+- Demonstrates honest confidence vs fake precision
+- Proves mobile-first design thinking
+- Reveals emotional honesty about deal status
+
+**Key talking points:**
+- "In 10 seconds, you know what's live, what's big, what's close, what's weak"
+- "The confidence score tells you the truth — no inflated forecasts"
+- "This works in a lift, between meetings, before a call"
+
+**Demo moment:**
+Show the dashboard and ask: "What would it mean to have this clarity about your pipeline — on your phone, in seconds?"
+
+
+### Reminders / Action List (Screenshot 3)
+
+**File reference:** `Reference/Screenshots/3 Reminders Organised by Action Type.png`
+
+**What it shows:**
+- "Take Action Today" header
+- Action-type filter bar (SMS, Phone Call, Email, Meeting, Casual, etc.)
+- Context-rich reminder cards
+- Overdue visibility without shame
+
+**Why it matters in a demo:**
+- Demonstrates GTD-style context filtering
+- Shows how actions match energy and environment
+- Proves the system carries context (who, why, what, when)
+- Differentiates from generic task managers
+
+**Key talking points:**
+- "Got 10 minutes? Tap SMS and knock out quick messages. In the car? Tap Phone Call."
+- "Every reminder includes full context — you never have to reconstruct intent"
+- "This isn't a task list — it's a context-aware execution engine"
+
+**Demo moment:**
+Tap a filter (e.g., Phone Call) and show how the list narrows. Say: "The tool matches your work to your energy."
+
+
+### Opportunity Detail (Screenshot 4)
+
+**File reference:** `Reference/Screenshots/4 Opportunity Detail.png`
+
+**What it shows:**
+- Total value and risked revenue side by side
+- Four-stage progress model (Prospect → Proposal → PO → Paid)
+- Confidence indicator
+- Voice input button
+- Notes section
+
+**Why it matters in a demo:**
+- Shows honest revenue visibility
+- Demonstrates simple mental model for stages
+- Reveals voice capture at point of reflection
+- Proves the product prevents self-delusion
+
+**Key talking points:**
+- "You see the truth: £18k potential, but only £4.5k probable at this stage"
+- "The moment after a call, tap record and capture objections, next steps, insights"
+- "No fake precision — just honest confidence"
+
+**Demo moment:**
+Point to the risked revenue and say: "This is the number that matters. This keeps you honest."
+
+
+### Optimise Dashboard (Screenshot 5)
+
+**File reference:** `Reference/Screenshots/5 Optimise Dashboard.png`
+
+**What it shows:**
+- Activity target and momentum tracking
+- Pick Winners — win rate by touch type
+- Match the Moment — first touch vs last touch analysis
+- Sell Faster — touches and time to win
+- Value Impact — revenue correlation
+
+**Why it matters in a demo:**
+- Shows behavioural insight, not just reporting
+- Demonstrates personal pattern recognition
+- Proves the tool coaches without prescribing
+- Delivers the "insight payoff" that completes the value loop
+
+**Key talking points:**
+- "This tells you which actions actually work — for you, specifically"
+- "Instead of 'make more calls,' it says 'when you do this, you win'"
+- "This isn't for your manager — it's for you"
+
+**Demo moment:**
+Pause on Pick Winners and say: "What if you knew exactly which actions lead to your wins?"
+
+
+---
+
+## 2. Demo Flow
+
+A great demo follows a narrative arc: problem → solution → transformation. Don't start with features — start with a story.
+
+### Recommended Demo Structure
+
+**Step 1: Start with a human story (60 seconds)**
+
+Begin with a scenario the prospect recognises:
+
+> "Imagine you're at a conference. You meet a dozen people, have great conversations, exchange cards. Three days later, you're looking at a stack of business cards trying to remember: which one was the cricket fan? Who had the beagle? Who was interested in the cybersecurity project?"
+
+Pause. Let it land.
+
+> "That moment — when the details have faded and the follow-up feels hollow — that's the problem Ten Touches solves."
+
+**Step 2: Show voice capture (90 seconds)**
+
+Demonstrate the core capture experience:
+
+> "At the event, you step aside for 30 seconds. You tap record and speak: 'Just met Daniel O'Connor, Director at GreenForge. Supports Man United, has two dogs. Interested in our cybersecurity audit. Follow up next week.'"
+
+Show or simulate the result:
+- Client card created
+- Personal details captured
+- Reminder scheduled
+
+> "No forms. No fields. No laptop. The insight is captured in the moment, when it's fresh."
+
+**Step 3: Show the relationship payoff (60 seconds)**
+
+Open the client card (Screenshot 1):
+
+> "Three days later, you open Ten Touches. Here's Daniel. You know exactly who he is — his role, his company, his dogs, his football team. Your follow-up email starts: 'How did United do at the weekend?' That's a conversation that lands."
+
+**Step 4: Show the action payoff (60 seconds)**
+
+Open the reminders screen (Screenshot 3):
+
+> "You've got 30 minutes before your next meeting. You tap Email. Three follow-ups appear, each with full context. You knock them out in 20 minutes. Later, you're in the car — you tap Phone Call and make two calls while driving."
+
+> "You're not doing CRM admin. You're just getting things done."
+
+**Step 5: Show the insight payoff (90 seconds)**
+
+Open the Optimise dashboard (Screenshot 5):
+
+> "After a month, you check the dashboard. It shows you which actions actually lead to your wins. Not generic advice — your personal patterns. When you do meetings early, you win more. When you do casual check-ins, deals close faster."
+
+> "This isn't reporting for your manager. It's self-coaching for you."
+
+**Step 6: Close with the transformation (30 seconds)**
+
+> "That's Ten Touches. You remember more, follow up better, and understand what works. The relationships that used to slip through the cracks become the deals that close."
+
+**Total demo time: ~7 minutes**
+
+
+### Demo Flow Summary
+
+| Step | Focus | Screen | Time |
+|------|-------|--------|------|
+| 1 | Human story | None (narrative) | 60s |
+| 2 | Voice capture | Simulate or show | 90s |
+| 3 | Relationship payoff | Client Card | 60s |
+| 4 | Action payoff | Reminders | 60s |
+| 5 | Insight payoff | Optimise Dashboard | 90s |
+| 6 | Transformation | None (close) | 30s |
+
+
+---
+
+## 3. Visual Language
+
+Ten Touches uses visual design to communicate values without words. Understanding this helps you explain what prospects are seeing.
+
+### Relationship Cues
+
+**What to look for:**
+- Personal information prominently displayed (not hidden in tabs)
+- Human details (pets, sports, interests) treated as first-class data
+- Client names large and clear
+- No "contact" or "lead" language — always "client"
+
+**What to say:**
+> "Notice how the personal details are right here, not buried in a notes field. That's intentional. This is relationship memory, not data storage."
+
+### Progress Indicators
+
+**What to look for:**
+- Circular confidence rings on opportunities
+- Four-stage progress bars (Prospect → Proposal → PO → Paid)
+- Activity momentum charts
+- Star ratings for client quality
+
+**What to say:**
+> "These aren't vanity metrics. They're honest signals. The confidence ring tells you where you really are, not where you hope to be."
+
+### Feedback Signals
+
+**What to look for:**
+- Colour-coded overdue indicators (red, but not aggressive)
+- Below/above target indicators
+- Win rate deltas (positive/negative)
+- Sample size visibility on insights
+
+**What to say:**
+> "The app gives feedback without judgement. Overdue items are visible, but there's no shame language. The goal is momentum, not guilt."
+
+### Mobile-First Design
+
+**What to look for:**
+- Large tap targets
+- Card-based layouts
+- Thumb-friendly navigation
+- No desktop-style tables or dense grids
+
+**What to say:**
+> "Every screen is designed for a phone. This works in a lift, between meetings, in the car. It fits life in the field, not life behind a desk."
+
+
+---
+
+## 4. What Not to Show First
+
+Some screens and features, while valuable, can derail a demo if shown too early. Avoid these until the core value is established.
+
+### Admin Settings
+
+**Why to avoid first:**
+- Settings imply complexity
+- Prospects may get distracted by configuration options
+- Undermines the "simple to use" message
+
+**When to show:**
+- Only if the prospect specifically asks about customisation
+- After the core demo is complete
+- Position as "you can configure this, but most people don't need to"
+
+### Raw Reports or Data Exports
+
+**Why to avoid first:**
+- Reports suggest management oversight, not user value
+- Data exports feel technical and enterprise-y
+- Shifts focus from relationship value to administrative capability
+
+**When to show:**
+- If the prospect is a manager asking about visibility
+- After establishing that user value drives adoption
+- Frame as "because people actually use it, the data is complete"
+
+### Edge Cases or Power Features
+
+**Why to avoid first:**
+- Edge cases create confusion about core use
+- Power features suggest a learning curve
+- Complexity undermines the simplicity message
+
+**When to show:**
+- Only in response to specific questions
+- After the core narrative is understood
+- Frame as "and if you need this, it's there"
+
+### Empty States or Setup Screens
+
+**Why to avoid first:**
+- Empty screens feel hollow and uncompelling
+- Setup implies effort before value
+- Breaks the immersion of the demo narrative
+
+**When to show:**
+- Never, if you can help it
+- Always demo with realistic sample data
+- If you must show setup, do it quickly and move to populated screens
+
+
+---
+
+## 5. Demo Principles
+
+### Lead with empathy, not features
+
+Start every demo by showing you understand the prospect's problem. Features are solutions — but solutions only matter when the problem is felt.
+
+### Show, don't just tell
+
+Don't say "you can capture by voice" — demonstrate it. Don't say "the insights are personal" — show the dashboard. Seeing is believing.
+
+### Let the product breathe
+
+Pause after showing a screen. Let the prospect absorb what they're seeing. Silence creates space for questions and recognition.
+
+### Match the demo to the prospect
+
+A founder cares about lightweight systems. A sales manager cares about adoption. An individual seller cares about personal value. Emphasise what matters to them.
+
+### End with transformation, not features
+
+The last thing they should remember isn't a feature — it's the outcome. "Remember more. Follow up better. Understand what works."
+
+
+---
+
+## 6. Common Demo Mistakes
+
+| Mistake | Why It Fails | What to Do Instead |
+|---------|--------------|---------------------|
+| Starting with features | No emotional hook | Start with a human story |
+| Showing everything | Overwhelms the prospect | Focus on 4-5 key screens |
+| Talking too much | Prospect tunes out | Pause, ask questions, listen |
+| Ignoring the prospect's context | Feels generic | Tailor the narrative to their role |
+| Ending with a feature | Forgettable | End with the transformation |
+
+
+---
+
+*Ten Touches: Demo the relationship, not the software.*

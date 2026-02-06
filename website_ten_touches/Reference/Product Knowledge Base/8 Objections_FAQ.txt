@@ -1,0 +1,346 @@
+# Ten Touches – Objections & FAQ
+
+Sales Enablement Gold
+
+This is where sales conversations get real. Every objection is an opportunity to reframe.
+
+
+## Introduction
+
+Objections aren't rejection — they're engagement. When a prospect raises a concern, they're telling you what matters to them.
+
+This document provides:
+- **Short answers** — For quick responses in conversation
+- **Deeper explanations** — For follow-up when there's more time
+- **Proof points** — For grounding claims in product reality
+
+Use these as frameworks, not scripts. Adapt the language to the conversation.
+
+
+---
+
+## Objection 1: "We already have a CRM"
+
+This is the most common objection. It's also the easiest to reframe.
+
+### Short Answer
+
+> "That's great — Ten Touches isn't trying to replace your CRM. It's designed to solve a different problem: helping your team actually capture and use relationship information in the moment. Most CRMs are built for reporting. Ten Touches is built for the person doing the selling."
+
+### Deeper Explanation
+
+The question isn't whether you have a CRM — it's whether your team uses it.
+
+Most CRMs fail at the point of capture:
+- Data entry happens hours or days after the conversation
+- By then, the personal details are forgotten
+- The result is incomplete records that help management but not the salesperson
+
+Ten Touches solves this by:
+- Allowing voice capture immediately after a conversation
+- Making the tool genuinely useful to the person using it
+- Providing insights that help the seller, not just the manager
+
+The result? Better data, better relationships, better outcomes — regardless of what CRM you're using for pipeline reporting.
+
+### Proof Point
+
+> "Ten Touches captures personal details — sports, pets, interests — the things that make relationships real. You can search for 'beagle owner' or 'Man United fan' and find the right person. Traditional CRMs store job titles. Ten Touches preserves relationships."
+> 
+> *Reference: Screenshot 1 — Client Detail Screen*
+
+### When to Use This
+
+- Prospect has Salesforce, HubSpot, Pipedrive, or similar
+- They're concerned about duplicate systems
+- They're protective of their existing investment
+
+
+---
+
+## Objection 2: "My team won't use it"
+
+This objection reveals the real problem: CRM adoption failure. It's actually a buying signal.
+
+### Short Answer
+
+> "That's exactly the problem Ten Touches is designed to solve. Traditional CRMs fail because they demand data entry but give nothing back to the person doing the work. Ten Touches is different — it's built to be valuable to the user first. When the tool actually helps, people use it."
+
+### Deeper Explanation
+
+CRM adoption fails for predictable reasons:
+- **Time delay** — Entry happens too late, when context is lost
+- **Cognitive load** — Form-filling feels like punishment
+- **No immediate payoff** — The salesperson gets nothing in return
+
+Ten Touches addresses all three:
+- **Voice capture** — Log information by speaking, immediately after a conversation
+- **Personal value** — Relationship memory helps the seller, not just management
+- **Insight payoff** — The Optimise dashboard shows what's working for you personally
+
+The result: people use it because it helps them, not because they're told to.
+
+### Proof Point
+
+> "Ten Touches is designed around user value first. The reminders system organises actions by type — calls, emails, meetings — so you can match tasks to your energy. Got 10 minutes? Knock out some SMS messages. In the car? Make calls. That's a tool people actually want to use."
+> 
+> *Reference: Screenshot 3 — Reminders Take Action Today*
+
+### When to Use This
+
+- Prospect has experienced CRM adoption failure before
+- Sales manager frustrated by incomplete data
+- Team has described CRM as "admin" or "punishment"
+
+
+---
+
+## Objection 3: "Sounds like more admin"
+
+This objection comes from CRM trauma. The prospect has been burned before.
+
+### Short Answer
+
+> "I completely understand that concern — most CRMs do feel like admin. Ten Touches is designed to be the opposite. You capture everything by voice, so there's no form-filling. And the tool gives back — personal insights, context-rich reminders, relationship memory. It's designed to help you sell, not to report on your selling."
+
+### Deeper Explanation
+
+The admin fear is real because traditional CRMs earn it:
+- Endless fields to fill
+- No value returned to the user
+- Feels like surveillance, not support
+
+Ten Touches removes the friction:
+- **Voice-first capture** — Speak your notes instead of typing
+- **Mobile-first design** — Built for life in the field, not behind a desk
+- **Immediate value** — Walk into every conversation knowing who someone is
+
+The question to ask back: "What if CRM took 30 seconds instead of 10 minutes? And what if it actually helped you remember people?"
+
+### Proof Point
+
+> "The moment after a conversation is when insight is freshest. Ten Touches lets you tap the record button and speak — 'Just met Sarah, she's interested in the enterprise plan, husband's a golfer, follow up next week.' That's it. Client created, reminder scheduled, context captured. No desk required."
+> 
+> *Reference: Screenshot 4 — Opportunity Detail (voice input)*
+
+### When to Use This
+
+- Prospect has strong negative associations with CRM
+- Individual seller is wary of management tools
+- Time is explicitly cited as a barrier
+
+
+---
+
+## Objection 4: "Isn't this just task management?"
+
+This objection shows the prospect doesn't yet understand the relationship-first approach.
+
+### Short Answer
+
+> "Task managers help you track to-dos. Ten Touches helps you maintain relationships. The difference is context — every reminder in Ten Touches includes who the person is, what you discussed, and why you're reaching out. It's not a list of tasks. It's a system for staying connected to the people who matter."
+
+### Deeper Explanation
+
+A task manager knows you need to "Call Sarah."
+
+Ten Touches knows:
+- Sarah works at TechFlow and is interested in the enterprise plan
+- Her husband is a golfer — you talked about their trip to Scotland
+- The deal is at Proposal stage, worth £45k
+- Meetings have been your most effective touch type with her
+
+That context changes the quality of the conversation — and the outcome.
+
+Additionally, Ten Touches provides:
+- **Client cards** with personal details and quality scoring
+- **Opportunity tracking** with revenue risking
+- **Behavioural insights** showing what works for you
+
+Task managers don't do any of that.
+
+### Proof Point
+
+> "Ten Touches reminders carry full context — who, why, what, when. You never have to search email threads or recall meeting context. And the GTD-style filtering lets you match actions to your energy: calls when you're in the car, emails when you're at your desk, casual check-ins when you have time."
+> 
+> *Reference: Screenshot 3 — Reminders Take Action Today*
+
+### When to Use This
+
+- Prospect is comparing to Todoist, Things, Asana
+- They're minimising the relationship component
+- They need to see the CRM depth beneath the surface
+
+
+---
+
+## Frequently Asked Questions
+
+### FAQ 1: Data Ownership
+
+**Question:** "Who owns the data I put into Ten Touches?"
+
+**Answer:**
+
+Your data is yours. Ten Touches stores your client information, opportunities, and touches securely, but you retain full ownership.
+
+Key points:
+- You can export your data at any time
+- Your data is not sold, shared, or used for advertising
+- We comply with GDPR and relevant data protection regulations
+- Deleting your account removes your data from our systems
+
+**Why this matters:**
+
+Relationship data is valuable and personal. You've invested time building those connections. Ten Touches respects that investment — we're a tool to help you, not a platform to monetise your network.
+
+
+### FAQ 2: Integrations
+
+**Question:** "Does Ten Touches integrate with other tools?"
+
+**Answer:**
+
+Ten Touches is designed as a standalone relationship management tool. Our philosophy is simplicity over complexity.
+
+Current approach:
+- Ten Touches works independently of your existing tech stack
+- Data export is available for migration or reporting purposes
+- We prioritise depth of relationship management over breadth of integration
+
+Future consideration:
+- We're open to strategic integrations that enhance the core user experience
+- Integration requests are prioritised based on user demand and alignment with our philosophy
+
+**Why this matters:**
+
+Many CRMs become bloated through endless integrations. Ten Touches stays focused on one thing: helping you build and maintain relationships. We add complexity only when it genuinely serves that goal.
+
+
+### FAQ 3: Learning Curve
+
+**Question:** "How long does it take to learn Ten Touches?"
+
+**Answer:**
+
+Most users are productive within their first session. The interface is designed for immediate use, not extensive training.
+
+Learning timeline:
+- **Day 1** — Create your first clients by voice, log a touch, set a reminder
+- **Week 1** — Build a habit of capturing after conversations
+- **Month 1** — Start seeing patterns in the Optimise dashboard
+
+Why it's fast:
+- Mobile-first design follows familiar patterns
+- Voice input is natural — just speak what you'd remember
+- No complex configuration or customisation required
+- The app guides you toward good habits through design, not training
+
+**Why this matters:**
+
+Traditional CRMs require training because they're built for administration. Ten Touches requires minimal learning because it's built around how you already think about relationships.
+
+
+### FAQ 4: Voice Accuracy
+
+**Question:** "How accurate is the voice input?"
+
+**Answer:**
+
+Ten Touches uses industry-standard speech recognition that works well for names, companies, and conversational notes.
+
+What to expect:
+- High accuracy for common names and standard vocabulary
+- Good performance in quiet to moderately noisy environments
+- Easy editing for any corrections needed
+- Continuous improvement as speech technology advances
+
+Best practices:
+- Speak naturally — the system handles conversational input
+- Review and edit after capture if needed
+- Unusual names may need manual correction
+
+**Why this matters:**
+
+The goal of voice input isn't perfection — it's friction reduction. Even if you need to correct an occasional name, you've still captured the insight in the moment when it's fresh. That's far better than waiting until you're at a desk and the details have faded.
+
+
+### FAQ 5: Security
+
+**Question:** "How secure is my data?"
+
+**Answer:**
+
+Ten Touches takes data security seriously. Your relationship data is personal and valuable — we treat it accordingly.
+
+Security measures:
+- Data encrypted in transit and at rest
+- Secure authentication
+- Regular security reviews
+- No third-party access to your data
+
+Compliance:
+- GDPR compliant
+- Data residency options where applicable
+- Transparent privacy policy
+
+
+### FAQ 6: Pricing & Plans
+
+**Question:** "How much does Ten Touches cost?"
+
+**Answer:**
+
+Ten Touches offers straightforward pricing designed for relationship-driven sellers.
+
+*Note: Specific pricing details should be added based on current pricing structure.*
+
+Key principles:
+- Value-based pricing — you pay for outcomes, not seats
+- No hidden fees or surprise charges
+- Free trial to experience the product before committing
+
+
+### FAQ 7: Mobile vs Desktop
+
+**Question:** "Is there a desktop version?"
+
+**Answer:**
+
+Ten Touches is mobile-first by design.
+
+Why mobile:
+- Conversations happen in the field, not at a desk
+- Voice capture requires a mobile device
+- Relationship management should fit in the margins of your day
+
+Desktop consideration:
+- Some dashboard features may be available via web
+- The core capture experience is optimised for mobile
+- We prioritise mobile excellence over desktop parity
+
+**Why this matters:**
+
+Traditional CRMs are desktop-first because they're built for management reporting. Ten Touches is mobile-first because it's built for the person actually having the conversations.
+
+
+---
+
+## Objection Handling Principles
+
+When handling any objection:
+
+1. **Acknowledge the concern** — Show you understand why they're hesitant
+2. **Reframe the problem** — Help them see the issue differently
+3. **Connect to their reality** — Use their language and situation
+4. **Ground in product truth** — Reference actual features, not promises
+5. **Invite exploration** — Offer to show, not just tell
+
+The goal isn't to "overcome" objections — it's to help the prospect see whether Ten Touches genuinely solves their problem.
+
+If it doesn't, that's okay. Ten Touches isn't for everyone. It's for relationship-driven sellers who want to remember more, follow up better, and understand what works.
+
+
+---
+
+*Ten Touches: Objections are just questions in disguise.*

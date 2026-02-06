@@ -1,0 +1,652 @@
+# Ten Touches – Competitive Positioning
+
+Differentiation Without Feature Wars
+
+This document arms sales and marketing with clear positioning that avoids feature-for-feature comparisons.
+
+
+## 1. Purpose of This Document
+
+This document exists to:
+- **Define positioning** — How Ten Touches is categorised in the market
+- **Clarify competition** — Who we compete with and who we don't
+- **Enable differentiation** — Give sales and marketing clear language
+- **Prevent feature wars** — Shift conversations from features to philosophy
+
+**Important:** This is not a feature comparison document. We do not win by listing more features than competitors. We win by being clearly better for a specific type of buyer with a specific problem.
+
+
+---
+
+## 2. Market Category Definition
+
+### How Ten Touches Categorises Itself
+
+**Primary category:** Relationship-First CRM
+
+Ten Touches is a CRM — but a specific kind. The "relationship-first" qualifier signals that we prioritise the human connection over the database record.
+
+**Supporting descriptions:**
+- **Mobile CRM for relationship sellers** — Emphasises mobile-first design and target audience
+- **Voice-first sales tool** — Emphasises the capture method
+- **Behavioural sales optimisation** — Emphasises the insight layer
+
+Use these descriptions based on context:
+- "Relationship-first CRM" for category positioning
+- "Mobile CRM" for platform conversations
+- "Voice-first" for differentiation from form-based tools
+
+### Categories We Partially Overlap With
+
+**Traditional CRMs** (Salesforce, HubSpot, Pipedrive)
+- Overlap: Contact/client management, opportunity tracking, activity logging
+- Difference: We're built for user value, not management reporting
+
+**Sales engagement tools** (Outreach, Salesloft, Apollo)
+- Overlap: Sales activity management, follow-up systems
+- Difference: We're for relationship quality, not sequence automation
+
+**Task and productivity tools** (Todoist, Things, Asana)
+- Overlap: Reminder systems, action management
+- Difference: We carry relationship context, not just tasks
+
+### Category We Explicitly Reject
+
+**Admin-first CRM systems**
+
+We do not position Ten Touches as an administrative tool for management oversight. If a prospect's primary need is compliance reporting and pipeline dashboards for leadership, we're not the right fit.
+
+This is intentional. We build for the user first. Management visibility is a byproduct of user value, not the primary goal.
+
+
+---
+
+## 3. Competitive Landscape Overview
+
+### Primary Competitor Categories
+
+**1. Traditional CRMs (Salesforce, HubSpot CRM, Zoho)**
+
+What they offer:
+- Comprehensive contact and deal management
+- Reporting and forecasting
+- Integration ecosystems
+- Customisation and automation
+
+Why users leave:
+- "My team won't use it"
+- "It's too much admin"
+- "I get nothing back for my effort"
+- "It's built for my manager, not me"
+
+**2. Lightweight CRMs (Pipedrive, Close, Copper)**
+
+What they offer:
+- Simpler pipeline management
+- Less configuration required
+- Sales-focused design
+- Often better UX than enterprise CRMs
+
+Why users leave:
+- "Still feels like data entry"
+- "Doesn't help me remember people"
+- "No insights on what's working"
+- "Desktop-first design doesn't fit my workflow"
+
+**3. Sales Engagement Platforms (Outreach, Salesloft, Apollo)**
+
+What they offer:
+- Sequence automation
+- Email and call tracking
+- Cadence management
+- Volume-optimised outreach
+
+Why users leave:
+- "I sell through relationships, not sequences"
+- "Templates feel impersonal"
+- "Built for SDR teams, not relationship sellers"
+- "Optimised for volume, not quality"
+
+**4. Task / Note-Taking Tools (Todoist, Notion, Apple Notes)**
+
+What they offer:
+- Simple task management
+- Flexible note-taking
+- Low friction
+
+Why users leave:
+- "No client context"
+- "No opportunity tracking"
+- "No insights on what works"
+- "I outgrew it"
+
+### Why Users Arrive at Ten Touches
+
+| From | They Say |
+|------|----------|
+| Traditional CRMs | "I want something my team will actually use" |
+| Lightweight CRMs | "I want to remember people, not just track deals" |
+| Sales engagement | "I sell through relationships, not automation" |
+| Task tools | "I need something built for sales, not just tasks" |
+
+
+---
+
+## 4. Ten Touches Positioning Statement
+
+### One-Sentence Positioning
+
+**For relationship-driven salespeople who are frustrated with CRMs that demand data entry but give nothing back, Ten Touches is a mobile CRM that helps you remember everyone, follow up consistently, and learn what actually works — through voice-first capture and behavioural insights.**
+
+### Expanded Positioning (Paragraph)
+
+Most CRMs are built for management reporting, not for the people actually doing the selling. They demand data entry, offer nothing in return, and create resentment rather than adoption.
+
+Ten Touches is different. It's designed for relationship-driven salespeople — business development professionals, founders, consultants, and account managers — who know that real selling happens through human connection, not pipeline manipulation.
+
+With Ten Touches, you capture clients, touches, and opportunities by speaking — in the moment, when insight is fresh. Client cards remember personal details (sports, pets, interests), not just job titles. Reminders are organised by action type so you can match your work to your energy. And the Optimise dashboard shows you which of your actions actually lead to wins.
+
+The result: you remember more, follow up better, and understand what works. Your manager gets visibility because you actually use the tool — not because you're forced to.
+
+### Positioning Elements
+
+| Element | Statement |
+|---------|-----------|
+| **For** | Relationship-driven salespeople |
+| **Who** | Are frustrated with CRMs that feel like admin |
+| **Our product** | Ten Touches |
+| **Is a** | Mobile, voice-first CRM |
+| **That** | Helps you remember everyone, follow up consistently, and learn what works |
+| **Unlike** | Traditional CRMs built for management reporting |
+| **We** | Deliver value to the user first, and visibility to management as a byproduct |
+
+
+---
+
+## 5. Core Differentiation Pillars
+
+Five pillars define how Ten Touches is fundamentally different. Each represents a philosophy, not just a feature.
+
+### Pillar 1: Relationship Memory Over Data Storage
+
+**What it means:**
+Ten Touches doesn't store contacts — it preserves relationships. Client cards capture personal details (sports, pets, interests) as first-class data, not afterthoughts buried in notes fields.
+
+**Why competitors struggle here:**
+Traditional CRMs are designed around business data: company, role, deal value. Personal details are unstructured notes at best. This makes the data useful for reporting but useless for building human connections.
+
+**Proof points in Ten Touches:**
+- Personal information fields on every client card
+- Search by any remembered attribute ("beagle owner", "Man United fan")
+- Four-star quality scoring prompts relationship actions
+- *Reference: Screenshot 1 — Client Detail Screen*
+
+**Competitive framing:**
+> "Their CRM stores job titles. Ten Touches preserves relationships."
+
+### Pillar 2: Voice-First Capture Over Manual Entry
+
+**What it means:**
+Ten Touches is designed around speaking, not typing. You capture clients, touches, and opportunities by voice — in the moment, when insight is fresh.
+
+**Why competitors struggle here:**
+Most CRMs assume desktop access and time for form-filling. By the time a salesperson sits down to enter data, the personal details have faded. Voice capture removes this delay.
+
+**Proof points in Ten Touches:**
+- Record button accessible throughout the app
+- Voice input for creating clients, logging touches, updating opportunities
+- Mobile-first design optimised for capture in the field
+- *Reference: Screenshot 4 — Opportunity Detail (voice input)*
+
+**Competitive framing:**
+> "Their CRM expects you to type at a desk. Ten Touches lets you speak in the moment."
+
+### Pillar 3: Behavioural Insight Over Static Reporting
+
+**What it means:**
+The Optimise dashboard shows you which of your actions lead to wins — not generic advice, but your personal patterns. This is self-coaching, not compliance reporting.
+
+**Why competitors struggle here:**
+Traditional CRM reports are designed for management oversight: activity counts, pipeline values, forecast accuracy. They tell you what happened but not how to improve. Ten Touches tells you what works for you.
+
+**Proof points in Ten Touches:**
+- Pick Winners — win rate by touch type
+- Match the Moment — first touch vs last touch analysis
+- Sell Faster — touches and time to win
+- Value Impact — revenue correlation by action type
+- *Reference: Screenshot 5 — Optimise Dashboard*
+
+**Competitive framing:**
+> "Their CRM reports to your manager. Ten Touches coaches you."
+
+### Pillar 4: Individual Value Before Management Value
+
+**What it means:**
+Every feature in Ten Touches must help the person using it. If it only serves management reporting, it doesn't belong. When users get genuine value, they use the tool. When they use the tool, data quality improves. Management visibility becomes a natural outcome.
+
+**Why competitors struggle here:**
+Most CRMs are bought by managers and resented by users. The value flows upward (visibility for leadership) while the burden flows downward (data entry for sellers). This creates adoption failure.
+
+**Proof points in Ten Touches:**
+- Reminders organised by action type benefit the user
+- Personal insights help the seller improve
+- Client cards help with conversation preparation
+- No features that only serve management
+
+**Competitive framing:**
+> "Their CRM is built for your manager. Ten Touches is built for you."
+
+### Pillar 5: Confidence and Momentum Over False Precision
+
+**What it means:**
+Ten Touches uses honest confidence signals (risked revenue, stage progression) rather than fake probability percentages. The goal is momentum, not mathematical precision that nobody believes.
+
+**Why competitors struggle here:**
+Traditional CRMs ask for probability percentages that sales teams routinely game. A deal marked "60% likely" often reflects politics, not reality. Ten Touches uses simple stages with automatic risk weighting.
+
+**Proof points in Ten Touches:**
+- Four-stage model: Prospect (25%), Proposal (50%), PO (75%), Paid (100%)
+- Risked revenue shown alongside total value
+- Confidence rings that reflect reality
+- Activity momentum tracking without pressure
+- *Reference: Screenshot 4 — Opportunity Detail*
+
+**Competitive framing:**
+> "Their CRM asks for fake precision. Ten Touches tells you the truth."
+
+
+---
+
+## 6. Comparison by Buyer Lens
+
+Different buyers care about different things. Adapt the competitive positioning accordingly.
+
+### Individual Seller Perspective
+
+**What they care about:**
+- "Will this help me, or just create more work?"
+- "Do I get anything back for my effort?"
+- "Can I use this in the flow of my day?"
+
+**Ten Touches advantage:**
+- Voice capture removes data entry burden
+- Personal insights help them improve
+- GTD-style reminders match their energy
+- Relationship memory makes them better at conversations
+
+**Competitors' weakness:**
+- Built for management, resented by users
+- Data entry with no personal payoff
+- Desktop-first design that doesn't fit field work
+
+### Founder-Led Sales Perspective
+
+**What they care about:**
+- "I don't have time for CRM admin"
+- "Relationships keep slipping through the cracks"
+- "I need something lightweight that just works"
+
+**Ten Touches advantage:**
+- Minimal friction for maximum capture
+- System holds relationships when founder is overwhelmed
+- Self-coaching without a sales team
+- Works in the margins of a busy day
+
+**Competitors' weakness:**
+- Require significant setup and configuration
+- Demand regular data entry
+- Built for sales teams, not solo operators
+
+### Sales Manager Perspective
+
+**What they care about:**
+- "Will my team actually use it?"
+- "Can I see what's happening without chasing data?"
+- "Will this improve performance or just track it?"
+
+**Ten Touches advantage:**
+- User value drives adoption
+- Adoption drives data quality
+- Data quality delivers visibility
+- Insights enable coaching, not just monitoring
+
+**Competitors' weakness:**
+- Low adoption means poor data
+- Visibility requires enforcement
+- Reporting doesn't change behaviour
+
+### Small Teams vs Scaling Teams
+
+**Small teams:**
+- Need simplicity over customisation
+- Value personal relationships highly
+- Want to move fast without admin burden
+- Ten Touches fits perfectly
+
+**Scaling teams:**
+- May need more integration and automation
+- May require multi-user reporting
+- Ten Touches works well, but evaluate fit carefully
+- Not designed for enterprise complexity
+
+
+---
+
+## 7. High-Level Competitive Comparison (Narrative)
+
+These comparisons focus on philosophy and behavioural impact, not feature lists.
+
+### Ten Touches vs Traditional CRMs
+
+**The philosophical difference:**
+
+Traditional CRMs are built for management visibility. They assume the organisation's need for data outweighs the individual's need for value. The result: mandatory data entry, compliance-focused design, and widespread adoption failure.
+
+Ten Touches flips this. User value comes first. When the tool genuinely helps the person using it, adoption follows naturally. When adoption follows, data quality improves. Management gets visibility as a byproduct, not a demand.
+
+**The behavioural impact:**
+
+Traditional CRMs train people to resent their tools. "CRM admin" becomes a dreaded phrase. Data entry happens days late, if at all. Personal details are never captured.
+
+Ten Touches trains people to capture in the moment. Voice input makes logging natural. Insight payoff makes the effort worthwhile. Relationships become stronger because the memory is preserved.
+
+**The adoption driver:**
+
+Traditional CRMs are adopted through mandate and enforced through pipeline reviews.
+
+Ten Touches is adopted through value and sustained through habit.
+
+### Ten Touches vs Sales Engagement Tools
+
+**The philosophical difference:**
+
+Sales engagement tools optimise for volume and automation. They're built for SDR teams running sequences at scale — templated emails, scheduled calls, cadence management.
+
+Ten Touches optimises for relationship quality. It's built for people who sell through genuine human connection — business developers, founders, consultants, account managers.
+
+**The behavioural impact:**
+
+Sales engagement tools train people to scale outreach. More touches, more templates, more automation. The relationship becomes a sequence to execute.
+
+Ten Touches trains people to deepen relationships. Fewer but better touches. Personal context that makes conversations meaningful. Quality over quantity.
+
+**The adoption driver:**
+
+Sales engagement tools are adopted to increase volume metrics.
+
+Ten Touches is adopted to improve relationship quality.
+
+### Ten Touches vs Task Managers / Notes Apps
+
+**The philosophical difference:**
+
+Task managers handle to-dos. Notes apps store information. Neither understands the relationship context that makes sales follow-up meaningful.
+
+Ten Touches is purpose-built for sales relationships. Every reminder carries context: who the person is, what the opportunity is, why you're reaching out, what's worked before.
+
+**The behavioural impact:**
+
+Task managers train people to check off items. "Call Sarah" becomes a task to complete, not a relationship to nurture.
+
+Ten Touches trains people to maintain momentum. Every action moves a relationship forward, informed by context and guided by insight.
+
+**The adoption driver:**
+
+Task managers are adopted for general productivity.
+
+Ten Touches is adopted for relationship management specifically.
+
+
+---
+
+## 8. Feature Parity vs Differentiation Guidance
+
+### Features We Intentionally Share (Table Stakes)
+
+These features are expected in any CRM. They don't differentiate us, but their absence would disqualify us:
+
+- Client/contact storage
+- Opportunity/deal tracking
+- Activity logging
+- Reminder/task management
+- Mobile access
+- Search functionality
+
+**Positioning guidance:** Don't lead with these. Acknowledge them briefly if asked, then redirect to differentiation.
+
+### Features We Intentionally Avoid
+
+These features exist in competitors but don't align with our philosophy:
+
+- **Complex automation** — We're for relationship quality, not sequence automation
+- **Extensive integrations** — We prioritise depth over breadth
+- **Detailed reporting** — We offer insight, not compliance reports
+- **Heavy customisation** — We're opinionated about what works
+- **Enterprise administration** — We're built for users, not IT departments
+
+**Positioning guidance:** If asked about these, explain the philosophy: "We intentionally keep Ten Touches focused on relationship management. If you need complex automation, there are tools built for that — but they solve a different problem."
+
+### Features We Uniquely Lead With
+
+These features define our differentiation:
+
+- **Voice-first capture** — Log by speaking, not typing
+- **Personal information fields** — Sports, pets, interests as first-class data
+- **GTD-style action filtering** — Match tasks to energy and context
+- **Behavioural insights** — Personal win rates, timing analysis, efficiency metrics
+- **Revenue risking** — Honest pipeline through automatic stage weighting
+- **Four-star quality scoring** — Behavioural nudges for testimonials, referrals, feedback
+
+**Positioning guidance:** Lead with these. They're hard to replicate and directly connected to outcomes.
+
+### When NOT to Compete on Features
+
+Avoid feature-for-feature comparisons when:
+
+- The prospect is focused on integration depth
+- The prospect needs enterprise administration
+- The prospect wants complex automation
+- The prospect prioritises reporting over user value
+
+In these cases, acknowledge the mismatch:
+> "It sounds like you need a tool optimised for [integration/automation/reporting]. Ten Touches is built for a different problem — helping salespeople remember relationships and follow up consistently. If that's not the primary need, we might not be the right fit."
+
+
+---
+
+## 9. Common Competitive Objections
+
+### "We already have a CRM"
+
+**Why this objection exists:**
+The prospect sees Ten Touches as a replacement for their existing system and worries about duplication, migration, or change management.
+
+**How Ten Touches reframes:**
+Ten Touches solves a different problem. Most CRMs are built for reporting. Ten Touches is built for the person doing the selling. The question isn't "do you have a CRM?" — it's "does your team actually use it?"
+
+**Reframe language:**
+> "Most teams have a CRM. Most teams also have low adoption. Ten Touches is designed to be valuable to the user first — which is why people actually use it. The data that flows to your CRM becomes more complete because capture happens in the moment."
+
+*Cross-reference: Document 8 — Objections & FAQ*
+
+### "This looks like task management"
+
+**Why this objection exists:**
+The prospect sees the reminder system and assumes Ten Touches is just another task manager with a sales wrapper.
+
+**How Ten Touches reframes:**
+Task managers track to-dos. Ten Touches maintains relationships. The difference is context — every reminder includes who, why, what, and when. Plus client cards, opportunity tracking, and behavioural insights that task managers don't have.
+
+**Reframe language:**
+> "A task manager knows you need to 'Call Sarah.' Ten Touches knows Sarah works at TechFlow, her deal is at proposal stage, her husband golfs, and meetings have been your most effective touch type with her. That context changes the quality of the conversation."
+
+### "Isn't this just for individuals?"
+
+**Why this objection exists:**
+The prospect worries Ten Touches can't scale beyond solo use or provide team visibility.
+
+**How Ten Touches reframes:**
+Ten Touches works for individuals and teams. The key insight: team visibility depends on individual adoption. When users get value, they use the tool. When they use the tool, data is complete. When data is complete, managers get the visibility they need.
+
+**Reframe language:**
+> "Ten Touches works for individuals and teams. But here's the thing: team visibility depends on whether individuals actually use the tool. We've designed Ten Touches to be valuable to each user first. That's what drives adoption — and adoption is what delivers visibility."
+
+### "Can't our CRM do this?"
+
+**Why this objection exists:**
+The prospect believes their existing CRM has similar capabilities (notes fields, reminders, mobile apps).
+
+**How Ten Touches reframes:**
+The features might look similar, but the philosophy is different. Most CRMs can store notes — but they're not designed around relationship memory. Most CRMs have mobile apps — but they're not voice-first. Most CRMs have reports — but they don't coach the user.
+
+**Reframe language:**
+> "Your CRM can probably store notes and set reminders. But is it designed around voice capture in the moment? Does it show you which of your specific actions lead to wins? Does it help your team actually want to use it? Ten Touches is built differently — user value first, not management reporting first."
+
+
+---
+
+## 10. Win / Lose Scenarios
+
+### Scenarios Where Ten Touches Wins Decisively
+
+**High-probability wins:**
+
+1. **CRM adoption has failed** — The prospect has tried traditional CRMs and their team won't use them. Ten Touches' user-value approach directly addresses this pain.
+
+2. **Relationship-driven sales model** — The prospect sells through genuine human connection, not volume or sequences. Ten Touches is built exactly for this.
+
+3. **Founder-led sales** — The prospect is a founder doing their own selling with limited time. Ten Touches' lightweight, voice-first approach fits perfectly.
+
+4. **Mobile-first requirement** — The prospect's team works in the field, not behind desks. Ten Touches' mobile-first design is a clear advantage.
+
+5. **Personal detail matters** — The prospect's sales conversations depend on remembering human context (sports, family, interests). Ten Touches makes this searchable.
+
+**Signals you're winning:**
+- Prospect says "my team won't use our current CRM"
+- Prospect describes relationships as central to their sales process
+- Prospect mentions being in the field frequently
+- Prospect lights up at the personal information fields
+
+### Scenarios Where Ten Touches Is Not a Fit
+
+**Low-probability scenarios:**
+
+1. **Enterprise complexity required** — The prospect needs extensive customisation, complex approval workflows, or enterprise administration. Ten Touches is intentionally simpler.
+
+2. **Volume-first sales model** — The prospect's team runs high-volume outreach with sequences and automation. Sales engagement tools are better suited.
+
+3. **Reporting is the primary need** — The prospect cares primarily about management dashboards and compliance reporting, not user value. Traditional CRMs will satisfy this better.
+
+4. **Integration ecosystem required** — The prospect needs deep integration with many other tools. Ten Touches prioritises depth over breadth.
+
+5. **The user isn't the buyer** — The decision is made by someone who will never use the tool and only cares about management visibility.
+
+**Signals you're losing:**
+- Prospect asks detailed questions about integrations
+- Prospect focuses on reporting capabilities
+- Prospect describes high-volume, templated outreach
+- Prospect is buying for others, not themselves
+
+### Walking Away Confidently
+
+Not every prospect is a fit. Walking away confidently is better than winning a customer who will churn.
+
+**How to walk away:**
+
+> "It sounds like your primary need is [integration depth / sequence automation / enterprise reporting]. Ten Touches is built for a different problem — helping relationship-driven salespeople remember clients and follow up consistently. If that's not the core need, we're probably not the right fit. But if it becomes a priority, we'd love to talk again."
+
+**Why this works:**
+- Shows confidence in positioning
+- Respects the prospect's actual needs
+- Leaves the door open
+- Builds trust through honesty
+
+
+---
+
+## 11. Language & Framing Guidance
+
+### Words and Phrases to Lean Into
+
+**Relationship-focused:**
+- Relationship memory (not contact record)
+- Client (not contact, lead, or prospect)
+- Touch (any meaningful interaction)
+- Personal details
+- Human connection
+
+**Value-focused:**
+- User value first
+- Actually helps you
+- Designed for you
+- Gives back
+- Adoption through value
+
+**Action-focused:**
+- Capture in the moment
+- Match your energy
+- Momentum
+- Follow up consistently
+- Voice-first
+
+**Insight-focused:**
+- What works for you
+- Self-coaching
+- Your patterns
+- Behavioural insight
+- Honest confidence
+
+### Words and Phrases to Avoid
+
+**CRM clichés:**
+- "360-degree view"
+- "Single source of truth"
+- "Next-gen" / "Next-generation"
+- "AI-powered" (unless specifically accurate)
+- "Seamless"
+- "Robust"
+- "Best-in-class"
+
+**Competitor language:**
+- "Pipeline management" (too transactional)
+- "Sales automation" (not our approach)
+- "Activity tracking" (implies surveillance)
+- "Forecasting" (management-focused)
+
+### How to Talk About Competitors Without Naming Them
+
+**Do:**
+- "Traditional CRMs"
+- "Most CRMs"
+- "Tools built for management"
+- "Desktop-first systems"
+- "Sequence-based tools"
+
+**Don't:**
+- Name specific competitors (Salesforce, HubSpot, etc.)
+- Disparage competitors directly
+- Make claims you can't substantiate
+
+**Example:**
+> "Most CRMs are built for management visibility, not user value. They demand data entry but give nothing back to the person doing the work. Ten Touches is designed differently."
+
+
+---
+
+## 12. Key Takeaway
+
+**The single statement sales and marketing should internalise:**
+
+> **Ten Touches wins when the conversation is about relationship quality and user value — not features, integrations, or management reporting.**
+
+If you're competing on features, you've lost the framing. Reframe to philosophy:
+- What problem are you actually solving?
+- Who benefits from the tool?
+- Why will people actually use it?
+
+When Ten Touches is positioned correctly, the competition isn't other CRMs — it's the status quo of CRM resentment and adoption failure.
+
+
+---
+
+*Ten Touches: We don't compete on features. We compete on philosophy.*

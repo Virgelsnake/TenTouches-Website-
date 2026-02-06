@@ -1,0 +1,281 @@
+# Ten Touches – Core Problems & Jobs To Be Done
+
+Jobs To Be Done & Pain Mapping
+
+This feeds copy, ads, decks, and demos.
+
+
+## 1. Primary Job
+
+**"Help me maintain strong relationships with clients and prospects without the mental overhead of remembering every detail, managing endless follow-ups, and doing administrative work that feels like it's for someone else's benefit."**
+
+This job statement captures the core tension: salespeople *want* to be good at relationships, but the tools they're given make relationship management feel like a burden rather than an advantage.
+
+### Supporting Jobs
+
+- **Help me remember who people are** — Not just names and titles, but the human details that make conversations meaningful
+- **Help me follow up at the right time** — Without relying on memory or manual calendar management
+- **Help me know what's working** — So I can do more of what wins and less of what doesn't
+- **Help me feel like my effort is worthwhile** — Make data entry give back, not just take
+
+
+## 2. Emotional Problems
+
+These are the feelings that make CRM work feel punishing. They're often unspoken but deeply felt.
+
+### Forgetting Personal Details
+
+*"I know we talked about his dog, but I can't remember the name. Now I look like I wasn't listening."*
+
+The embarrassment of forgetting something you *should* remember creates anxiety before every conversation. People avoid reaching out because they're afraid of looking careless.
+
+**Copy-ready language:**
+- "That awkward moment when you can't remember what you talked about"
+- "Looking like you don't care, when you just can't remember"
+- "The fear of saying 'remind me again...'"
+
+### Guilt About Poor Follow-Up
+
+*"I promised I'd call last week. Now it's been a month. I feel terrible."*
+
+Missed follow-ups compound. Each day you don't reach out makes it harder to reach out. The guilt builds into avoidance, and relationships decay.
+
+**Copy-ready language:**
+- "The guilt of the unreturned call"
+- "Knowing you should have followed up — three weeks ago"
+- "Watching relationships slip because you got busy"
+
+### Feeling Like CRM Work Is Wasted Effort
+
+*"I spent twenty minutes updating Salesforce. What did I get out of it? Nothing."*
+
+When data entry benefits the company but not the person doing it, resentment builds. The CRM becomes the enemy of productivity, not a tool for it.
+
+**Copy-ready language:**
+- "Data entry that helps your boss but not you"
+- "CRM as punishment, not tool"
+- "Logging activity for someone else's dashboard"
+
+### Dread of Admin Time
+
+*"End of day means CRM catch-up. I hate it."*
+
+The anticipation of admin work creates a negative association with the whole sales process. People delay, batch, and eventually skip.
+
+**Copy-ready language:**
+- "The Sunday night dread of Monday's data entry"
+- "That sinking feeling when you see your empty CRM"
+- "Admin time that steals from selling time"
+
+### Imposter Syndrome About Organisation
+
+*"Everyone else seems to have their contacts organised. I'm just winging it."*
+
+Disorganised salespeople often feel alone in their chaos. They assume others have cracked the code, when in reality most people struggle with the same problems.
+
+**Copy-ready language:**
+- "Feeling like you're the only one who can't keep track"
+- "Pretending you have a system when you don't"
+- "The secret shame of the disorganised salesperson"
+
+
+## 3. Functional Problems
+
+These are the practical, day-to-day friction points that slow people down.
+
+### Searching for People by Memory Fragments
+
+*"I met her at the conference. She had a French bulldog. She worked in... fintech? What was her name?"*
+
+Traditional CRMs require precise search terms. Ten Touches lets you search by what you actually remember: pets, sports teams, interests, any detail you captured.
+
+**Copy-ready language:**
+- "Remembering the dog but not the name"
+- "Searching by what you actually remember"
+- "Finding people the way your brain works"
+
+### Recalling Meetings After the Fact
+
+*"I know we talked about pricing concerns. But was that this client or another one?"*
+
+Without immediate capture, meeting details blend together. Important objections, commitments, and next steps get lost or confused.
+
+**Copy-ready language:**
+- "That meeting from last week — what did we actually discuss?"
+- "When all your calls blur into one"
+- "The details you wish you'd written down"
+
+### Manual Data Entry Burden
+
+*"Every field is another click. Every record is another five minutes."*
+
+Form-based data entry is slow, tedious, and happens at the wrong time (hours after the conversation). Voice input removes the friction and captures details while they're fresh.
+
+**Copy-ready language:**
+- "Twenty fields, zero motivation"
+- "The form that never ends"
+- "Typing on your phone when you should be driving"
+
+### Inconsistent Follow-Ups
+
+*"Some clients I follow up with religiously. Others fall through the cracks."*
+
+Without a system, follow-up quality varies by memory, preference, and recency. Important relationships get neglected while squeaky wheels get attention.
+
+**Copy-ready language:**
+- "The clients you remember vs the clients you forget"
+- "Following up when you remember — which isn't often enough"
+- "Inconsistency that costs deals"
+
+### No Visibility Into What Works
+
+*"I make calls. I send emails. I have no idea which ones actually help me win."*
+
+Most salespeople operate on instinct, habit, or manager instruction. They don't have personal data on which actions lead to their wins.
+
+**Copy-ready language:**
+- "Selling blind"
+- "Doing what you're told vs doing what works for you"
+- "No feedback loop on your own behaviour"
+
+
+## 4. Behavioural Problems
+
+These are patterns of behaviour that emerge from bad tools and misaligned incentives.
+
+### Low CRM Adoption
+
+*"I update it when I have to. Which is almost never."*
+
+When CRMs don't deliver value to the user, usage drops. Data becomes stale. Management loses visibility. Everyone loses.
+
+**Why this happens:**
+- No immediate payoff for the user
+- Time cost exceeds perceived benefit
+- System feels like surveillance, not support
+
+### Incomplete Data
+
+*"I've got name and email. That's about it."*
+
+Minimal effort produces minimal data. Client records become placeholder stubs rather than useful relationship memory.
+
+**Why this happens:**
+- Too many fields, too little time
+- Personal details feel "optional"
+- No obvious benefit to completeness
+
+### Reactive Rather Than Proactive Selling
+
+*"I respond when clients reach out. I don't initiate much."*
+
+Without reminders and momentum tracking, salespeople default to reactive mode. They wait for opportunities instead of creating them.
+
+**Why this happens:**
+- No system prompting outreach
+- Follow-up requires active memory
+- Proactive selling feels like more admin
+
+
+## 5. Current Workarounds
+
+Before Ten Touches, people cobble together imperfect solutions. Understanding these validates the problem.
+
+### Notes Apps
+
+**What people do:** Keep contact notes in Apple Notes, Notion, Evernote, or Google Docs.
+
+**Why it fails:**
+- Not structured or searchable
+- No reminders or follow-up prompts
+- Disconnected from calendar and email
+- Easy to forget which note has what
+
+### Memory Alone
+
+**What people do:** Try to remember everything — names, details, promises, next steps.
+
+**Why it fails:**
+- Human memory is unreliable at scale
+- Stress increases forgetting
+- Confidence drops when memory fails
+- No backup when you forget
+
+### Spreadsheets
+
+**What people do:** Build custom contact trackers in Excel or Google Sheets.
+
+**Why it fails:**
+- Manual maintenance
+- No mobile-friendly input
+- No reminders
+- Quickly becomes outdated
+
+### Inbox Searches
+
+**What people do:** Search email to reconstruct relationship history.
+
+**Why it fails:**
+- Only captures email interactions
+- Misses calls, meetings, and informal contact
+- Time-consuming to piece together
+- No personal details captured
+
+### Calendar Reminders
+
+**What people do:** Set calendar events for follow-ups.
+
+**Why it fails:**
+- No context on *why* you're following up
+- Clutters calendar with tasks
+- Easy to dismiss and forget
+- No connection to relationship history
+
+
+## 6. Why Existing Solutions Fail
+
+Traditional CRMs fail because they ignore how humans actually work.
+
+### Time Delay Between Action and Entry
+
+**The problem:** You have a great conversation. You mean to log it. Three days pass. Now you can barely remember what you discussed.
+
+**Why it matters:** Data quality depends on capture speed. The longer the delay, the less accurate and useful the record.
+
+**Ten Touches solution:** Voice input immediately after conversations, when insight is freshest.
+
+### Cognitive Load of Data Entry
+
+**The problem:** Every field is a decision. Every form is friction. By the time you've filled out a contact record, you've used mental energy that could have gone to selling.
+
+**Why it matters:** Willpower is finite. If data entry feels hard, it won't happen.
+
+**Ten Touches solution:** Voice-first capture that structures data automatically. Speak naturally; the system does the rest.
+
+### Lack of Immediate Payoff
+
+**The problem:** You enter data. Nothing happens. The data sits there for a manager to review, but you get nothing back.
+
+**Why it matters:** Humans respond to incentives. If the tool doesn't help you, you won't use it.
+
+**Ten Touches solution:** Insights that show you what's working, reminders that keep you on track, and relationship memory that makes every conversation better.
+
+### Desktop-First Design
+
+**The problem:** Most CRMs assume you're at a desk with a full keyboard. Real salespeople are in cars, at events, between meetings, on their phones.
+
+**Why it matters:** If the tool isn't available when you need it, it's useless.
+
+**Ten Touches solution:** Mobile-first design with voice input that works wherever you are.
+
+### Built for Reporting, Not Relationships
+
+**The problem:** CRMs are designed to give managers visibility into pipelines and activity. They're not designed to help salespeople remember people or follow up better.
+
+**Why it matters:** When the tool serves the wrong master, the right users stop using it.
+
+**Ten Touches solution:** Every feature is designed to help the individual seller first. Management visibility emerges from user value, not from compliance demands.
+
+---
+
+*Ten Touches exists because the tools salespeople were given were never built for them.*

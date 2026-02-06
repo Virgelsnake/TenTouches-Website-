@@ -1,0 +1,354 @@
+# Ten Touches Sales Battlecard
+## vs Task / Note System Category (Notion, Todoist, Apple Notes, Spreadsheets)
+
+**Purpose:** Handle conversations when prospect uses Notion, Todoist, Apple Notes, spreadsheets, or other general-purpose productivity tools for sales follow-up.
+
+---
+
+## 1. Anchor Statement
+
+**Ten Touches helps relationship-driven salespeople remember everyone, follow up consistently, and sell smarter — without the admin burden that kills CRM adoption.**
+
+(≤25 words. Use to reset the conversation when it drifts to features.)
+
+---
+
+## 2. Competitive Context
+
+### What Is a Task / Note System?
+
+General-purpose productivity tools people repurpose for sales:
+- Notion
+- Todoist
+- Things
+- Apple Notes / Google Keep
+- Spreadsheets (Excel, Google Sheets)
+- Evernote
+- Asana (for personal task tracking)
+
+### Why Prospects Compare Them to Ten Touches
+
+These tools are familiar, flexible, and already in use. For someone who hasn't found a CRM that works, task managers and note apps feel like a "good enough" alternative.
+
+### What's Missing
+
+Task managers and note apps are **generic productivity tools**. They don't understand:
+- Relationship context (who people are, what you've discussed)
+- Opportunity tracking (deal stages, revenue, confidence)
+- Sales-specific insight (which actions lead to wins)
+- Purpose-built design for follow-up
+
+Ten Touches is **built for sales relationships**. Every feature is designed around remembering people, maintaining momentum, and improving selling behaviour.
+
+---
+
+## 3. Core Differentiation Pillars
+
+### Pillar 1: Built for Relationships, Not Generic Tasks
+
+**What it means:**
+Ten Touches understands that a sales follow-up isn't just a to-do item — it's a relationship action with context, history, and purpose.
+
+**Why this matters to the buyer:**
+A task manager knows you need to "Call Sarah." Ten Touches knows Sarah works at TechFlow, her deal is at proposal stage worth £45k, her husband golfs, and meetings have been your most effective touch type with her.
+
+**Why task/note systems struggle:**
+Generic tools treat everything the same — groceries, project tasks, sales follow-ups. There's no client structure, no relationship memory, no sales-specific organisation.
+
+**Ten Touches proof points (Screenshot 1):**
+- Client cards with personal details and business context
+- Search by any remembered attribute
+- Relationship-first data hierarchy
+- Four-star quality scoring for relationship health
+
+### Pillar 2: Context That Travels With the Person
+
+**What it means:**
+Every reminder in Ten Touches carries full context — who the person is, what the opportunity is, why you're reaching out, and what's worked before.
+
+**Why this matters to the buyer:**
+You never have to search email threads, dig through notes, or recall meeting context. When a reminder appears, everything you need is right there.
+
+**Why task/note systems struggle:**
+In a task manager, "Call Sarah" is just text. You have to remember (or search for) who Sarah is, what you discussed, what the deal status is. In notes apps, information is scattered across files with no linking.
+
+**Ten Touches proof points (Screenshot 3):**
+- Reminder cards show client name, opportunity, intent, and timing
+- Touch history available for every client
+- Context-rich follow-up without searching
+- Linked relationships between clients and opportunities
+
+### Pillar 3: Insight and Improvement, Not Just Capture
+
+**What it means:**
+Ten Touches shows you which of your actions lead to wins — personal patterns that help you sell smarter, not just record activity.
+
+**Why this matters to the buyer:**
+A note app captures what happened. Ten Touches shows you what works. That's the difference between a filing system and a self-coaching tool.
+
+**Why task/note systems struggle:**
+Generic tools have no concept of sales outcomes. They can't tell you which touch types win deals, what works at different stages, or how your patterns compare to your own best results.
+
+**Ten Touches proof points (Screenshot 5):**
+- Pick Winners — win rate by touch type
+- Match the Moment — first touch vs closing touch analysis
+- Sell Faster — touches and days to win
+- Activity momentum tracking
+
+---
+
+## 4. Worldview Comparison
+
+### How Task / Note Systems Define Success
+- Tasks completed
+- Notes captured
+- Lists managed
+- Inbox zero
+
+### How Task / Note Systems Measure Value
+- Productivity throughput
+- Organisation
+- Capture speed
+- List completion
+
+### How Ten Touches Defines Success Differently
+- Relationships maintained and deepened
+- Follow-up consistency across all clients
+- Conversations informed by context
+- Selling behaviour improved over time
+
+### How Ten Touches Measures Value Differently
+- Which actions lead to your wins
+- Relationship momentum (not just task completion)
+- Conversation quality through preparation
+- Behaviour change through insight
+
+---
+
+## 5. Key Reframe Questions
+
+Use these to expose gaps in workaround approaches:
+
+1. **"When you look at a follow-up task, do you know instantly who the person is and what you discussed?"**
+   (Reveals context gap)
+
+2. **"Can you search your notes by something you remember about a person — like their pet's name or the sport they play?"**
+   (Reveals search limitations)
+
+3. **"Do you know which of your actions — calls, emails, meetings — actually lead to your wins?"**
+   (Reveals insight gap)
+
+4. **"How do you track which deals are real and which are just hopeful?"**
+   (Reveals lack of opportunity management)
+
+5. **"If you went on holiday for two weeks, could someone else pick up your relationships from your notes?"**
+   (Reveals structure gap)
+
+6. **"Has your current system ever helped you see a pattern in your selling that made you more effective?"**
+   (Reveals no self-coaching capability)
+
+---
+
+## 6. Proof Points & Evidence
+
+### Screens to Reference Verbally
+
+- **Client Detail Screen (Screenshot 1):** "Every client has a full profile — business context, personal details, relationship quality scores. Not just a name in a list. You can search for 'beagle owner' and find them."
+
+- **Reminders Screen (Screenshot 3):** "Reminders include full context — who they are, what the deal is, why you're reaching out. Everything on one card. No searching through notes."
+
+- **Opportunity Management (Screenshot 2, 4):** "Deals have stages, values, and honest confidence levels. You see risked revenue alongside total value. No spreadsheet required."
+
+- **Optimise Dashboard (Screenshot 5):** "The dashboard shows your personal patterns — which touch types win, what works at different stages. Your notes app can't tell you that."
+
+### Metrics & Patterns Ten Touches Reveals
+
+- Win rate by touch type
+- What works for opening relationships vs closing deals
+- Average touches to win
+- Revenue correlation with specific actions
+
+### Behavioural Outcomes Users Experience
+
+- Walk into conversations fully prepared
+- Never lose context on a relationship
+- Understand their own selling patterns
+- Feel organised without building custom systems
+
+---
+
+## 7. Common Objections & Reframes
+
+### Objection: "Isn't this just task management?"
+
+**Underlying concern:**
+Sees the reminders feature and assumes it's a glorified to-do list.
+
+**Recommended reframe:**
+"Task managers track to-dos. Ten Touches maintains relationships. The difference is context. Every reminder includes who the person is, what you discussed, what the opportunity is worth, and why you're reaching out. Plus client cards with personal details, opportunity tracking with revenue confidence, and insights showing what works for you. Your task manager doesn't know any of that."
+
+**Language guidance:**
+Acknowledge the surface similarity, then reveal the depth difference.
+
+**Follow-up question:**
+"When you see 'Call Sarah' in your task list, do you know instantly who she is and why you're calling?"
+
+---
+
+### Objection: "I can do this in my notes app"
+
+**Underlying concern:**
+Believes flexible notes can replicate structured relationship management.
+
+**Recommended reframe:**
+"You can definitely capture information in a notes app. But is it structured? Searchable by any detail? Linked to opportunities and reminders? Does it show you which actions lead to wins? Notes apps are great for unstructured capture. Ten Touches is built specifically for sales relationships — with structure that makes the information actually useful."
+
+**Language guidance:**
+Respect the current approach, then highlight what purpose-built design adds.
+
+**Follow-up question:**
+"How much time do you spend searching through notes before calls? Or recreating context you know you captured somewhere?"
+
+---
+
+### Objection: "My spreadsheet works fine"
+
+**Underlying concern:**
+Has invested effort building a custom system; reluctant to switch.
+
+**Recommended reframe:**
+"Spreadsheets can be powerful — you can customise them to do almost anything. But they require you to maintain them. They don't remind you. They don't show patterns. They don't work well on mobile. And they definitely don't let you capture a new client by voice while walking to your car. Ten Touches gives you the structure of a good spreadsheet with none of the maintenance."
+
+**Language guidance:**
+Honour the effort invested, then reveal maintenance burden and capability gaps.
+
+**Follow-up question:**
+"How often does your spreadsheet get out of date because updating it feels like admin?"
+
+---
+
+## 8. Win Scenarios
+
+### Ten Touches Wins Decisively When:
+
+**Outgrown workarounds**
+The prospect's notes, spreadsheets, or task managers have become unwieldy. They know they need something better but haven't found a CRM that works.
+
+**Need for structure without complexity**
+The prospect wants organisation without the overhead of traditional CRMs. They don't want Salesforce, but they've outgrown notes.
+
+**Sales-specific focus**
+The prospect realises their generic tools don't understand sales relationships. They want something purpose-built for their work.
+
+**Insight hunger**
+The prospect wants to understand their own patterns and improve. They've never had data on what works for them.
+
+**Mobile-first reality**
+The prospect works in the field and can't maintain spreadsheets or notes effectively on mobile.
+
+### Signals You're Winning:
+
+- Prospect describes cobbled-together systems (notes + spreadsheet + calendar)
+- Prospect mentions losing track of relationships or context
+- Prospect asks about the personal details fields with interest
+- Prospect responds to the behavioural insights
+- Prospect says "I've tried CRMs and hated them, so I use..."
+
+---
+
+## 9. Lose / Walk-Away Scenarios
+
+### Ten Touches Is Not the Right Fit When:
+
+**Simple needs genuinely met**
+The prospect has a small number of clients, simple sales process, and their current approach genuinely works. Don't fix what isn't broken.
+
+**No sales focus**
+The prospect's use case isn't sales-related. Ten Touches is specifically designed for relationship-driven selling.
+
+**Unwilling to adopt new tools**
+The prospect is deeply attached to their current system and not actually experiencing friction. Change requires motivation.
+
+**Team tool requirement**
+The prospect needs a shared system for a larger team with reporting. They may need something with more collaboration features.
+
+### Signals You're Losing:
+
+- Prospect says "my system works fine" with conviction
+- Prospect's use case isn't clearly sales-related
+- Prospect is evaluating for team use requiring heavy reporting
+- Prospect shows no interest in structure or insight
+
+### Walking Away Confidently:
+
+"It sounds like your current approach is genuinely working for you. If your needs become more complex, or if you find yourself wanting to understand your selling patterns better, Ten Touches would be a great fit. Happy to talk again when timing is right."
+
+---
+
+## 10. Language & Framing Guidance
+
+### Words and Phrases to Lean Into
+
+**Purpose-built positioning:**
+- Built for sales relationships
+- Purpose-designed for follow-up
+- Sales-specific structure
+- Relationship memory (not task list)
+
+**Value-focused:**
+- Context that travels with the person
+- No more searching through notes
+- Instant preparation for any conversation
+- Insight into what works for you
+
+**Outcome-focused:**
+- Understand your patterns
+- Self-coaching built in
+- Improve over time
+- Never lose relationship context
+
+### Words and Phrases to Avoid
+
+**Condescending language:**
+- Don't say "your spreadsheet is a mess"
+- Don't dismiss current approaches as "primitive"
+- Don't imply they're doing it wrong
+
+**Over-complicated claims:**
+- Don't position as "enterprise CRM"
+- Don't lead with features they don't care about
+- Don't overwhelm with capability
+
+### How to Reference Task / Note Systems Without Dismissing Them
+
+**Do say:**
+- "Notes apps are great for quick capture. Ten Touches adds the structure and insight that makes that information actually useful for sales."
+- "Spreadsheets can be powerful, but they require maintenance. Ten Touches gives you the same structure with none of the upkeep."
+
+**Don't say:**
+- "Your notes are a disorganised mess"
+- "Spreadsheets are outdated"
+
+---
+
+## 11. Closing Anchor
+
+**"Ten Touches isn't about replacing your notes — it's about giving your relationship information the structure, context, and insight that turns capture into action."**
+
+Use this to re-centre the conversation when it drifts to feature comparisons or generic productivity.
+
+---
+
+## Quality Verification ✓
+
+- [x] Salesperson can use mid-call without preparation
+- [x] Does not require slide or screen share
+- [x] No feature comparison tables
+- [x] Changes how buyer thinks, not just what they compare
+- [x] Scannable in under 60 seconds
+- [x] Narrative-driven, not tabular
+- [x] All claims align with Knowledge Base documents
+
+---
+
+*Battlecards win conversations, not comparisons.*

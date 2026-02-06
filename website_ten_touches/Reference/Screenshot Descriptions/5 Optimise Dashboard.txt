@@ -1,0 +1,256 @@
+
+
+# Screenshot 5 
+
+## Dashboard – From Tracking to Intelligent Selling
+
+### What this screen really is
+
+This dashboard is **not analytics** and it’s **not reporting**.
+
+It’s a **behavioural intelligence layer** that turns everyday sales activity into:
+
+* self-coaching
+* better decision-making
+* faster deal progression
+* higher-quality revenue
+
+Crucially, everything here is designed for the **individual seller**, not management oversight.
+
+---
+
+## Dashboard Sections (What’s on the screen)
+
+This dashboard is made up of **five complementary insight modules**, each answering a different sales question.
+
+---
+
+## 1. Activity Target & Momentum Tracking
+
+### “Am I showing up consistently?”
+
+**Features**
+
+* User-defined activity target (e.g. *3 touches per 14 days*)
+* Toggle to enable or disable tracking
+* Simple +/- controls to adjust targets
+* Bar chart showing touches completed over time
+* Clear “Below Target” indicator
+
+**Benefits**
+
+* Encourages consistency without pressure
+* Focuses on activity rhythm, not raw volume
+* Makes momentum visible at a glance
+
+**Why it matters**
+Sales success is rarely about spikes of effort — it’s about cadence. This module reinforces habit-building without turning activity into a quota.
+
+---
+
+## 2. Pick Winners
+
+### “Which actions actually work for me?”
+
+**Features**
+
+* Touch types displayed as icons (call, email, meeting, casual, etc.)
+* Win rate per touch type
+* Performance delta (+ / – points vs average)
+* Sample size visibility (n=)
+
+**Benefits**
+
+* Shows which actions perform best *when used*
+* Highlights underused high-performing touch types
+* Removes guesswork from sales behaviour
+
+**Why it matters**
+Instead of generic advice like “make more calls”, the app tells you:
+
+> “When *you* do this, it works.”
+
+That insight is personal, credible, and motivating.
+
+---
+
+## 3. Match the Moment
+
+### “What works best at different stages of a deal?”
+
+**Features**
+
+* Separate views for:
+
+  * First touch
+  * Last touch
+* Win rate by touch type at each stage
+* Clear visual contrast between strong openers and strong closers
+
+**Benefits**
+
+* Helps users start deals more effectively
+* Helps users finish deals more decisively
+* Reinforces the idea that *timing matters as much as action*
+
+**Why it matters**
+Most CRMs ignore *when* actions happen.
+Ten Touches reveals that the same action can succeed or fail depending on the moment.
+
+---
+
+## 4. Sell Faster
+
+### “Which actions close deals with fewer touches and less time?”
+
+**Features**
+
+* Average number of touches required to win per touch type
+* Average days to win per touch type
+* Side-by-side comparison across channels
+
+**Benefits**
+
+* Identifies the most efficient sales actions
+* Helps reduce deal drag
+* Supports smarter sequencing, not harder selling
+
+**Why it matters**
+This turns sales from endurance into efficiency.
+Users learn how to win **with less effort**, not more.
+
+---
+
+## 5. Value Impact
+
+### “Which actions show up in the revenue I actually win?”
+
+**Features**
+
+* Percentage contribution of each touch type to won revenue
+* Sample size indicators
+* Clear revenue correlation signals
+
+**Benefits**
+
+* Connects behaviour directly to outcomes
+* Moves focus from activity to impact
+* Reinforces high-value actions
+
+**Why it matters**
+This answers the most important question:
+
+> “What’s actually making me money?”
+
+---
+
+## 6. Core Metrics & Outcomes
+
+### “How am I doing overall?”
+
+**Features**
+
+* Conversion rate
+* Average touches per deal
+* Won vs lost comparison
+* List of won and lost opportunities for reflection
+
+**Benefits**
+
+* Keeps high-level performance visible
+* Encourages reflection without overwhelm
+* Grounds insights in real outcomes
+
+---
+
+## User Journey (How this dashboard *feels* to use)
+
+### Step 1: Casual Check-In
+
+You open the dashboard without dread.
+
+You’re not bracing for judgement — you’re curious.
+
+---
+
+### Step 2: Momentum Awareness
+
+You glance at activity and instantly know:
+
+* Am I consistent?
+* Am I drifting?
+* Am I back on track?
+
+No spreadsheets. No guilt.
+
+---
+
+### Step 3: Pattern Recognition
+
+Your eye moves naturally through:
+
+* Pick Winners
+* Match the Moment
+* Sell Faster
+
+You spot patterns without being told what to think.
+
+---
+
+### Step 4: Self-Directed Improvement
+
+No tasks are created.
+No rules are enforced.
+
+You simply adjust behaviour:
+
+* More of what works
+* Less of what doesn’t
+* Better timing
+
+---
+
+### Step 5: Reflection Without Regret
+
+Looking at won and lost deals feels constructive, not punitive.
+
+Losses become learning.
+Wins become repeatable.
+
+---
+
+## How This Removes CRM Friction
+
+**Traditional CRM dashboards**
+
+* Built for managers
+* Lagging indicators
+* Overwhelming charts
+* Little behavioural guidance
+
+**Ten Touches dashboard**
+
+* Built for the seller
+* Leading indicators
+* Clear, human insights
+* Behaviour change without enforcement
+
+---
+
+## Key Positioning Insight (Very Important)
+
+This screen proves:
+
+> **Ten Touches doesn’t just tell you *what happened*.
+> It shows you *how to get better next time*.**
+
+That line belongs everywhere:
+
+* Product overview
+* Sales deck
+* Website homepage
+* Investor narrative
+
+---
+
+

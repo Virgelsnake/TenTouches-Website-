@@ -1,0 +1,21 @@
+# Ten Touches – Product Knowledge Base
+
+Welcome to the Ten Touches product knowledge library.
+
+This repository contains the core documentation required to understand, position, sell, and evolve the Ten Touches platform.
+
+## Contents
+
+1. Product Overview
+2. Ideal Customer Profiles
+3. Core Problems & Jobs-To-Be-Done
+4. Feature & Capability Breakdown
+5. Value Proposition & Messaging Framework
+6. Use Cases & User Journeys
+7. Metrics, Outcomes & ROI Narratives
+8. Objections & FAQ
+9. Visual & Demo Guidance
+10. Sales Enablement Assets (Overview)
+11. Competitive Positioning
+
+Each document is designed to be modular and usable independently.

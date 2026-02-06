@@ -1,0 +1,484 @@
+# Ten Touches – Sales Enablement Assets Overview
+
+The Meta-Document for Sales Success
+
+This is the document that ensures all other sales materials stay consistent, focused, and effective.
+
+
+## 1. Purpose of This Document
+
+This document exists to:
+- **Define required assets** — What sales materials we need to sell Ten Touches effectively
+- **Ensure consistency** — All sales conversations follow the same philosophy and positioning
+- **Prevent feature-led selling** — Keep conversations focused on outcomes and relationships
+- **Align sales with truth** — Ensure promises match product reality
+
+**This is a meta-document.** It defines what should be created, how it should be maintained, and why consistency matters. Use it to audit existing materials and guide new content creation.
+
+
+---
+
+## 2. Sales Motion Overview
+
+### Primary Sales Motion
+
+Ten Touches follows a **product-led, relationship-assisted** sales motion:
+
+1. **Discovery** — Prospect discovers Ten Touches through content, referral, or search
+2. **Self-exploration** — Prospect explores website, watches demo, reads materials
+3. **Trial** — Prospect signs up for free trial and experiences the product
+4. **Assisted conversion** — Light-touch sales support helps with questions and objections
+5. **Expansion** — Happy users recommend to colleagues, teams expand usage
+
+This is not high-pressure enterprise sales. It's not pure self-serve either. It's a blend that respects the relationship-first philosophy.
+
+### Typical Buyer Journey Stages
+
+| Stage | Buyer Mindset | Key Questions | Primary Asset |
+|-------|---------------|---------------|---------------|
+| **Awareness** | "I have a CRM problem" | "Is there something better?" | Website, content |
+| **Interest** | "This sounds different" | "How does it actually work?" | Demo video, use cases |
+| **Evaluation** | "Can this work for me?" | "Will my team use it?" | Trial, objection handling |
+| **Decision** | "Should I commit?" | "What's the ROI?" | Pricing narrative, case studies |
+| **Adoption** | "How do I succeed?" | "How do I get started?" | Onboarding, quick start |
+
+### Where Enablement Assets Are Used
+
+| Asset | Awareness | Interest | Evaluation | Decision | Adoption |
+|-------|-----------|----------|------------|----------|----------|
+| Product Overview Deck | | ✓ | ✓ | | |
+| Demo Script | | ✓ | ✓ | | |
+| Use Case One-Pagers | ✓ | ✓ | | | |
+| Objection Handling | | | ✓ | ✓ | |
+| Competitive Battlecards | | | ✓ | | |
+| Pricing Narrative | | | | ✓ | |
+| Onboarding Materials | | | | | ✓ |
+
+
+---
+
+## 3. Core Sales Narratives
+
+Every sales conversation should be anchored in one of these narratives. Choose based on the prospect's primary pain.
+
+### Primary Narrative: "CRM for the Person Doing the Work"
+
+**Use when:** The prospect is frustrated with CRM adoption failure or feels their current tool serves management, not users.
+
+**The story:**
+> "Most CRMs are built for managers who want visibility. They demand data entry but give nothing back to the salesperson. Ten Touches flips this — it's designed to help the person actually doing the selling. When the tool is valuable to the user, adoption follows naturally. Management gets visibility as a byproduct, not a demand."
+
+**Key proof points:**
+- Voice capture removes data entry friction
+- Personal insights help the seller improve
+- Reminders match energy and context
+
+### Supporting Narrative 1: "Relationship Memory, Not Contact Records"
+
+**Use when:** The prospect sells through genuine human connection and values personal details.
+
+**The story:**
+> "Traditional CRMs store job titles and company names. Ten Touches preserves relationships — sports, pets, interests, the human details that make connections real. You can search for 'beagle owner' or 'Man United fan' and find the right person. That's how humans actually remember people."
+
+**Key proof points:**
+- Personal information fields on client cards
+- Search by any remembered attribute
+- Four-star quality scoring prompts relationship actions
+
+### Supporting Narrative 2: "Self-Coaching Through Insight"
+
+**Use when:** The prospect wants to improve their selling effectiveness, not just track activity.
+
+**The story:**
+> "Instead of generic advice like 'make more calls,' Ten Touches shows you which actions actually work — for you, specifically. Which touch types lead to your wins? What works at different stages? How can you sell faster? That's self-coaching, not compliance reporting."
+
+**Key proof points:**
+- Pick Winners — win rate by touch type
+- Match the Moment — stage-appropriate actions
+- Sell Faster — efficiency metrics
+
+### Supporting Narrative 3: "Reducing Friction, Not Enforcing Process"
+
+**Use when:** The prospect fears that new tools create more work, not less.
+
+**The story:**
+> "Ten Touches doesn't add process — it removes friction. You capture by speaking, not typing. Reminders carry context so you don't have to reconstruct intent. The goal is momentum, not compliance. It fits in the margins of your day, not the centre of your admin."
+
+**Key proof points:**
+- Voice-first capture
+- Context-rich reminders
+- Mobile-first design
+
+### When to Use Each Narrative
+
+| Prospect Situation | Lead With |
+|--------------------|-----------|
+| CRM adoption has failed | "CRM for the person doing the work" |
+| Sells through relationships | "Relationship memory" |
+| Wants to improve performance | "Self-coaching through insight" |
+| Fears more admin burden | "Reducing friction" |
+
+
+---
+
+## 4. Required Core Sales Assets (Checklist)
+
+### 4.1 Product Overview Deck
+
+**Purpose:** Introduce Ten Touches to prospects who want a structured walkthrough.
+
+**Required elements:**
+- [ ] **Problem framing** (2-3 slides) — Why traditional CRMs fail users
+- [ ] **Ten Touches philosophy** (2 slides) — Relationship-first, user value first
+- [ ] **Key features** (3-4 slides) — Client cards, voice capture, reminders, insights
+- [ ] **Differentiation** (1-2 slides) — How we're different from CRMs, task tools, engagement platforms
+- [ ] **Who it's for / not for** (1 slide) — Clear targeting
+- [ ] **Call to action** (1 slide) — Trial invitation or next step
+
+**Guidelines:**
+- Maximum 15 slides
+- Lead with problem and philosophy, not features
+- Use screenshots from the actual product
+- End with transformation, not feature list
+
+*Cross-reference: Document 9 — Visual & Demo Guidance*
+
+### 4.2 Demo Script & Demo Flow
+
+**Purpose:** Ensure demos tell a consistent story and avoid common pitfalls.
+
+**Required elements:**
+- [ ] **Recommended demo order** — Story → Voice capture → Client card → Reminders → Optimise
+- [ ] **Key screens to show** — Screenshots 1, 2, 3, 4, 5 with talking points
+- [ ] **Stories to tell** — Human scenarios for each screen
+- [ ] **Pitfalls to avoid** — Don't start with features, don't show everything
+- [ ] **Time-based versions** — 5-minute, 10-minute, 20-minute flows
+
+**Guidelines:**
+- Start with a human story, not a feature
+- Let the product breathe — pause, don't rush
+- End with transformation, not a feature list
+- Match the demo to the prospect's persona
+
+*Cross-reference: Document 9 — Visual & Demo Guidance (Section 2: Demo Flow)*
+
+### 4.3 Use Case One-Pagers
+
+**Purpose:** Quick reference documents for specific buyer scenarios.
+
+**Required one-pagers:**
+- [ ] **Individual seller** — BD professionals, account managers
+- [ ] **Founder-led sales** — Solo operators juggling multiple responsibilities
+- [ ] **Relationship-heavy sales** — Consultants, advisors, long-term partnerships
+- [ ] **Long-cycle, high-value deals** — Complex B2B with multiple stakeholders
+
+**Each one-pager includes:**
+- The scenario (who, what, when)
+- The problem before Ten Touches
+- The transformation with Ten Touches
+- Key features that enable the outcome
+- A pull quote or testimonial (when available)
+
+**Guidelines:**
+- One page maximum
+- Lead with empathy, not features
+- Include a clear call to action
+
+*Cross-reference: Document 6 — Use Cases & User Journeys*
+
+### 4.4 Objection Handling Guide
+
+**Purpose:** Equip sales to handle common pushback confidently.
+
+**Required objections:**
+- [ ] "We already have a CRM"
+- [ ] "My team won't use it"
+- [ ] "Sounds like more admin"
+- [ ] "Isn't this just task management?"
+
+**Each objection includes:**
+- Short answer (for quick response)
+- Deeper explanation (for follow-up)
+- Proof point (grounded in product)
+- When to push vs step back
+
+**Guidelines:**
+- Use frameworks, not scripts
+- Acknowledge the concern before reframing
+- Ground in product truth, not promises
+
+*Cross-reference: Document 8 — Objections & FAQ*
+
+### 4.5 Competitive Battlecards
+
+**Purpose:** Handle competitive situations without feature-for-feature selling.
+
+**Required battlecards:**
+- [ ] **vs Traditional CRMs** — Salesforce, HubSpot, Zoho
+- [ ] **vs Lightweight CRMs** — Pipedrive, Close, Copper
+- [ ] **vs Sales Engagement** — Outreach, Salesloft, Apollo
+- [ ] **vs Task Managers** — Todoist, Things, Asana
+
+**Each battlecard includes:**
+- When to use (not every deal)
+- Philosophical difference (not feature comparison)
+- Key differentiation points
+- Traps to avoid
+- Walk-away signals
+
+**Guidelines:**
+- Never name competitors in customer-facing materials
+- Focus on philosophy, not features
+- Know when to walk away confidently
+
+*Cross-reference: Document 10 — Competitive Positioning*
+
+### 4.6 Pricing & Packaging Narrative
+
+**Purpose:** Explain pricing in terms of value, not features.
+
+**Required elements:**
+- [ ] **How to explain pricing** — Value-based framing
+- [ ] **Pricing objection handling** — "Too expensive," "Can I get a discount?"
+- [ ] **Anchoring to outcomes** — What the user gets, not what they pay
+- [ ] **Comparison to alternatives** — Cost of status quo, cost of alternatives
+
+**Guidelines:**
+- Lead with outcome, not price point
+- Never apologise for pricing
+- Frame as investment, not cost
+
+*Note: Specific pricing details should be maintained separately and updated as pricing evolves.*
+
+
+---
+
+## 5. Asset Ownership & Maintenance
+
+### Ownership Matrix
+
+| Asset | Owner | Contributor | Approver |
+|-------|-------|-------------|----------|
+| Product Overview Deck | Marketing | Sales, Product | Marketing Lead |
+| Demo Script | Sales | Product, Marketing | Sales Lead |
+| Use Case One-Pagers | Marketing | Sales | Marketing Lead |
+| Objection Handling | Sales | Marketing, Product | Sales Lead |
+| Competitive Battlecards | Marketing | Sales, Product | Marketing Lead |
+| Pricing Narrative | Sales | Finance, Marketing | Founder/CEO |
+
+### Review Cadence
+
+- **Quarterly review** — All assets reviewed for accuracy and relevance
+- **Triggered review** — After significant product changes, competitive shifts, or feedback patterns
+- **Annual refresh** — Full audit and update of all materials
+
+### Feedback Loop
+
+Sales should provide ongoing feedback to marketing:
+- Which objections are emerging most frequently?
+- Which narratives resonate best?
+- Which assets are being used (or ignored)?
+- Where are deals being won or lost?
+
+This feedback informs asset updates and new content creation.
+
+### Version Control
+
+- Maintain a single source of truth for each asset
+- Date-stamp all versions
+- Archive old versions but don't delete
+- Communicate updates clearly to sales team
+
+
+---
+
+## 6. Internal Enablement & Onboarding
+
+### Onboarding for New Sales Team Members
+
+**Week 1: Foundation**
+- Read Product Overview document (Doc 1)
+- Read Customer Profiles document (Doc 2)
+- Read Value Proposition & Messaging document (Doc 5)
+- Use Ten Touches personally for one week
+
+**Week 2: Deep Dive**
+- Read Features & Capabilities document (Doc 4)
+- Read Use Cases & User Journeys document (Doc 6)
+- Shadow experienced sales conversations
+- Practice demo delivery
+
+**Week 3: Readiness**
+- Read Objections & FAQ document (Doc 8)
+- Read Competitive Positioning document (Doc 10)
+- Deliver practice demo with feedback
+- Handle mock objections
+
+**Week 4: Launch**
+- First live conversations with support
+- Regular check-ins and coaching
+- Feedback on materials and process
+
+### Required Reading List
+
+1. Product Overview (Doc 1)
+2. Customer Profiles (Doc 2)
+3. Value Proposition & Messaging (Doc 5)
+4. Use Cases & User Journeys (Doc 6)
+5. Objections & FAQ (Doc 8)
+6. Visual & Demo Guidance (Doc 9)
+7. Competitive Positioning (Doc 10)
+
+### Readiness Criteria
+
+Before handling independent sales conversations, team members should be able to:
+- [ ] Deliver a 10-minute demo that starts with a human story
+- [ ] Articulate the primary value proposition in 30 seconds
+- [ ] Handle the four core objections confidently
+- [ ] Identify when Ten Touches is not a fit and walk away gracefully
+- [ ] Use Ten Touches personally and speak from experience
+
+
+---
+
+## 7. Metrics for Enablement Effectiveness
+
+Track these metrics to understand whether enablement is working:
+
+### Sales Cycle Metrics
+
+- **Time to first conversation** — How quickly do prospects engage?
+- **Sales cycle length** — Is it getting shorter or longer?
+- **Number of touches to close** — Are we efficient?
+
+### Conversion Metrics
+
+- **Demo-to-trial conversion** — Are demos compelling?
+- **Trial-to-paid conversion** — Is the product delivering on promises?
+- **Win rate** — Are we closing deals we should be winning?
+
+### Objection Metrics
+
+- **Objection frequency** — Which objections come up most?
+- **Objection resolution rate** — Are we handling them effectively?
+- **Lost deal reasons** — Why are we losing when we lose?
+
+### Asset Usage Metrics
+
+- **Which assets are used** — What's helping sales?
+- **Which assets are ignored** — What needs improvement or removal?
+- **Feedback quality** — Are we learning from the field?
+
+### Targets and Benchmarks
+
+*Note: Specific targets should be set based on baseline data and business goals.*
+
+
+---
+
+## 8. What We Do Not Build (By Design)
+
+Ten Touches sales enablement is intentionally lean. We avoid:
+
+### Overly Long Pitch Decks
+
+**Why:** Long decks signal insecurity. If you need 50 slides to explain your product, you don't understand your value proposition.
+
+**Instead:** Maximum 15 slides. Lead with problem and philosophy. Let the product speak.
+
+### Feature Comparison Spreadsheets
+
+**Why:** Feature-for-feature comparison invites commoditisation. We don't win by having more checkboxes.
+
+**Instead:** Narrative comparisons focused on philosophy, behavioural impact, and adoption drivers.
+
+*Cross-reference: Document 10 — Competitive Positioning*
+
+### Scripted Talk Tracks
+
+**Why:** Scripts sound scripted. They remove authenticity and prevent adaptation to the prospect.
+
+**Instead:** Frameworks and narratives that guide conversation without dictating words.
+
+### Heavy Documentation for Its Own Sake
+
+**Why:** More documentation isn't better documentation. Sales teams won't read walls of text.
+
+**Instead:** Concise, actionable materials that can be consumed in minutes, not hours.
+
+### Manipulation Tactics
+
+**Why:** Pressure tactics contradict the relationship-first philosophy. We don't want to trick people into buying.
+
+**Instead:** Honest conversations about fit. Confident walk-aways when it's not right.
+
+
+---
+
+## 9. Alignment With Product & Marketing
+
+Sales enablement must stay aligned with product reality and marketing messaging. No disconnects.
+
+### Alignment With Product
+
+**Principle:** Never promise what the product can't deliver.
+
+**Practices:**
+- Sales reviews significant product changes before launch
+- Demo scripts reference actual screens, not mockups
+- Objection handling is grounded in real capabilities
+- Feature requests flow back to product for prioritisation
+
+### Alignment With Website Messaging
+
+**Principle:** Website and sales conversations should feel like the same company.
+
+**Practices:**
+- Value proposition consistency across all touchpoints
+- Same language, same proof points, same philosophy
+- Website content reviewed against sales feedback
+- Landing pages reflect actual sales narratives
+
+### Alignment With In-App Experience
+
+**Principle:** First use should confirm what sales promised.
+
+**Practices:**
+- Onboarding reinforces sales messaging
+- In-app copy matches external language
+- Feature names are consistent everywhere
+- Help content references sales use cases
+
+### Preventing Disconnects
+
+Common disconnects to watch for:
+- **Overpromising** — Sales claims features that don't exist
+- **Underpromising** — Sales misses key value that product delivers
+- **Language drift** — Different terms in sales vs product vs marketing
+- **Philosophy drift** — Sales slipping into feature-led or pressure tactics
+
+
+---
+
+## 10. Key Takeaway
+
+**The guiding principle for all sales enablement:**
+
+> **Every sales asset should help the prospect understand whether Ten Touches genuinely solves their problem — and feel respected whether they buy or not.**
+
+If an asset doesn't serve this purpose, it doesn't belong.
+
+Sales enablement is not about convincing people to buy things they don't need. It's about:
+- Helping the right people find the right solution
+- Communicating value honestly and clearly
+- Enabling confident decisions — including decisions not to buy
+- Building trust that outlasts any individual transaction
+
+When sales enablement is done right, customers arrive already understanding the value, already trusting the philosophy, and already feeling like Ten Touches was built for them.
+
+That's the goal.
+
+
+---
+
+*Ten Touches: Enablement that respects the relationship.*

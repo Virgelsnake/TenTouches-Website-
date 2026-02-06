@@ -1,0 +1,338 @@
+# Ten Touches – Use Cases & User Journeys
+
+Stories Over Screens
+
+This fuels demos, landing pages, and sales decks.
+
+
+## Introduction
+
+Every feature in Ten Touches exists to solve a real problem in a real moment. This document presents five core use cases — each with a narrative arc that shows the before, during, and after of using Ten Touches.
+
+These stories are designed for:
+- **Demos** — Show prospects their own reality
+- **Landing pages** — Lead with empathy, not features
+- **Sales decks** — Create emotional resonance before feature walkthroughs
+- **Onboarding** — Help new users see themselves in the product
+
+The key to each story: *show the transformation, not just the tool*.
+
+
+---
+
+## Use Case 1: Networking Event Follow-Up
+
+**The scenario:** You attend a conference, meet a dozen interesting people, exchange cards, have great conversations — and then life takes over.
+
+### Before Ten Touches
+
+You leave the event energised. Your pocket is full of business cards. Your head is full of half-remembered conversations.
+
+Then reality hits:
+- Back-to-back meetings the next day
+- A project deadline that can't wait
+- Family commitments that take priority
+
+By the time you sit down to "do the follow-up," three days have passed. You look at a stack of cards and think:
+
+> "Which one was the person who liked cricket? Who had the beagle? Who was interested in the cybersecurity project?"
+
+You spend an hour entering names into your CRM. You write generic follow-up emails that feel hollow. Half the people you met never hear from you again.
+
+The result? Missed opportunities. Wasted effort. Guilt.
+
+### During Ten Touches
+
+At the event, between conversations, you step aside for 30 seconds. You tap the record button and speak:
+
+> "Just met Daniel O'Connor, Director at GreenForge. Supports Man United, has two dogs — Charlie and Buddy. Interested in our cybersecurity audit. Follow up next week with case studies."
+
+The client card is created. The personal details are captured. A reminder is scheduled. You slip your phone back in your pocket and return to the next conversation.
+
+No forms. No fields. No friction.
+
+*Reference: Screenshot 1 — Client Detail Screen (personal information capture)*
+
+### After Ten Touches
+
+Three days later, you open Ten Touches during a quiet moment. Your reminders show three event follow-ups due today — filtered by "Email" because you're at your desk.
+
+Each reminder includes:
+- The person's name and company
+- The personal details you captured
+- The specific opportunity discussed
+- Your own words about what to do next
+
+You write a follow-up that begins:
+
+> "Great to meet you at the conference. How did United do at the weekend? As promised, here are those case studies..."
+
+It takes two minutes. It feels personal. It lands.
+
+*Reference: Screenshot 3 — Reminders Take Action Today (context-rich follow-up)*
+
+### Outcome Achieved
+
+**Without Ten Touches:** 12 business cards → 3 generic follow-ups → 0 meaningful conversations
+
+**With Ten Touches:** 12 voice notes → 12 personalised follow-ups → 4 qualified opportunities → 1 closed deal
+
+The difference isn't the technology. It's the timing. Insight captured in the moment becomes action that matters.
+
+---
+
+## Use Case 2: Founder-Led Sales
+
+**The scenario:** You're a founder running your own sales process while also building product, managing the team, and keeping investors happy. Sales can't be a full-time job, but it can't be ignored either.
+
+### Before Ten Touches
+
+You're juggling everything. Your pipeline lives in:
+- A spreadsheet you update monthly (when you remember)
+- Email threads you search through before calls
+- Your head — which is already at capacity
+
+Every sales conversation starts with a silent scramble:
+
+> "Wait, what did we discuss last time? Did I promise to send something? When was our last call?"
+
+You wing it. Sometimes you get lucky. Sometimes the prospect notices.
+
+Worse: deals slip through the cracks. You discover weeks later that you forgot to follow up on a warm lead. The guilt compounds:
+
+> "I know relationships matter. I just can't keep track of them all."
+
+### During Ten Touches
+
+After each call, you spend 60 seconds with the record button:
+
+> "Spoke to Sarah at TechFlow. She's interested in the enterprise plan but needs board approval. Husband's a keen golfer — mentioned their holiday in Scotland. Follow up in two weeks when she's back from leave."
+
+The opportunity is updated. The personal detail is captured. The reminder is scheduled.
+
+Between meetings, you glance at the Opportunities Dashboard. You see:
+- Three deals at Proposal stage
+- One at Prospect that needs attention
+- Risked revenue that tells you the truth about your pipeline
+
+*Reference: Screenshot 2 — Opportunities Dashboard (pipeline at a glance)*
+
+### After Ten Touches
+
+You walk into every call prepared. You open the client card and in five seconds you know:
+- What stage the deal is at
+- What you discussed last time
+- What makes this person human
+
+Your conversations feel continuous, not transactional. Prospects notice.
+
+You're not doing more sales work — you're doing *smarter* sales work. The relationships stay warm because the system holds the memory you don't have space for.
+
+### Outcome Achieved
+
+**Without Ten Touches:** Founder-led sales = chaos, guilt, missed opportunities
+
+**With Ten Touches:** Founder-led sales = lightweight system, consistent follow-up, deals that close
+
+The founder didn't become a full-time salesperson. They became a *relationship-keeper* with a tool that fits their reality.
+
+---
+
+## Use Case 3: Long Sales Cycles
+
+**The scenario:** You sell high-value services with six-to-twelve-month sales cycles. Deals require multiple stakeholders, budget approvals, and sustained engagement over time.
+
+### Before Ten Touches
+
+Long cycles are brutal on memory. You have a dozen deals at various stages, each with its own timeline, stakeholders, and history.
+
+Traditional CRMs show you a pipeline view, but they don't tell you:
+- When you last touched this deal
+- What kind of engagement has worked
+- Whether momentum is building or stalling
+
+You end up either:
+- Over-contacting (annoying the prospect)
+- Under-contacting (losing momentum)
+
+And when deals stall, you don't know why. Was it price? Timing? A competitor? A stakeholder you didn't reach?
+
+### During Ten Touches
+
+Each opportunity has a clear picture:
+- Total value and risked revenue (so you know what's real)
+- Stage progression (Prospect → Proposal → PO → Paid)
+- Every touch logged with context
+
+*Reference: Screenshot 4 — Opportunity Detail (revenue risking and stage progression)*
+
+You schedule touches at appropriate intervals — not arbitrary "check-in" tasks, but meaningful engagements:
+- A coffee to discuss their strategic priorities
+- An email with relevant case studies
+- A call to address the budget concern they mentioned
+
+The reminder system tells you when to act. The Optimise dashboard tells you *how* to act.
+
+*Reference: Screenshot 5 — Match the Moment (what works at each stage)*
+
+### After Ten Touches
+
+Six months in, you've maintained consistent contact without being pushy. Every touch was:
+- Appropriately timed
+- Contextually relevant
+- Recorded for future reference
+
+When the deal closes, you look back and see the pattern:
+- 14 touches over 7 months
+- Casual check-ins kept the relationship warm
+- A well-timed meeting moved it from Proposal to PO
+
+You've learned something about *how you sell* — not just *what you sold*.
+
+### Outcome Achieved
+
+**Without Ten Touches:** Long cycles = forgotten deals, inconsistent follow-up, lost momentum
+
+**With Ten Touches:** Long cycles = paced engagement, honest pipeline, pattern recognition
+
+The length of the cycle didn't change. The quality of engagement did.
+
+---
+
+## Use Case 4: Relationship Nurturing
+
+**The scenario:** You've won the deal. The client is happy. But the real opportunity isn't over — it's just beginning. Repeat business, referrals, testimonials, and advocacy are where the long-term value lives.
+
+### Before Ten Touches
+
+Once a deal closes, focus shifts to delivery. The relationship enters maintenance mode — which, in practice, often means neglect.
+
+You know you should:
+- Ask for testimonials
+- Request referrals
+- Check in periodically
+- Identify upsell opportunities
+
+But there's no system for it. The client becomes a name in your CRM with a "Closed-Won" tag and a vague promise to "stay in touch."
+
+Months pass. You see their LinkedIn post about a new initiative and think:
+
+> "I should have called them last month."
+
+### During Ten Touches
+
+After the deal closes, you set up a relationship rhythm:
+- Quarterly casual check-in (scheduled as "Casual" touch type)
+- Annual review meeting
+- Reminder to ask for a testimonial after successful delivery
+
+The client card tracks quality signals:
+- Testimonials given (star rating)
+- Referrals made (star rating)
+- Feedback provided (star rating)
+- Repeat business (star rating)
+
+*Reference: Screenshot 1 — Client Quality Scoring (4-star system)*
+
+You glance at the card and instantly see:
+
+> "Strong repeat business, good feedback, but no testimonials yet. Next conversation, I should ask."
+
+### After Ten Touches
+
+Over 18 months, the relationship deepens:
+- Two follow-on projects (tracked as new opportunities)
+- One warm referral (logged and followed up)
+- One testimonial (finally asked, immediately given)
+
+The client feels valued because you *show up consistently* — not just when you want something.
+
+### Outcome Achieved
+
+**Without Ten Touches:** Closed deals → forgotten clients → missed lifetime value
+
+**With Ten Touches:** Closed deals → nurtured relationships → referrals, repeat business, advocacy
+
+The sale wasn't the end. It was the start of a compounding relationship.
+
+---
+
+## Use Case 5: Daily Execution Mode
+
+**The scenario:** It's 10am on a Tuesday. You have an hour before your next meeting. What should you do?
+
+### Before Ten Touches
+
+You open your task manager. There's a list of "follow-ups" — undifferentiated, unprioritised, and uninspiring.
+
+You think:
+- "I should make some calls, but I'm not in the right headspace"
+- "I could send emails, but which ones are most important?"
+- "Maybe I'll just check email and see what's urgent"
+
+An hour passes. You've responded to inbound requests but made no proactive progress. The follow-up list remains untouched.
+
+This pattern repeats daily. Reactive work crowds out relationship-building. You're busy, but not effective.
+
+### During Ten Touches
+
+You open the Reminders screen. The header says: **"Take Action Today."**
+
+You see the action filter bar:
+- All | SMS | Phone Call | Email | Meeting | LinkedIn | Casual
+
+*Reference: Screenshot 3 — GTD-style action filtering*
+
+You ask yourself: *"What do I feel like doing right now?"*
+
+You're at your desk with 30 minutes. You tap **Email**.
+
+The list narrows instantly. Three email follow-ups appear, each with:
+- Client name
+- Associated opportunity
+- The reason for the follow-up (your own words)
+- The due date
+
+You knock out all three in 20 minutes.
+
+Later, you're in the car between meetings. You tap **Phone Call**. Two calls appear. You make them both while driving.
+
+### After Ten Touches
+
+By 5pm, you've completed:
+- 3 emails
+- 2 calls
+- 1 SMS
+- 1 casual check-in over coffee
+
+None of this felt like "CRM admin." It felt like *getting things done*.
+
+The action filtering matched your work to your energy. The reminders carried context so you didn't have to reconstruct intent. The result was momentum without resistance.
+
+### Outcome Achieved
+
+**Without Ten Touches:** Scattered to-dos → decision fatigue → reactive work → guilt
+
+**With Ten Touches:** Contextual actions → matched energy → proactive progress → momentum
+
+You didn't work harder. You worked *in flow*.
+
+---
+
+## Summary: Stories That Sell
+
+Each use case demonstrates a transformation:
+
+| Use Case | Without Ten Touches | With Ten Touches |
+|----------|---------------------|------------------|
+| Networking Follow-Up | Forgotten details, generic emails | Personalised follow-ups, warm conversations |
+| Founder-Led Sales | Chaotic pipeline, missed opportunities | Lightweight system, consistent engagement |
+| Long Sales Cycles | Lost momentum, stalled deals | Paced touches, pattern recognition |
+| Relationship Nurturing | Neglected clients, missed lifetime value | Repeat business, referrals, advocacy |
+| Daily Execution | Decision fatigue, reactive work | Context-matched actions, momentum |
+
+These are the stories your prospects are living. Show them you understand — and then show them the way out.
+
+---
+
+*Ten Touches: Real stories. Real relationships. Real results.*
