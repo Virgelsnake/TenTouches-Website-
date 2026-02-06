@@ -43,12 +43,6 @@ export function HeroSection() {
                 >
                   Join Beta
                 </a>
-                <a
-                  href="#features"
-                  className="inline-flex items-center justify-center rounded-full border border-white/10 bg-white/5 px-8 py-4 text-base font-medium text-white/80 transition-all hover:bg-white/10 hover:text-white"
-                >
-                  See the App
-                </a>
               </div>
             </Reveal>
           </div>
@@ -74,7 +68,7 @@ export function HeroSection() {
               </div>
 
               {/* Back-right phone */}
-              <div className="absolute -right-4 sm:right-4 lg:-right-8 top-8 w-[180px] sm:w-[200px] opacity-60 rotate-6 float-slow hidden sm:block">
+              <div className="absolute right-0 sm:right-8 lg:right-4 top-8 w-[180px] sm:w-[200px] opacity-60 rotate-6 float-slow hidden sm:block">
                 <IPhoneMockup
                   src="/screenshots/client-detail.png"
                   alt="Ten Touches client detail screen with relationship data"

@@ -1691,6 +1691,11 @@
       right: calc(var(--spacing) * 4);
     }
   }
+  .sm\:right-8 {
+    @media (width >= 40rem) {
+      right: calc(var(--spacing) * 8);
+    }
+  }
   .sm\:left-4 {
     @media (width >= 40rem) {
       left: calc(var(--spacing) * 4);
@@ -1815,6 +1820,11 @@
   .lg\:-right-8 {
     @media (width >= 64rem) {
       right: calc(var(--spacing) * -8);
+    }
+  }
+  .lg\:right-4 {
+    @media (width >= 64rem) {
+      right: calc(var(--spacing) * 4);
     }
   }
   .lg\:-left-8 {
