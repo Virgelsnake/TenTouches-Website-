@@ -33,7 +33,7 @@ const TOUCH_TYPES = [
 
 export function MethodologySection() {
   // Wider scroll range = slower fill (~75% slower than before)
-  const { ref, progress } = useScrollProgress(0.95, -0.3);
+  const { ref, progress } = useScrollProgress(0.95, 0.0);
 
   const touchCount = Math.round(progress * 10);
 
@@ -48,7 +48,7 @@ export function MethodologySection() {
       {/* Large decorative background ring — 60% opacity, bleeding off left edge */}
       <BackgroundRing progress={progress} />
 
-      <div className="relative mx-auto max-w-7xl px-6">
+      <div className="relative z-30 mx-auto max-w-7xl px-6">
         {/* Phone screenshot + ring layout */}
         <div className="grid lg:grid-cols-2 gap-16 lg:gap-20 items-center">
           {/* Touch register screenshot (primary) with smaller ring overlaid */}
