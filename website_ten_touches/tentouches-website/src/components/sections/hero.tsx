@@ -68,7 +68,7 @@ export function HeroSection() {
               </div>
 
               {/* Back-right phone */}
-              <div className="absolute right-0 sm:right-8 lg:right-4 top-8 w-[180px] sm:w-[200px] opacity-60 rotate-6 float-slow hidden sm:block">
+              <div className="absolute -right-20 sm:-right-12 lg:-right-28 top-8 w-[180px] sm:w-[200px] opacity-75 rotate-6 float-slow hidden sm:block">
                 <IPhoneMockup
                   src="/screenshots/client-detail.png"
                   alt="Ten Touches client detail screen with relationship data"
