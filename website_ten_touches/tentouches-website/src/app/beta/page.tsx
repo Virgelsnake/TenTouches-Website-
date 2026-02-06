@@ -14,6 +14,7 @@ export default function BetaPage() {
 
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
+  const [mobile, setMobile] = useState("");
   const [submitted, setSubmitted] = useState(false);
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState("");
@@ -36,7 +37,7 @@ export default function BetaPage() {
       const res = await fetch("/.netlify/functions/submit-beta", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ name, email }),
+        body: JSON.stringify({ name, email, mobile }),
       });
 
       if (!res.ok) {
@@ -52,6 +53,7 @@ export default function BetaPage() {
       formData.append("form-name", "beta-signup");
       formData.append("name", name);
       formData.append("email", email);
+      formData.append("mobile", mobile);
       fetch("/", {
         method: "POST",
         headers: { "Content-Type": "application/x-www-form-urlencoded" },
@@ -74,6 +76,7 @@ export default function BetaPage() {
       <form name="beta-signup" data-netlify="true" netlify-honeypot="bot-field" hidden>
         <input type="text" name="name" />
         <input type="email" name="email" />
+        <input type="tel" name="mobile" />
         <input type="text" name="bot-field" />
       </form>
 
@@ -208,6 +211,21 @@ export default function BetaPage() {
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
                   placeholder="you@example.com"
+                  className="w-full rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-white placeholder:text-white/25 outline-none focus:border-tt-cyan/50 focus:ring-1 focus:ring-tt-cyan/30 transition-colors"
+                />
+              </div>
+
+              <div>
+                <label htmlFor="beta-mobile" className="block text-sm font-medium text-white/70 mb-2">
+                  Mobile Number <span className="text-white/30">(optional)</span>
+                </label>
+                <input
+                  id="beta-mobile"
+                  name="mobile"
+                  type="tel"
+                  value={mobile}
+                  onChange={(e) => setMobile(e.target.value)}
+                  placeholder="+44 7700 900000"
                   className="w-full rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-white placeholder:text-white/25 outline-none focus:border-tt-cyan/50 focus:ring-1 focus:ring-tt-cyan/30 transition-colors"
                 />
               </div>

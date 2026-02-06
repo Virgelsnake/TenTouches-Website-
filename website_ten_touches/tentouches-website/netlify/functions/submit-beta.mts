@@ -1,5 +1,6 @@
 import type { Context } from "@netlify/functions";
 import { getStore } from "@netlify/blobs";
+import { createClient } from "@supabase/supabase-js";
 
 const STORE_NAME = "beta-signups";
 const COUNTER_KEY = "signup-counter";
@@ -14,7 +15,7 @@ const handler = async (req: Request, _context: Context) => {
 
   try {
     const body = await req.json();
-    const { name, email } = body as { name: string; email: string };
+    const { name, email, mobile } = body as { name: string; email: string; mobile?: string };
 
     if (!name || !email) {
       return new Response(
@@ -38,8 +39,22 @@ const handler = async (req: Request, _context: Context) => {
     await store.setJSON(signupKey, {
       name,
       email,
+      mobile: mobile || null,
       timestamp: new Date().toISOString(),
     });
+
+    // Write to Supabase
+    const supabaseUrl = process.env.SUPABASE_URL;
+    const supabaseKey = process.env.SUPABASE_ANON_KEY;
+    if (supabaseUrl && supabaseKey) {
+      const supabase = createClient(supabaseUrl, supabaseKey);
+      const { error: sbError } = await supabase
+        .from("beta_signups")
+        .upsert({ name, email, mobile: mobile || null }, { onConflict: "email" });
+      if (sbError) {
+        console.error("Supabase insert error:", sbError.message);
+      }
+    }
 
     return new Response(
       JSON.stringify({ success: true, count: newCount }),
