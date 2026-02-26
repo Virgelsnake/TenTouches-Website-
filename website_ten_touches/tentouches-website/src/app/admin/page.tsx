@@ -14,7 +14,7 @@ interface Signup {
 
 export default function AdminPage() {
   const [signups, setSignups] = useState<Signup[]>([]);
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
   const [password, setPassword] = useState("");
   const [authenticated, setAuthenticated] = useState(false);
@@ -22,6 +22,7 @@ export default function AdminPage() {
 
   async function handleLogin(e: React.FormEvent) {
     e.preventDefault();
+    if (loading || !password) return;
     await fetchSignups(password);
   }
 
@@ -30,11 +31,17 @@ export default function AdminPage() {
     setError("");
 
     try {
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 8000);
+
       const res = await fetch("/.netlify/functions/admin-signups", {
         headers: {
           "X-Admin-Password": pass,
         },
+        signal: controller.signal,
       });
+
+      clearTimeout(timeoutId);
 
       if (res.status === 401) {
         setError("Invalid password");
@@ -43,14 +50,18 @@ export default function AdminPage() {
       }
 
       if (!res.ok) {
-        throw new Error("Failed to fetch signups");
+        throw new Error(`Server error: ${res.status}`);
       }
 
       const data = await res.json();
       setSignups(data.signups);
       setAuthenticated(true);
     } catch (err) {
-      setError(err instanceof Error ? err.message : "Something went wrong");
+      if (err instanceof Error && err.name === "AbortError") {
+        setError("Request timed out. Please try again.");
+      } else {
+        setError(err instanceof Error ? err.message : "Something went wrong");
+      }
     } finally {
       setLoading(false);
     }
@@ -142,7 +153,8 @@ export default function AdminPage() {
                       value={password}
                       onChange={(e) => setPassword(e.target.value)}
                       placeholder="Enter admin password"
-                      className="w-full rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-white placeholder:text-white/25 outline-none focus:border-tt-cyan/50 focus:ring-1 focus:ring-tt-cyan/30 transition-colors"
+                      disabled={loading}
+                      className="w-full rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-white placeholder:text-white/25 outline-none focus:border-tt-cyan/50 focus:ring-1 focus:ring-tt-cyan/30 transition-colors disabled:opacity-50"
                     />
                   </div>
 
@@ -155,7 +167,17 @@ export default function AdminPage() {
                     disabled={loading || !password}
                     className="w-full rounded-full bg-gradient-to-r from-tt-cyan to-tt-indigo px-8 py-4 text-base font-semibold text-white shadow-lg shadow-tt-cyan/25 transition-all hover:shadow-xl hover:shadow-tt-cyan/35 hover:scale-[1.02] active:scale-[0.98] disabled:opacity-60 disabled:pointer-events-none"
                   >
-                    {loading ? "Verifying..." : "Access Dashboard"}
+                    {loading ? (
+                      <span className="flex items-center justify-center gap-2">
+                        <svg className="animate-spin h-5 w-5" viewBox="0 0 24 24">
+                          <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" fill="none" />
+                          <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z" />
+                        </svg>
+                        Verifying...
+                      </span>
+                    ) : (
+                      "Access Dashboard"
+                    )}
                   </button>
                 </form>
               </div>
