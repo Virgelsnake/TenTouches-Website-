@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 
@@ -10,6 +10,8 @@ interface Signup {
   email: string;
   mobile: string | null;
   timestamp: string;
+  archived?: boolean;
+  archivedAt?: string;
 }
 
 export default function AdminPage() {
@@ -19,14 +21,10 @@ export default function AdminPage() {
   const [password, setPassword] = useState("");
   const [authenticated, setAuthenticated] = useState(false);
   const [filter, setFilter] = useState("");
+  const [showArchived, setShowArchived] = useState(false);
+  const [deleting, setDeleting] = useState<string | null>(null);
 
-  async function handleLogin(e: React.FormEvent) {
-    e.preventDefault();
-    if (loading || !password) return;
-    await fetchSignups(password);
-  }
-
-  async function fetchSignups(pass: string) {
+  const fetchSignups = useCallback(async (pass: string, archived = false) => {
     setLoading(true);
     setError("");
 
@@ -34,7 +32,8 @@ export default function AdminPage() {
       const controller = new AbortController();
       const timeoutId = setTimeout(() => controller.abort(), 8000);
 
-      const res = await fetch("/.netlify/functions/admin-signups", {
+      const url = `/.netlify/functions/admin-signups${archived ? "?archived=true" : ""}`;
+      const res = await fetch(url, {
         headers: {
           "X-Admin-Password": pass,
         },
@@ -65,24 +64,90 @@ export default function AdminPage() {
     } finally {
       setLoading(false);
     }
+  }, []);
+
+  async function handleLogin(e: React.FormEvent) {
+    e.preventDefault();
+    if (loading || !password) return;
+    await fetchSignups(password, showArchived);
+  }
+
+  async function handleDelete(key: string) {
+    if (!confirm("Are you sure you want to archive this signup? It will be moved to the archive.")) {
+      return;
+    }
+
+    setDeleting(key);
+    setError("");
+
+    try {
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 8000);
+
+      const res = await fetch("/.netlify/functions/admin-signups", {
+        method: "DELETE",
+        headers: {
+          "Content-Type": "application/json",
+          "X-Admin-Password": password,
+        },
+        body: JSON.stringify({ key }),
+        signal: controller.signal,
+      });
+
+      clearTimeout(timeoutId);
+
+      if (!res.ok) {
+        const data = await res.json().catch(() => ({ error: "Unknown error" }));
+        throw new Error(data.error || "Failed to archive");
+      }
+
+      // Remove from list
+      setSignups((prev) => prev.filter((s) => s.key !== key));
+    } catch (err) {
+      if (err instanceof Error && err.name === "AbortError") {
+        setError("Delete request timed out.");
+      } else {
+        setError(err instanceof Error ? err.message : "Failed to archive signup");
+      }
+    } finally {
+      setDeleting(null);
+    }
+  }
+
+  function toggleArchivedView() {
+    const newValue = !showArchived;
+    setShowArchived(newValue);
+    if (authenticated) {
+      fetchSignups(password, newValue);
+    }
   }
 
   function exportCSV() {
-    const headers = ["Name", "Email", "Mobile", "Date"];
-    const rows = signups.map((s) => [
-      s.name,
-      s.email,
-      s.mobile || "",
-      new Date(s.timestamp).toLocaleString("en-GB"),
-    ]);
+    const headers = showArchived 
+      ? ["Name", "Email", "Mobile", "Date", "Archived Date"]
+      : ["Name", "Email", "Mobile", "Date"];
+    
+    const rows = signups.map((s) => {
+      const base = [
+        s.name,
+        s.email,
+        s.mobile || "",
+        new Date(s.timestamp).toLocaleString("en-GB"),
+      ];
+      if (showArchived) {
+        base.push(s.archivedAt ? new Date(s.archivedAt).toLocaleString("en-GB") : "");
+      }
+      return base;
+    });
 
-    const csv = [headers.join(","), ...rows.map((r) => r.map((cell) => `"${cell.replace(/"/g, '""')}"`).join(","))].join("\n");
+    const csv = [headers.join(","), ...rows.map((r) => r.map((cell) => `"${String(cell).replace(/"/g, '""')}"`).join(","))].join("\n");
 
     const blob = new Blob([csv], { type: "text/csv" });
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
     a.href = url;
-    a.download = `tentouches-signups-${new Date().toISOString().split("T")[0]}.csv`;
+    const suffix = showArchived ? "-archived" : "";
+    a.download = `tentouches-signups${suffix}-${new Date().toISOString().split("T")[0]}.csv`;
     a.click();
     URL.revokeObjectURL(url);
   }
@@ -188,31 +253,56 @@ export default function AdminPage() {
               <div className="flex flex-col md:flex-row md:items-center justify-between gap-6 mb-8">
                 <div>
                   <h1 className="text-3xl font-bold text-white mb-2">
-                    Beta <span className="gradient-text">Signups</span>
+                    {showArchived ? (
+                      <>
+                        Archived <span className="gradient-text">Signups</span>
+                      </>
+                    ) : (
+                      <>
+                        Beta <span className="gradient-text">Signups</span>
+                      </>
+                    )}
                   </h1>
                   <p className="text-white/50">
-                    Manage and export your early access list.
+                    {showArchived 
+                      ? "View and manage archived signups."
+                      : "Manage and export your early access list."}
                   </p>
                 </div>
-                <button
-                  onClick={exportCSV}
-                  className="inline-flex items-center justify-center gap-2 rounded-full border border-white/10 bg-white/5 px-6 py-3 text-sm font-medium text-white/80 transition-all hover:bg-white/10 hover:text-white"
-                >
-                  <svg
-                    className="w-4 h-4"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                    strokeWidth={2}
+                <div className="flex flex-wrap gap-3">
+                  <button
+                    onClick={toggleArchivedView}
+                    className={`inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 text-sm font-medium transition-all ${
+                      showArchived
+                        ? "bg-tt-cyan/20 text-tt-cyan border border-tt-cyan/30"
+                        : "border border-white/10 bg-white/5 text-white/80 hover:bg-white/10"
+                    }`}
                   >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"
-                    />
-                  </svg>
-                  Export CSV
-                </button>
+                    <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                      <path strokeLinecap="round" strokeLinejoin="round" d="M5 8h14M5 8a2 2 0 110-4h14a2 2 0 110 4M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8m-9 4h4" />
+                    </svg>
+                    {showArchived ? "View Active" : "View Archive"}
+                  </button>
+                  <button
+                    onClick={exportCSV}
+                    className="inline-flex items-center justify-center gap-2 rounded-full border border-white/10 bg-white/5 px-6 py-3 text-sm font-medium text-white/80 transition-all hover:bg-white/10 hover:text-white"
+                  >
+                    <svg
+                      className="w-4 h-4"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      stroke="currentColor"
+                      strokeWidth={2}
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"
+                      />
+                    </svg>
+                    Export CSV
+                  </button>
+                </div>
               </div>
 
               {/* Stats */}
@@ -246,6 +336,13 @@ export default function AdminPage() {
                 />
               </div>
 
+              {/* Error message */}
+              {error && (
+                <div className="mb-6 p-4 rounded-xl bg-tt-error/10 border border-tt-error/20">
+                  <p className="text-sm text-tt-error">{error}</p>
+                </div>
+              )}
+
               {/* Signups Table */}
               {loading ? (
                 <div className="glass-card p-12 rounded-2xl text-center">
@@ -255,7 +352,7 @@ export default function AdminPage() {
               ) : filteredSignups.length === 0 ? (
                 <div className="glass-card p-12 rounded-2xl text-center">
                   <p className="text-white/50">
-                    {filter ? "No signups match your search." : "No signups yet."}
+                    {filter ? "No signups match your search." : showArchived ? "No archived signups." : "No signups yet."}
                   </p>
                 </div>
               ) : (
@@ -276,6 +373,16 @@ export default function AdminPage() {
                           <th className="text-left text-sm font-medium text-white/50 px-6 py-4">
                             Date
                           </th>
+                          {showArchived && (
+                            <th className="text-left text-sm font-medium text-white/50 px-6 py-4">
+                              Archived
+                            </th>
+                          )}
+                          {!showArchived && (
+                            <th className="text-right text-sm font-medium text-white/50 px-6 py-4">
+                              Actions
+                            </th>
+                          )}
                         </tr>
                       </thead>
                       <tbody>
@@ -314,6 +421,39 @@ export default function AdminPage() {
                                 year: "numeric",
                               })}
                             </td>
+                            {showArchived && (
+                              <td className="px-6 py-4 text-white/50 text-sm">
+                                {signup.archivedAt
+                                  ? new Date(signup.archivedAt).toLocaleDateString("en-GB", {
+                                      day: "numeric",
+                                      month: "short",
+                                      year: "numeric",
+                                    })
+                                  : "—"}
+                              </td>
+                            )}
+                            {!showArchived && (
+                              <td className="px-6 py-4 text-right">
+                                <button
+                                  onClick={() => handleDelete(signup.key)}
+                                  disabled={deleting === signup.key}
+                                  className="inline-flex items-center gap-1.5 px-3 py-1.5 text-sm text-white/60 hover:text-tt-error transition-colors rounded-lg hover:bg-tt-error/10"
+                                  title="Archive this signup"
+                                >
+                                  {deleting === signup.key ? (
+                                    <svg className="animate-spin h-4 w-4" viewBox="0 0 24 24">
+                                      <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" fill="none" />
+                                      <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z" />
+                                    </svg>
+                                  ) : (
+                                    <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                                      <path strokeLinecap="round" strokeLinejoin="round" d="M5 8h14M5 8a2 2 0 110-4h14a2 2 0 110 4M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8m-9 4h4" />
+                                    </svg>
+                                  )}
+                                  {deleting === signup.key ? "Archiving..." : "Archive"}
+                                </button>
+                              </td>
+                            )}
                           </tr>
                         ))}
                       </tbody>
