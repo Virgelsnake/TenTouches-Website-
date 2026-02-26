@@ -26,19 +26,44 @@ const handler = async (req: Request, _context: Context) => {
 
     const store = getStore({ name: STORE_NAME, consistency: "strong" });
 
-    // Get current counter value (default to 1 if not set)
-    const currentRaw = await store.get(COUNTER_KEY, { type: "text" });
-    const currentCount = currentRaw ? parseInt(currentRaw, 10) : 1;
+    // Check for duplicate email by listing existing signups
+    const { blobs } = await store.list({ prefix: "signup-" });
+    const normalizedEmail = email.toLowerCase().trim();
+    
+    for (const blob of blobs) {
+      try {
+        const existing = await store.get(blob.key, { type: "json" }) as { email?: string };
+        if (existing?.email?.toLowerCase().trim() === normalizedEmail) {
+          // Email already exists - return success but don't increment counter
+          return new Response(
+            JSON.stringify({ success: true, count: await store.get(COUNTER_KEY, { type: "text" }).then(v => parseInt(v || "1", 10)), message: "Already signed up" }),
+            { status: 200, headers: { "Content-Type": "application/json" } }
+          );
+        }
+      } catch (e) {
+        // Continue checking other entries
+      }
+    }
 
-    // Multiply by 10
-    const newCount = currentCount * 10;
+    // Get current counter value (default to realistic base if not set)
+    const currentRaw = await store.get(COUNTER_KEY, { type: "text" });
+    let currentCount = currentRaw ? parseInt(currentRaw, 10) : 42;
+    
+    // Reset if counter has grown unreasonably large (previous bug)
+    if (currentCount > 10000) {
+      currentCount = 50; // Reset to realistic number
+    }
+
+    // Add random increment (1-3) for organic growth feel
+    const increment = Math.floor(Math.random() * 3) + 1;
+    const newCount = currentCount + increment;
     await store.set(COUNTER_KEY, newCount.toString());
 
     // Store the signup entry with timestamp
     const signupKey = `signup-${Date.now()}-${email.replace(/[^a-zA-Z0-9]/g, "_")}`;
     await store.setJSON(signupKey, {
       name,
-      email,
+      email: normalizedEmail,
       mobile: mobile || null,
       timestamp: new Date().toISOString(),
     });
