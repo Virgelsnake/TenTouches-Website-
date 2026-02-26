@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { useState, useEffect, type FormEvent } from "react";
+import { useState, useEffect, useCallback, type FormEvent } from "react";
 import { ProgressRing } from "@/components/progress-ring";
 import { useScrollProgress } from "@/hooks/use-scroll-progress";
 import { Header } from "@/components/header";
@@ -19,54 +19,114 @@ export default function BetaPage() {
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState("");
   const [signupCount, setSignupCount] = useState<number | null>(null);
+  const [debugInfo, setDebugInfo] = useState<string>("");
 
   // Fetch current counter on mount
   useEffect(() => {
     fetch("/.netlify/functions/get-counter")
-      .then((res) => res.json())
+      .then((res) => {
+        if (!res.ok) throw new Error(`Counter API error: ${res.status}`);
+        return res.json();
+      })
       .then((data) => setSignupCount(data.count))
-      .catch(() => setSignupCount(1));
+      .catch((err) => {
+        console.error("Failed to fetch counter:", err);
+        setSignupCount(1);
+      });
   }, []);
 
-  async function handleSubmit(e: FormEvent) {
+  // Safety timeout to reset submitting state if it gets stuck
+  useEffect(() => {
+    if (!submitting) return;
+    
+    const timeout = setTimeout(() => {
+      console.warn("Submit timeout triggered - resetting state");
+      setSubmitting(false);
+      setError("Request timed out. Please try again.");
+    }, 10000); // 10 second timeout
+
+    return () => clearTimeout(timeout);
+  }, [submitting]);
+
+  const handleSubmit = useCallback(async (e: FormEvent) => {
     e.preventDefault();
+    
+    // Prevent double submission
+    if (submitting) {
+      console.log("Already submitting, ignoring click");
+      return;
+    }
+
     setSubmitting(true);
     setError("");
+    setDebugInfo("Starting submission...");
 
     try {
+      console.log("Submitting signup:", { name, email, mobile: mobile || null });
+      setDebugInfo("Sending request to API...");
+
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 8000); // 8 second fetch timeout
+
       const res = await fetch("/.netlify/functions/submit-beta", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ name, email, mobile }),
+        signal: controller.signal,
       });
 
+      clearTimeout(timeoutId);
+
+      console.log("API response status:", res.status);
+      setDebugInfo(`API responded: ${res.status}`);
+
       if (!res.ok) {
-        const data = await res.json();
-        throw new Error(data.error || "Something went wrong");
+        const data = await res.json().catch(() => ({ error: "Unknown error" }));
+        throw new Error(data.error || `Server error: ${res.status}`);
       }
 
       const data = await res.json();
+      console.log("API response data:", data);
+      setDebugInfo("Success!");
+
       setSignupCount(data.count);
-
-      // Also submit to Netlify Forms for email notification
-      const formData = new URLSearchParams();
-      formData.append("form-name", "beta-signup");
-      formData.append("name", name);
-      formData.append("email", email);
-      formData.append("mobile", mobile);
-      fetch("/", {
-        method: "POST",
-        headers: { "Content-Type": "application/x-www-form-urlencoded" },
-        body: formData.toString(),
-      }).catch(() => { /* silent — primary submission already succeeded */ });
-
       setSubmitted(true);
+      
+      // Fire-and-forget Netlify Forms submission (for notifications)
+      try {
+        const formData = new URLSearchParams();
+        formData.append("form-name", "beta-signup");
+        formData.append("name", name);
+        formData.append("email", email);
+        formData.append("mobile", mobile);
+        fetch("/", {
+          method: "POST",
+          headers: { "Content-Type": "application/x-www-form-urlencoded" },
+          body: formData.toString(),
+        }).catch(() => { /* silent */ });
+      } catch {
+        // Ignore Netlify Forms errors
+      }
     } catch (err) {
-      setError(err instanceof Error ? err.message : "Something went wrong. Please try again.");
+      console.error("Submission error:", err);
+      
+      if (err instanceof Error) {
+        if (err.name === "AbortError") {
+          setError("Request timed out. Please check your connection and try again.");
+          setDebugInfo("Fetch was aborted due to timeout");
+        } else {
+          setError(err.message);
+          setDebugInfo(`Error: ${err.message}`);
+        }
+      } else {
+        setError("Something went wrong. Please try again.");
+        setDebugInfo("Unknown error occurred");
+      }
     } finally {
+      console.log("Submission complete, resetting state");
       setSubmitting(false);
     }
-  }
+  }, [name, email, mobile, submitting]);
 
   return (
     <>
@@ -195,7 +255,8 @@ export default function BetaPage() {
                   value={name}
                   onChange={(e) => setName(e.target.value)}
                   placeholder="Your name"
-                  className="w-full rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-white placeholder:text-white/25 outline-none focus:border-tt-cyan/50 focus:ring-1 focus:ring-tt-cyan/30 transition-colors"
+                  disabled={submitting}
+                  className="w-full rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-white placeholder:text-white/25 outline-none focus:border-tt-cyan/50 focus:ring-1 focus:ring-tt-cyan/30 transition-colors disabled:opacity-50"
                 />
               </div>
 
@@ -211,7 +272,8 @@ export default function BetaPage() {
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
                   placeholder="you@example.com"
-                  className="w-full rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-white placeholder:text-white/25 outline-none focus:border-tt-cyan/50 focus:ring-1 focus:ring-tt-cyan/30 transition-colors"
+                  disabled={submitting}
+                  className="w-full rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-white placeholder:text-white/25 outline-none focus:border-tt-cyan/50 focus:ring-1 focus:ring-tt-cyan/30 transition-colors disabled:opacity-50"
                 />
               </div>
 
@@ -226,20 +288,38 @@ export default function BetaPage() {
                   value={mobile}
                   onChange={(e) => setMobile(e.target.value)}
                   placeholder="+44 7700 900000"
-                  className="w-full rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-white placeholder:text-white/25 outline-none focus:border-tt-cyan/50 focus:ring-1 focus:ring-tt-cyan/30 transition-colors"
+                  disabled={submitting}
+                  className="w-full rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-white placeholder:text-white/25 outline-none focus:border-tt-cyan/50 focus:ring-1 focus:ring-tt-cyan/30 transition-colors disabled:opacity-50"
                 />
               </div>
 
               {error && (
-                <p className="text-sm text-tt-error text-center">{error}</p>
+                <div className="p-3 rounded-lg bg-tt-error/10 border border-tt-error/20">
+                  <p className="text-sm text-tt-error text-center">{error}</p>
+                </div>
+              )}
+
+              {/* Debug info - remove in production */}
+              {debugInfo && (
+                <p className="text-xs text-white/30 text-center font-mono">{debugInfo}</p>
               )}
 
               <button
                 type="submit"
-                disabled={submitting}
-                className="w-full rounded-full bg-gradient-to-r from-tt-cyan to-tt-indigo px-8 py-4 text-base font-semibold text-white shadow-lg shadow-tt-cyan/25 transition-all hover:shadow-xl hover:shadow-tt-cyan/35 hover:scale-[1.02] active:scale-[0.98] disabled:opacity-60 disabled:pointer-events-none"
+                disabled={submitting || !name || !email}
+                className="w-full rounded-full bg-gradient-to-r from-tt-cyan to-tt-indigo px-8 py-4 text-base font-semibold text-white shadow-lg shadow-tt-cyan/25 transition-all hover:shadow-xl hover:shadow-tt-cyan/35 hover:scale-[1.02] active:scale-[0.98] disabled:opacity-60 disabled:pointer-events-none disabled:hover:scale-100"
               >
-                {submitting ? "Submitting…" : "Request Early Access"}
+                {submitting ? (
+                  <span className="flex items-center justify-center gap-2">
+                    <svg className="animate-spin h-5 w-5" viewBox="0 0 24 24">
+                      <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" fill="none" />
+                      <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z" />
+                    </svg>
+                    Submitting…
+                  </span>
+                ) : (
+                  "Request Early Access"
+                )}
               </button>
 
               <p className="text-xs text-white/25 text-center pt-1">
